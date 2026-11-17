@@ -6,8 +6,21 @@
 import json
 import requests
 
+import sys
+
+
+def verifie(r, etape):
+    """Affiche le statut et un extrait de la réponse, puis s'arrête si erreur."""
+    print(f"[{etape}] HTTP {r.status_code}, {len(r.content)} octets")
+    if not r.ok:
+        print("Début de la réponse:", r.text[:500].replace("\n", " "))
+        sys.exit(1)
+
+
 session = requests.Session()
-session.get("https://www.migros.ch/fr", timeout=30)
+verifie(session.get("https://www.migros.ch/fr", timeout=30,
+                    headers={"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}),
+        "page d'accueil")
 
 headers = {
     "accept": "application/json, text/plain, */*",
@@ -24,8 +37,9 @@ payload_search = {
     "from": 0, "until": 300, "region": "national", "warehouse": "1",
 }
 res = session.post(url_search, json=payload_search, headers=headers, timeout=30)
-res.raise_for_status()
+verifie(res, "recherche des actions")
 res = res.json()
+print("Clés de la réponse:", list(res.keys()))
 ids = [i["id"] for i in res.get("items", [])]
 print(f"{len(ids)} actions trouvées")
 
@@ -38,7 +52,7 @@ for i in range(0, len(ids), 50):
         "productFilter": {"uids": ids[i:i + 50]},
     }
     r = session.post(url_cards, json=payload, headers=headers, timeout=30)
-    r.raise_for_status()
+    verifie(r, f"détails {i}-{i + 50}")
     cards.extend(r.json())
 
 with open("migros_brut.json", "w", encoding="utf-8") as f:

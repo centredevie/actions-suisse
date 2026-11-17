@@ -1,0 +1,965 @@
+[
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "LYTTOS - Olives géantes grecques",
+    "qty": "850 g",
+    "price": 7.64,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GRANDE ALBERONE - Grande Alberone",
+    "qty": "1,5 l",
+    "price": 9.99,
+    "old": null,
+    "valid": "CHF 14.99¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "STORCK - Barres aux noix Knoppers Pack XXL",
+    "qty": "375 g",
+    "price": 1.28,
+    "old": 4.79,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BELLASAN - Huile de tournesol",
+    "qty": "2 l",
+    "price": 3.4,
+    "old": 6.79,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "HAPPY HARVEST - Dattes Medjoul XXL",
+    "qty": "",
+    "price": 9.49,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "HAPPY HARVEST - Cernaux de noix XXL",
+    "qty": "500 g",
+    "price": 0.98,
+    "old": 4.89,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Surgelés",
+    "name": "Au rayon surgelés - GOLDEN SEAFOOD",
+    "qty": "500 g",
+    "price": 9.69,
+    "old": null,
+    "valid": "(CHF 19.38/1 kg)"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BARILLA - Penne rigate",
+    "qty": "2,5 kg",
+    "price": 2.36,
+    "old": 5.89,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "CERVEJA SAGRES - Sagres Bière",
+    "qty": "330 ml",
+    "price": 2.03,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - MINI BABYBEL",
+    "qty": "396 g",
+    "price": 1.49,
+    "old": 5.89,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - FOL EPI",
+    "qty": "300 g",
+    "price": 1.66,
+    "old": 4.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BARILLA - Sauce Napoletana",
+    "qty": "1,2 kg",
+    "price": 4.83,
+    "old": 5.79,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "MULINO BIANCO - Pan Goccioli",
+    "qty": "336 g",
+    "price": 0.89,
+    "old": 2.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "CHIRAT - Vinaigre, herbes",
+    "qty": "1 l",
+    "price": 2.99,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Surgelés",
+    "name": "Au rayon surgelés - FINDUS",
+    "qty": "",
+    "price": 8.99,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - CAPRICE DES DIEUX",
+    "qty": "300 g",
+    "price": 1.65,
+    "old": 4.95,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "SINALCO - Original",
+    "qty": "1,5 l",
+    "price": 0.95,
+    "old": 1.42,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "RIVELLA - Rouge",
+    "qty": "500 ml",
+    "price": 3.18,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "RIVELLA - Bleu",
+    "qty": "500 ml",
+    "price": 3.18,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Produits laitiers",
+    "name": "MIKADO - Lait",
+    "qty": "225 g",
+    "price": 2.62,
+    "old": 5.89,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "MULINO BIANCO - Plumcake",
+    "qty": "330 g",
+    "price": 0.91,
+    "old": 2.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "HANSAPLAST - Spray pour les plaies",
+    "qty": "50 ml",
+    "price": 0.98,
+    "old": 4.89,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BEN'S ORIGINAL - Riz en sachets de cuisson, XXL",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "ARGETA - Classique",
+    "qty": "285 g",
+    "price": 1.54,
+    "old": 4.39,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Prix cassé - FOCUS WATER",
+    "qty": "500 ml",
+    "price": 0.42,
+    "old": 2.09,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BARILLA - Pesto Rosso",
+    "qty": "600 g",
+    "price": 1.5,
+    "old": 8.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - LE SUPERBE",
+    "qty": "400 g",
+    "price": 1.17,
+    "old": 4.69,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "ARGETA - Piquant",
+    "qty": "285 g",
+    "price": 1.54,
+    "old": 4.39,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Viande et poisson",
+    "name": "ARGETA - ARGETA Thon MSC",
+    "qty": "285 g",
+    "price": 1.54,
+    "old": 4.39,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "HERO - Rösti, original",
+    "qty": "1,5 kg",
+    "price": 4.99,
+    "old": 7.49,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "KING'S CROWN - Pot de cornichons XXL",
+    "qty": "0,85 KG/ATG",
+    "price": 4.11,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BELLA - Amandes XXL, nature",
+    "qty": "500 g",
+    "price": 1.0,
+    "old": 4.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "PRINGLES - Chips",
+    "qty": "370 g",
+    "price": 1.32,
+    "old": 4.89,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Produits laitiers",
+    "name": "WERNLI - Petits cœurs au beurre",
+    "qty": "300 g",
+    "price": 2.66,
+    "old": 7.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "HAPPY HARVEST - Noix XXL",
+    "qty": "500 g",
+    "price": 1.16,
+    "old": 5.79,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Surgelés",
+    "name": "Au rayon surgelés - PRIMANA",
+    "qty": "1,5 kg",
+    "price": 8.66,
+    "old": null,
+    "valid": "CHF 12.99¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BAULI - Girella",
+    "qty": "280 g",
+    "price": 1.41,
+    "old": 3.95,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "FELDSCHLÖSSCHEN - Original",
+    "qty": "5,94 l",
+    "price": 2.52,
+    "old": null,
+    "valid": "CHF 14.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - LA VACHE QUI RIT",
+    "qty": "512 g",
+    "price": 1.27,
+    "old": 6.49,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "M&M'S - Peanut party",
+    "qty": "800 g",
+    "price": 9.49,
+    "old": null,
+    "valid": "(CHF 11.86/1 kg)"
+  },
+  {
+    "store": "aldi",
+    "cat": "Surgelés",
+    "name": "Au rayon surgelés - FINDUS",
+    "qty": "600 g",
+    "price": 7.49,
+    "old": null,
+    "valid": "(CHF 12.48/1 kg)"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "RAMSEIER - Jus gazeux",
+    "qty": "330 ml",
+    "price": 1.91,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "MR. BROWNIE - Orange",
+    "qty": "200 g",
+    "price": 1.65,
+    "old": 3.29,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "MR. BROWNIE - Carotte",
+    "qty": "200 g",
+    "price": 1.65,
+    "old": 3.29,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - KIRI DIPPI",
+    "qty": "280 g",
+    "price": 1.78,
+    "old": 4.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "LOTUS - Gaufres de Liège avec chocolat",
+    "qty": "518 g",
+    "price": 9.44,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "MILKA - Cookie Sensations",
+    "qty": "468 g",
+    "price": 1.6,
+    "old": 7.49,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "EMMI",
+    "qty": "800 g",
+    "price": 1.75,
+    "old": null,
+    "valid": "CHF 13.99¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "Tranches de fraises lyophilisées",
+    "qty": "70 g",
+    "price": 7.13,
+    "old": null,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "BAILEYS - Baileys Winter",
+    "qty": "500 ml",
+    "price": 2.98,
+    "old": null,
+    "valid": "CHF 14.89¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Surgelés",
+    "name": "Au rayon surgelés - Végan",
+    "qty": "600 g",
+    "price": 6.99,
+    "old": null,
+    "valid": "(CHF 11.65/1 kg)"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - SAVEURS SUISSES",
+    "qty": "400 g",
+    "price": 1.0,
+    "old": 3.99,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "KELLOGG'S - Froot Loops",
+    "qty": "375 g",
+    "price": 0.96,
+    "old": 3.59,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "KELLOGG'S - Müesli aux céréales et au miel",
+    "qty": "400 g",
+    "price": 0.86,
+    "old": 3.45,
+    "valid": "Disponible depuis 16.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Viande et poisson",
+    "name": "ALMARE SEAFOOD - Filet de thon MSC à l'huile bio",
+    "qty": "140 g",
+    "price": 2.49,
+    "old": 3.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "TEMPO - Mouchoirs classiques",
+    "qty": "",
+    "price": 8.89,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "LAVAZZA - Capsules de café Qualità Oro",
+    "qty": "30 Pièce",
+    "price": 0.37,
+    "old": null,
+    "valid": "CHF 10.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "VASELINE - Original",
+    "qty": "200 g",
+    "price": 2.5,
+    "old": 4.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "SOMAT - Nettoyant intensif pour machines",
+    "qty": "500 ml",
+    "price": 1.39,
+    "old": 6.95,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Végan - BIO",
+    "qty": "420 g",
+    "price": 0.59,
+    "old": 2.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "TEMPO - Papier hygiénique humide",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "VANISH - Lingettes anti-transfert de couleurs",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Produits laitiers",
+    "name": "NEUTROGENA - Crème pour les mains sans parfum",
+    "qty": "",
+    "price": 5.99,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "FINEST BAKERY - Pancakes",
+    "qty": "280 g",
+    "price": 0.89,
+    "old": 2.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "NEUTROGENA - Lotion pour le corps",
+    "qty": "800 ml",
+    "price": 9.99,
+    "old": null,
+    "valid": "(CHF 12.49/1 l)"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "BIO - Huile d’olive grecque BIO",
+    "qty": "500 ml",
+    "price": 1.2,
+    "old": 5.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "JAZWARES - Porte-clés",
+    "qty": "",
+    "price": 7.99,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "EVIAN - Eau minérale naturelle",
+    "qty": "",
+    "price": 0.75,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Au rayon frais - INNOCENT",
+    "qty": "1,5 l",
+    "price": 3.33,
+    "old": 4.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "BIO - BIO NATURA Épices de noël bio, cannelle",
+    "qty": "18 g",
+    "price": 1.11,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "BIO - BIO NATURA Épices de noël bio, clous de girofle",
+    "qty": "30 g",
+    "price": 0.66,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "BIO - BIO NATURA Épices de noël bio, vin chaud",
+    "qty": "40 g",
+    "price": 0.5,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "BIO - BIO NATURA Épices de noël bio, pain d'épice",
+    "qty": "40 g",
+    "price": 0.5,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "BIO - BIO NATURA Épices de noël bio, anis étoilé",
+    "qty": "25 g",
+    "price": 0.8,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "Végan - BIO NATURA",
+    "qty": "250 ml",
+    "price": 0.52,
+    "old": 1.29,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GOURMET FINEST CUISINE - Dattes fourrées, avec des amandes blanchies",
+    "qty": "200 g",
+    "price": 1.5,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GOURMET FINEST CUISINE - Dattes fourrées, avec de la pâte d'amande",
+    "qty": "200 g",
+    "price": 1.5,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GOURMET FINEST CUISINE - Dattes fourrées, avec des noix",
+    "qty": "200 g",
+    "price": 1.5,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Végan - GOLDÄHREN",
+    "qty": "335 g",
+    "price": 0.47,
+    "old": 1.59,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GOURMET FINEST CUISINE - Gnocchi, farcis, truffe",
+    "qty": "400 g",
+    "price": 0.5,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "GOURMET FINEST CUISINE - Gnocchi, farcis, tomate-mozzarella",
+    "qty": "400 g",
+    "price": 0.5,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "VANISH - Oxi Action",
+    "qty": "1,5 kg",
+    "price": 6.66,
+    "old": 9.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "VITAMIN WELL - Antioxydants",
+    "qty": "500 ml",
+    "price": 0.3,
+    "old": 1.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "VITAMIN WELL - Reload",
+    "qty": "500 ml",
+    "price": 0.3,
+    "old": 1.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "VITAMIN WELL - Awake",
+    "qty": "500 ml",
+    "price": 0.3,
+    "old": 1.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "FELCE AZZURRA BIO - Gel douche",
+    "qty": "400 ml",
+    "price": 0.75,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "X-TRA - Lessive liquide",
+    "qty": "",
+    "price": 0.15,
+    "old": null,
+    "valid": "CHF 14.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "X-TRA - Lessive Caps",
+    "qty": "",
+    "price": 0.19,
+    "old": null,
+    "valid": "CHF 14.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "SOMAT - Power Gel, tout-en-un",
+    "qty": "",
+    "price": 0.15,
+    "old": 9.95,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "BOROTALCO - Déodorant",
+    "qty": "300 ml",
+    "price": 2.65,
+    "old": 7.95,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "LACURA - Recharge de savon liquide",
+    "qty": "2 l",
+    "price": 1.0,
+    "old": 1.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "L'OR - Grand format, Lungo Profondo",
+    "qty": "40 Pièce",
+    "price": 0.32,
+    "old": null,
+    "valid": "CHF 12.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, orange-gingembre",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, figue",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, fraise",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, cerise noire",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, framboise",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, mangue-passion",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, myrtille",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "ST. DALFOUR - Pâte à tartiner aux fruits, abricots",
+    "qty": "284 g",
+    "price": 1.05,
+    "old": 2.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "LACURA - Accessoires pour cheveux, premium",
+    "qty": "",
+    "price": 3.99,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "VANISH - Spray de prélavage",
+    "qty": "1,5 l",
+    "price": 3.99,
+    "old": 5.99,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BOROTALCO - Bain moussant, original",
+    "qty": "600 ml",
+    "price": 7.48,
+    "old": null,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "BOROTALCO - Duo de gels douche, original",
+    "qty": "500 ml",
+    "price": 1.1,
+    "old": 5.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "SOMAT - Pastilles pour lave-vaisselle, Excellence 4en1",
+    "qty": "80 Pièce",
+    "price": 0.21,
+    "old": null,
+    "valid": "CHF 16.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "GOURMET FINEST CUISINE - Fruits enrobés de chocolat, mangue",
+    "qty": "120 g",
+    "price": 2.08,
+    "old": 2.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "GOURMET FINEST CUISINE - Fruits enrobés de chocolat, orange",
+    "qty": "120 g",
+    "price": 2.08,
+    "old": 2.49,
+    "valid": "Disponible à partir du 23.11.2026"
+  }
+]

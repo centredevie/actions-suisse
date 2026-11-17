@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Actions Suisse</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+  --bg:#f6f7f5; --surface:#ffffff; --fg:#1b2420; --muted:#5d6a63; --line:#dde2dd;
+  --accent:#0d6b4f; --accent-fg:#ffffff; --sale:#c2261b; --sale-bg:#fdeceb;
+  --warn-bg:#fff4d6; --warn-fg:#6b4b00; --ok-bg:#e3f5ed; --ok-fg:#0a523c;
+  --coop:#e3000f; --migros:#f26b00; --aldi:#00005f; --denner:#d4a100; --lidl:#0050aa;
+  --font-body:'Inter',system-ui,sans-serif; --font-display:'Space Grotesk','Inter',system-ui,sans-serif;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+[hidden]:not([hidden=until-found i]){display:none!important}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121815; --surface:#1b2420; --fg:#e8eee9; --muted:#9aa89f; --line:#2d3932;
+  --accent:#4cc79c; --accent-fg:#06281d; --sale:#ff7b70; --sale-bg:#3a1d1b;
+  --warn-bg:#3a3010; --warn-fg:#f1d98a; --ok-bg:#13382b; --ok-fg:#7ce0bc;
+  --coop:#ff4a55; --migros:#ff8f3d; --aldi:#7b8cff; --denner:#f0c52e; --lidl:#5aa2ff; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121815; --surface:#1b2420; --fg:#e8eee9; --muted:#9aa89f; --line:#2d3932;
+  --accent:#4cc79c; --accent-fg:#06281d; --sale:#ff7b70; --sale-bg:#3a1d1b;
+  --warn-bg:#3a3010; --warn-fg:#f1d98a; --ok-bg:#13382b; --ok-fg:#7ce0bc;
+  --coop:#ff4a55; --migros:#ff8f3d; --aldi:#7b8cff; --denner:#f0c52e; --lidl:#5aa2ff; color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:15px;line-height:1.45;
+  padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1080px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+h1{font-family:var(--font-display);font-size:1.75rem;line-height:1.1;margin:0;text-wrap:balance}
+h2{font-family:var(--font-display);font-size:1.1rem;margin:0}
+.sub{color:var(--muted);margin:4px 0 0}
+.notice{background:var(--warn-bg);color:var(--warn-fg);border-radius:8px;padding:10px 12px;font-size:.88rem}
+.notice.live{background:var(--ok-bg);color:var(--ok-fg)}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:8px;display:flex;flex-direction:column;gap:8px;border-bottom:1px solid var(--line)}
+.row{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.lbl{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);min-width:68px}
+button,input,select,textarea{font:inherit;color:inherit}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 12px;cursor:pointer;display:inline-flex;gap:6px;align-items:center;font-size:.88rem}
+.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+.chip:focus-visible,.btn:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+.tools{display:flex;flex-wrap:wrap;gap:8px}
+.tools input[type=search],.tools select{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:7px 10px;min-width:0}
+.tools input[type=search]{flex:1 1 200px}
+.count{color:var(--muted);font-size:.88rem;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+.cat{display:flex;flex-direction:column;gap:10px;margin-top:6px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.store{font-size:.78rem;font-weight:600;display:flex;gap:6px;align-items:center}
+.name{font-weight:500;overflow-wrap:anywhere}
+.qty{color:var(--muted);font-size:.82rem}
+.price{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-top:auto}
+.now{font-family:var(--font-display);font-size:1.4rem;font-weight:700;font-variant-numeric:tabular-nums}
+.old{color:var(--muted);text-decoration:line-through;font-variant-numeric:tabular-nums}
+.off{background:var(--sale-bg);color:var(--sale);font-weight:600;font-size:.82rem;border-radius:6px;padding:2px 7px;font-variant-numeric:tabular-nums}
+.valid{color:var(--muted);font-size:.78rem}
+.ex{font-size:.7rem;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:0 5px;margin-left:auto}
+.empty{padding:24px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:10px}
+details{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+summary{cursor:pointer;font-weight:600}
+.form{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-top:10px}
+.form input,.form select,textarea{border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:7px 10px;width:100%;min-width:0}
+textarea{min-height:90px;font-family:ui-monospace,monospace;font-size:.8rem}
+.btn{border:0;background:var(--accent);color:var(--accent-fg);border-radius:8px;padding:8px 14px;cursor:pointer;font-weight:600}
+.btn.alt{background:transparent;color:var(--fg);border:1px solid var(--line)}
+.btn.sm{padding:4px 10px;font-size:.82rem}
+.links{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:.88rem}
+.links a{color:var(--accent)}
+.msg{font-size:.85rem;color:var(--muted);min-height:1.2em}
+@media (prefers-reduced-motion:no-preference){.card{transition:border-color .15s}.card:hover{border-color:var(--accent)}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <h1>Actions Suisse</h1>
+    <p class="sub">Coop, Migros, Aldi, Denner et Lidl, triées par catégorie.</p>
+  </header>
+
+  <div class="notice" id="notice">Synchronisation des offres en cours…</div>
+
+  <div class="bar">
+    <div class="row"><span class="lbl">Magasin</span><span id="stores" class="row"></span></div>
+    <div class="row"><span class="lbl">Catégorie</span><span id="cats" class="row"></span></div>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Rechercher un produit" aria-label="Rechercher un produit">
+      <select id="sort" aria-label="Trier">
+        <option value="off">Plus forte réduction</option>
+        <option value="price">Prix croissant</option>
+        <option value="name">Nom (A–Z)</option>
+      </select>
+    </div>
+    <div class="count">
+      <span id="count" aria-live="polite"></span>
+      <button class="btn alt sm" id="sync-btn" type="button">↻ Actualiser les offres</button>
+    </div>
+  </div>
+
+  <main id="list"></main>
+
+  <details>
+    <summary>Ajouter ou importer des actions manuellement</summary>
+    <form class="form" id="add">
+      <select id="f-store" aria-label="Magasin"></select>
+      <select id="f-cat" aria-label="Catégorie"></select>
+      <input id="f-name" placeholder="Produit" required aria-label="Produit">
+      <input id="f-qty" placeholder="Quantité (ex. 500 g)" aria-label="Quantité">
+      <input id="f-price" type="number" step="0.05" min="0" placeholder="Prix CHF" required aria-label="Prix en francs">
+      <input id="f-old" type="number" step="0.05" min="0" placeholder="Ancien prix CHF" aria-label="Ancien prix en francs">
+      <input id="f-valid" placeholder="Valable (ex. 17.11–23.11)" aria-label="Validité">
+      <button class="btn" type="submit">Ajouter</button>
+    </form>
+    <p class="qty" style="margin:12px 0 4px">Import en bloc: un tableau JSON avec les champs <code>store</code> (coop, migros, aldi, denner, lidl), <code>cat</code>, <code>name</code>, <code>qty</code>, <code>price</code>, <code>old</code>, <code>valid</code>.</p>
+    <textarea id="json" aria-label="JSON à importer" placeholder='[{"store":"coop","cat":"Boissons et vins","name":"Jus d’orange","qty":"1 l","price":1.95,"old":2.60,"valid":"17.11–23.11"}]'></textarea>
+    <div class="row" style="margin-top:8px">
+      <button class="btn" id="imp" type="button">Importer</button>
+      <button class="btn alt" id="reset" type="button">Recharger depuis GitHub</button>
+      <span class="msg" id="msg"></span>
+    </div>
+  </details>
+
+  <div>
+    <h2>Pages officielles des actions</h2>
+    <div class="links" style="margin-top:6px">
+      <a href="https://www.coop.ch/fr/actions/les-actions-du-moment/c/m_1011" target="_blank" rel="noopener">Coop</a>
+      <a href="https://www.migros.ch/fr/offers/home" target="_blank" rel="noopener">Migros</a>
+      <a href="https://www.aldi-suisse.ch/fr/" target="_blank" rel="noopener">Aldi Suisse</a>
+      <a href="https://www.denner.ch/fr/actions/" target="_blank" rel="noopener">Denner</a>
+      <a href="https://www.lidl.ch/fr" target="_blank" rel="noopener">Lidl Suisse</a>
+    </div>
+    <p class="qty">Coop et Aldi changent d’actions le lundi/mardi. Denner, Migros et Lidl changent d’actions le jeudi. Vérifiez toujours le prix en rayon.</p>
+  </div>
+</div>
+
+<script>
+const GITHUB_USER = 'centredevie';
+const GITHUB_REPO = 'actions-suisse';
+const GITHUB_RAW_BASE = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main`;
+
+const STORES={
+  coop:{n:'Coop',c:'--coop'},
+  migros:{n:'Migros',c:'--migros'},
+  aldi:{n:'Aldi',c:'--aldi'},
+  denner:{n:'Denner',c:'--denner'},
+  lidl:{n:'Lidl',c:'--lidl'}
+};
+const CATS=['Fruits et légumes','Viande et poisson','Produits laitiers','Boulangerie','Épicerie','Boissons et vins','Surgelés','Hygiène et maison','Animaux','Bazar et loisirs'];
+
+const KEY='actions-suisse-v3';
+let items=[],fs=new Set(),fc=new Set();
+const $=id=>document.getElementById(id);
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(items))}catch(e){}};
+const chf=n=>Number(n).toFixed(2).replace(/\.00$/,'.–');
+const off=i=>i.old&&i.old>i.price?Math.round((1-i.price/i.old)*100):0;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function chips(){
+  $('stores').innerHTML=Object.entries(STORES).map(([k,s])=>{
+    const cnt = items.filter(i=>i.store===k).length;
+    return `<button class="chip" data-s="${k}" aria-pressed="${fs.has(k)}"><span class="dot" style="background:var(${s.c})"></span>${s.n} <span class="qty">(${cnt})</span></button>`;
+  }).join('');
+  $('cats').innerHTML=CATS.map(c=>`<button class="chip" data-c="${esc(c)}" aria-pressed="${fc.has(c)}">${esc(c)}</button>`).join('');
+}
+
+function render(){
+  const q=$('q').value.trim().toLowerCase(),so=$('sort').value;
+  let r=items.filter(i=>(!fs.size||fs.has(i.store))&&(!fc.size||fc.has(i.cat))&&(!q||(i.name+' '+i.cat+' '+(i.qty||'')).toLowerCase().includes(q)));
+  const cmp={off:(a,b)=>off(b)-off(a),price:(a,b)=>a.price-b.price,name:(a,b)=>a.name.localeCompare(b.name,'fr')}[so];
+  r.sort(cmp);
+  $('count').textContent=r.length+(r.length>1?' actions affichées':' action affichée');
+  if(!r.length){$('list').innerHTML='<div class="empty">Aucune action ne correspond à ces filtres.</div>';return}
+  const cats=[...CATS,...new Set(r.map(i=>i.cat).filter(c=>!CATS.includes(c)))];
+  $('list').innerHTML=cats.map(c=>{
+    const g=r.filter(i=>i.cat===c);if(!g.length)return'';
+    return`<section class="cat"><h2>${esc(c)} <span class="qty">· ${g.length}</span></h2><div class="grid">`+g.map(i=>{
+      const s=STORES[i.store]||{n:i.store,c:'--muted'},p=off(i);
+      return`<article class="card"><div class="store"><span class="dot" style="background:var(${s.c})"></span>${esc(s.n)}${i.ex?'<span class="ex">exemple</span>':''}</div>
+<div class="name">${esc(i.name)}</div><div class="qty">${esc(i.qty||'')}</div>
+<div class="price"><span class="now">${chf(+i.price)}</span>${i.old?`<span class="old">${chf(+i.old)}</span>`:''}${p?`<span class="off">−${p}%</span>`:''}</div>
+<div class="valid">${i.valid?'Valable '+esc(i.valid):''}</div></article>`}).join('')+'</div></section>';
+  }).join('');
+}
+
+async function fetchJsonSmart(filename) {
+  const bust = '?t=' + Date.now();
+  // 1. Si hébergé sur GitHub Pages (http/https), tente le chemin relatif directement dans le même dépôt
+  if (location.protocol.startsWith('http')) {
+    try {
+      const rLocal = await fetch(`./${filename}${bust}`);
+      if (rLocal.ok) {
+        const data = await rLocal.json();
+        if (Array.isArray(data)) return data;
+      }
+    } catch (e) {}
+  }
+  // 2. Sinon (fichier ouvert en local sur ordinateur/téléphone), passe par raw.githubusercontent.com
+  try {
+    const rRaw = await fetch(`${GITHUB_RAW_BASE}/${filename}${bust}`);
+    if (rRaw.ok) {
+      const data = await rRaw.json();
+      if (Array.isArray(data)) return data;
+    }
+  } catch (e) {}
+  return [];
+}
+
+async function syncFromGitHub() {
+  const notice = $('notice');
+  notice.className = 'notice';
+  notice.textContent = 'Synchronisation des 5 enseignes en cours…';
+  try {
+    const [migrosData, coopData, aldiData, lidlData, dennerData] = await Promise.all([
+      fetchJsonSmart('migros_import.json'),
+      fetchJsonSmart('coop_import.json'),
+      fetchJsonSmart('aldi_import.json'),
+      fetchJsonSmart('lidl_import.json'),
+      fetchJsonSmart('denner_import.json')
+    ]);
+
+    const merged = [
+      ...migrosData,
+      ...coopData,
+      ...aldiData,
+      ...lidlData,
+      ...dennerData
+    ];
+
+    if (!merged.length) {
+      throw new Error('Aucun fichier JSON trouvé');
+    }
+
+    items = merged;
+    save();
+    chips();
+    render();
+
+    notice.className = 'notice live';
+    notice.textContent = `Données en direct (${items.length} offres) : Migros (${migrosData.length}), Coop (${coopData.length}), Aldi (${aldiData.length}), Lidl (${lidlData.length}), Denner (${dennerData.length}).`;
+  } catch (err) {
+    try {
+      const cached = JSON.parse(localStorage.getItem(KEY) || 'null');
+      if (Array.isArray(cached) && cached.length) items = cached;
+    } catch (e) {}
+    chips();
+    render();
+    notice.className = 'notice';
+    notice.textContent = items.length
+      ? `Mode hors-ligne : affichage de ${items.length} offres enregistrées en cache.`
+      : 'Aucune donnée chargée pour le moment. Vérifiez que le workflow GitHub Actions a bien généré les fichiers *_import.json.';
+  }
+}
+
+function toggle(set,v){set.has(v)?set.delete(v):set.add(v);chips();render()}
+$('stores').addEventListener('click',e=>{const b=e.target.closest('[data-s]');if(b)toggle(fs,b.dataset.s)});
+$('cats').addEventListener('click',e=>{const b=e.target.closest('[data-c]');if(b)toggle(fc,b.dataset.c)});
+$('q').addEventListener('input',render);
+$('sort').addEventListener('change',render);
+$('sync-btn').addEventListener('click', syncFromGitHub);
+$('f-store').innerHTML=Object.entries(STORES).map(([k,s])=>`<option value="${k}">${s.n}</option>`).join('');
+$('f-cat').innerHTML=CATS.map(c=>`<option>${esc(c)}</option>`).join('');
+
+function commit(list,msg){
+  items=items.concat(list);save();chips();render();$('msg').textContent=msg;
+}
+$('add').addEventListener('submit',e=>{
+  e.preventDefault();
+  const price=parseFloat($('f-price').value),old=parseFloat($('f-old').value);
+  commit([{store:$('f-store').value,cat:$('f-cat').value,name:$('f-name').value.trim(),qty:$('f-qty').value.trim(),price,old:isNaN(old)?null:old,valid:$('f-valid').value.trim()}],'Action ajoutée.');
+  $('f-name').value='';$('f-qty').value='';$('f-price').value='';$('f-old').value='';
+});
+$('imp').addEventListener('click',()=>{
+  try{
+    const a=JSON.parse($('json').value);
+    if(!Array.isArray(a))throw 0;
+    const ok=a.filter(i=>i&&STORES[i.store]&&i.name&&typeof i.price==='number').map(i=>({store:i.store,cat:i.cat||'Épicerie',name:i.name,qty:i.qty||'',price:i.price,old:typeof i.old==='number'?i.old:null,valid:i.valid||''}));
+    if(!ok.length)throw 0;
+    commit(ok,ok.length+' actions importées.');$('json').value='';
+  }catch(e){$('msg').textContent='JSON invalide. Chaque ligne doit avoir store, name et price.'}
+});
+$('reset').addEventListener('click',()=>{try{localStorage.removeItem(KEY)}catch(e){}syncFromGitHub();$('msg').textContent='Synchronisation relancée.'});
+
+chips();
+render();
+syncFromGitHub();
+</script>
+
+</body>
+</html>

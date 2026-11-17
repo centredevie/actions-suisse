@@ -30,6 +30,32 @@ headers = {
     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
 }
 
+# Jeton invité: l'API répond 401 sans le header "leshopch".
+# On essaie GET puis POST sur l'endpoint invité, et on cherche le jeton
+# dans les headers de la réponse, puis dans le corps JSON.
+# Seuls les NOMS des champs sont affichés, jamais la valeur du jeton.
+url_guest = "https://www.migros.ch/authentication/public/v1/api/guest?authorizationNeeded=false"
+token = None
+for methode in ("GET", "POST"):
+    g = session.request(methode, url_guest, headers=headers, timeout=30)
+    print(f"[jeton invité {methode}] HTTP {g.status_code}, headers: {sorted(g.headers.keys())}")
+    token = g.headers.get("leshopch")
+    if not token:
+        try:
+            corps = g.json()
+            print("   clés du corps JSON:", list(corps.keys()) if isinstance(corps, dict) else type(corps))
+            if isinstance(corps, dict):
+                token = corps.get("leshopch") or corps.get("token") or corps.get("accessToken")
+        except ValueError:
+            pass
+    if token:
+        break
+if not token:
+    print("Aucun jeton trouvé: voir les noms de headers ci-dessus.")
+    sys.exit(1)
+headers["leshopch"] = token
+print("Jeton invité obtenu.")
+
 url_search = "https://www.migros.ch/product-display/public/web/v3/products/promotion/search"
 payload_search = {
     "storeType": "OFFLINE", "period": "CURRENT", "filters": {},

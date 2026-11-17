@@ -31,12 +31,12 @@ jobs:
 
       - name: Script Coop
         run: python3 coop_actions.py
-
       - name: Sauvegarder les JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add *_import.json
-          git commit -m "Mise a jour hebdomadaire" || exit 0          
+          git commit -m "Mise a jour hebdomadaire" || exit 0
+          git clean -fd
           git pull --rebase
           git push

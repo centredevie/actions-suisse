@@ -13620,36 +13620,36 @@
    "declinations": [
     {
      "declinationOptions": {
-      "size": "S",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "S"
      },
      "migrosId": "822810100643"
     },
     {
      "declinationOptions": {
-      "size": "M",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "M"
      },
      "migrosId": "822810100743"
     },
     {
      "declinationOptions": {
-      "size": "L",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "L"
      },
      "migrosId": "822810100843"
     },
     {
      "declinationOptions": {
-      "size": "XL",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "XL"
      },
      "migrosId": "822810100943"
     },
     {
      "declinationOptions": {
-      "size": "XXL",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "XXL"
      },
      "migrosId": "822810101043"
     }
@@ -13784,8 +13784,8 @@
    "declinations": [
     {
      "declinationOptions": {
-      "size": "one size",
-      "color": "noir"
+      "color": "noir",
+      "size": "one size"
      },
      "migrosId": "863930400020"
     }
@@ -13908,8 +13908,8 @@
    "declinations": [
     {
      "declinationOptions": {
-      "size": "one size",
-      "color": "noir"
+      "color": "noir",
+      "size": "one size"
      },
      "migrosId": "879401800020"
     }
@@ -14043,36 +14043,36 @@
    "declinations": [
     {
      "declinationOptions": {
-      "size": "S",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "S"
      },
      "migrosId": "818643500243"
     },
     {
      "declinationOptions": {
-      "size": "M",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "M"
      },
      "migrosId": "818643500343"
     },
     {
      "declinationOptions": {
-      "size": "L",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "L"
      },
      "migrosId": "818643500443"
     },
     {
      "declinationOptions": {
-      "size": "XL",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "XL"
      },
      "migrosId": "818643500543"
     },
     {
      "declinationOptions": {
-      "size": "XXL",
-      "color": "bleu marine"
+      "color": "bleu marine",
+      "size": "XXL"
      },
      "migrosId": "818643500643"
     }

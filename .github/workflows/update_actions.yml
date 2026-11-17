@@ -31,6 +31,13 @@ jobs:
 
       - name: Script Coop
         run: python3 coop_actions.py
+
+      - name: Script Aldi
+        run: python3 aldi_actions.py
+
+      - name: Script Lidl
+        run: python3 lidl_actions.py
+
       - name: Sauvegarder les JSON
         run: |
           git config user.name "github-actions[bot]"
@@ -41,4 +48,3 @@ jobs:
           git clean -fd
           git pull --rebase
           git push
-

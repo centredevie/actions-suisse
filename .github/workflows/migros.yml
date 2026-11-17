@@ -1,0 +1,34 @@
+name: Actions Migros
+
+on:
+  schedule:
+    # Chaque jeudi à 05:00 UTC (6h ou 7h en Suisse). Les actions changent le jeudi.
+    - cron: "0 5 * * 4"
+  workflow_dispatch: {}   # permet de le lancer à la main depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer requests
+        run: pip install requests
+
+      - name: Récupérer les actions Migros
+        run: python migros_actions.py
+
+      - name: Enregistrer les fichiers dans le dépôt
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add migros_import.json migros_brut.json
+          git diff --cached --quiet || git commit -m "Actions Migros du $(date +%d.%m.%Y)"
+          git push

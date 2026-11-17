@@ -3,7 +3,7 @@ name: Mise a jour des actions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * 2'
+    - cron: '0 6 * * 2,4'
 
 permissions:
   contents: write
@@ -37,6 +37,9 @@ jobs:
 
       - name: Script Lidl
         run: python3 lidl_actions.py
+
+      - name: Script Denner
+        run: python3 denner_actions.py
 
       - name: Sauvegarder les JSON
         run: |

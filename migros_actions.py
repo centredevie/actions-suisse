@@ -124,22 +124,59 @@ def pick(d, *paths):
     return None
 
 
+def quantite(q):
+    """'1500g' -> '1,5 kg', '750ml' -> '75 cl', '6x180g' reste lisible."""
+    if not q:
+        return ""
+    m = re.fullmatch(r"(\d+(?:\.\d+)?)\s*(g|ml)", q.strip())
+    if m:
+        n, u = float(m.group(1)), m.group(2)
+        if n >= 1000:
+            return f"{n / 1000:g}".replace(".", ",") + (" kg" if u == "g" else " l")
+        return f"{n:g} {u}"
+    return q.replace("x", " × ")
+
+
+def jour(iso):
+    """'2026-11-18' -> '18.11'"""
+    try:
+        a, m, d = iso.split("-")
+        return f"{d}.{m}"
+    except ValueError:
+        return iso
+
+
 out = []
+ignores = 0
 for c in cards:
-    price = pick(c, "offer.price.value", "offer.price", "price.value", "price")
-    old = pick(c, "offer.price.base", "offer.basePrice", "price.base", "basePrice", "offer.originalPrice")
-    name = pick(c, "name", "title")
-    if not name or not isinstance(price, (int, float)):
+    o = c.get("offer") or {}
+    promo = (o.get("promotionPrice") or {}).get("effectiveValue")
+    normal = (o.get("price") or {}).get("effectiveValue")
+    # sans prix d'action chiffré (ex. « 2 pour 1 »), on prend le prix affiché
+    price = promo if isinstance(promo, (int, float)) else normal
+    if not c.get("name") or not isinstance(price, (int, float)):
+        ignores += 1
         continue
+    old = normal if isinstance(promo, (int, float)) and isinstance(normal, (int, float)) and normal > promo else None
+    nom = (c.get("title") or c["name"]).replace(" · ", " ")
+    badge = ((o.get("badges") or [{}])[0].get("description") or "").strip()
+    qty = quantite(o.get("quantity"))
+    if old is None and badge:
+        qty = (qty + " · " + badge).strip(" ·")  # ex. « 2 pour 1 », « dès 2 pièces »
+    dr = o.get("promotionDateRange") or {}
+    valid = ""
+    if dr.get("startDate") and dr.get("endDate"):
+        valid = f"{jour(dr['startDate'])}–{jour(dr['endDate'])}"
     out.append({
         "store": "migros",
         "cat": categorie(c),
-        "name": name,
-        "qty": pick(c, "versionInfo", "packageSize", "quantity", "unit") or "",
+        "name": nom,
+        "qty": qty,
         "price": price,
-        "old": old if isinstance(old, (int, float)) else None,
-        "valid": res.get("startDate", "") + " → " + res.get("endDate", ""),
+        "old": old,
+        "valid": valid,
     })
+print(f"{ignores} produits ignorés (pas de prix)")
 
 with open("migros_import.json", "w", encoding="utf-8") as f:
     json.dump(out, f, ensure_ascii=False, indent=1)

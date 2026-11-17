@@ -4,6 +4,7 @@
 À lancer chez vous: python3 migros_actions.py
 """
 import json
+import re
 import requests
 
 import sys

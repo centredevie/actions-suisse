@@ -84,6 +84,34 @@ for i in range(0, len(ids), 50):
 with open("migros_brut.json", "w", encoding="utf-8") as f:
     json.dump(cards, f, ensure_ascii=False, indent=1)
 
+if cards:
+    premier = {k: v for k, v in cards[0].items() if k not in ("breadcrumb",)}
+    texte = json.dumps(premier, ensure_ascii=False)
+    print("=== PREMIER PRODUIT (sans breadcrumb) ===")
+    print(texte[:3000])
+    print("=== FIN ===")
+
+
+def categorie(c):
+    """Catégorie de l'app, déduite du 1er niveau du breadcrumb Migros."""
+    bc = c.get("breadcrumb") or []
+    haut = (bc[0].get("name", "") if bc else "").lower()
+    regles = [
+        (("fruits", "légumes"), "Fruits et légumes"),
+        (("viande", "poisson", "charcuterie"), "Viande et poisson"),
+        (("lait", "œuf", "oeuf", "fromage", "yogourt"), "Produits laitiers"),
+        (("pain", "boulangerie", "pâtisserie"), "Boulangerie"),
+        (("boisson", "vin", "bière", "eau", "spiritueux"), "Boissons et vins"),
+        (("surgelé", "glace"), "Surgelés"),
+        (("ménage", "hygiène", "beauté", "soins", "bébé", "nettoyage", "lessive"), "Hygiène et maison"),
+        (("animaux", "chien", "chat"), "Animaux"),
+        (("bricolage", "jardin", "loisirs", "jouet", "électronique", "mode", "sport", "maison"), "Bazar et loisirs"),
+    ]
+    for mots, cat in regles:
+        if any(m in haut for m in mots):
+            return cat
+    return "Épicerie"
+
 
 def pick(d, *paths):
     """Premier champ trouvé parmi plusieurs chemins possibles (a.b.c)."""
@@ -105,7 +133,7 @@ for c in cards:
         continue
     out.append({
         "store": "migros",
-        "cat": "Épicerie",  # à affiner selon le champ de catégorie du JSON brut
+        "cat": categorie(c),
         "name": name,
         "qty": pick(c, "versionInfo", "packageSize", "quantity", "unit") or "",
         "price": price,

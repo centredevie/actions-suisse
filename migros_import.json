@@ -1082,15 +1082,6 @@
  {
   "store": "migros",
   "cat": "Bazar et loisirs",
-  "name": "Migros Essentials Parapluie sellout Ouverture manuelle",
-  "qty": "Hit",
-  "price": 7.95,
-  "old": null,
-  "valid": "24.09–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Bazar et loisirs",
   "name": "Migros Essentials Set polaire pour femme",
   "qty": "Hit",
   "price": 14.95,

@@ -1,1 +1,1019 @@
-[]
+[
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Mâche suisse bio pour 2.99 CHF - Mâche suisse bio",
+    "qty": "",
+    "price": 2.99,
+    "old": 3.99,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Grenade - -.99CHF*",
+    "qty": "",
+    "price": 0.99,
+    "old": 1.49,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Mangue - -.99CHF*",
+    "qty": "",
+    "price": 0.99,
+    "old": 1.49,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Oranges",
+    "qty": "",
+    "price": 2.29,
+    "old": 2.79,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Oranges - Avec Lidl Plus",
+    "qty": "",
+    "price": 2.09,
+    "old": 2.79,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Clémentines avec feuilles pour 2.19 CHF - Clémentines avec feuilles",
+    "qty": "",
+    "price": 2.19,
+    "old": 2.99,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Chou chinois suisses pour 1.99 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 1.99,
+    "old": 2.49,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Pommes de terre à chair ferme suisses pour 2.99 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 2.99,
+    "old": 3.75,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Émincé de poitrine de poulet pour 4.99 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Viande de lapin pour 1.49 CHF - CARNESI",
+    "qty": "",
+    "price": 1.49,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Médaillons de filet de sanglier pour 4.29 CHF - CARNESI",
+    "qty": "",
+    "price": 4.29,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Quasi de porc à la pièce pour 1.49 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 1.49,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Hamburger premium, pack de 2 pour 11.99 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 11.99,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Boulettes de bœuf pour 4.29 - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 4.29,
+    "old": 4.79,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Filets de silure requin croustillants ASC XXL pour 6.95 CHF - FISHER'S CHOICE",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Crevettes butterfly ASC pour 4.99 CHF - FISHER'S CHOICE",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Filets croustillants MSC pour 5.99 CHF - FINDUS",
+    "qty": "",
+    "price": 5.99,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "QUALITÉ SUISSE",
+    "qty": "1 kg",
+    "price": 3.19,
+    "old": 4.25,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Demi-crème acidulée pour 1.35 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 1.35,
+    "old": 1.69,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Pudding riche en protéines 2 en 1 pour 1.19 CHF - MILBONA",
+    "qty": "",
+    "price": 1.19,
+    "old": 1.39,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Pudding riche en protéines 2 en 1 pour 0.99 - MILBONA",
+    "qty": "",
+    "price": 1.39,
+    "old": null,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Retard de livraison partiel - DANONE",
+    "qty": "",
+    "price": 2.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "DANONE - Activia",
+    "qty": "",
+    "price": 3.35,
+    "old": 3.75,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "MILBONA - Fruit King",
+    "qty": "",
+    "price": 1.49,
+    "old": 1.99,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "VITA D'OR",
+    "qty": "",
+    "price": 1.39,
+    "old": 1.99,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "CHEF SELECT",
+    "qty": "",
+    "price": 1.25,
+    "old": 1.69,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Tagliatelles pour 1.39 CHF - COMBINO",
+    "qty": "",
+    "price": 1.39,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Toffees au chocolat/sélection pour 2.99 CHF - SWEET CORNER",
+    "qty": "",
+    "price": 2.99,
+    "old": 3.49,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Toffees au chocolat/sélection pour 2.49 - SWEET CORNER",
+    "qty": "",
+    "price": 2.49,
+    "old": 3.49,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Tablettes de chocolat pour 10.95 CHF - CAMILLE BLOCH",
+    "qty": "",
+    "price": 10.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Mangue séchée pour 6.95 CHF - SUNSHINE DELIGHTS",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Blanc, pack de 3 pour 5.89 CHF - MIKADO",
+    "qty": "",
+    "price": 5.89,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Chocolat au lait, pack de 3 pour 5.89 CHF - MIKADO",
+    "qty": "",
+    "price": 5.89,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Chocolat noir, pack de 3 pour 5.89 CHF - MIKADO",
+    "qty": "",
+    "price": 5.89,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Mélange de noix mini pour 0.99 CHF - ALESTO",
+    "qty": "",
+    "price": 1.29,
+    "old": null,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Hanuta 10+1 gratuit pour 3.79 CHF - FERRERO",
+    "qty": "",
+    "price": 3.79,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "RITTER SPORT - Pack de 5",
+    "qty": "",
+    "price": 9.89,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Huile d’olive vierge extra pour 7.59 CHF - PRIMADONNA",
+    "qty": "",
+    "price": 7.59,
+    "old": 8.95,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Crème entière 35% pour 3.39 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 3.39,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Boissons et vins",
+    "name": "Bière de Noël pour 10.95 CHF - FELDSCHLÖSSCHEN",
+    "qty": "",
+    "price": 10.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Boissons et vins",
+    "name": "Original/zéro pour 6.29 CHF - COCA COLA",
+    "qty": "",
+    "price": 6.29,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Œil de Perdrix du Valais AOC pour 5.59 - Œil de Perdrix du Valais AOC",
+    "qty": "",
+    "price": 5.59,
+    "old": 6.99,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Cartouche pour 79.9 - PARISIENNE",
+    "qty": "",
+    "price": 79.9,
+    "old": null,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Cartouche pour 78.9 - MARLBORO",
+    "qty": "",
+    "price": 78.9,
+    "old": null,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "SONDEY",
+    "qty": "",
+    "price": 2.99,
+    "old": 3.99,
+    "valid": "12.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Hygiène et maison",
+    "name": "Papier toilette, pack familial pour 6.35 CHF - FLORALYS",
+    "qty": "",
+    "price": 6.35,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Hygiène et maison",
+    "name": "Papier ménage pour 13.89 CHF - PLENTY",
+    "qty": "",
+    "price": 13.89,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Force active, méga-pack pour 6.95 CHF - WC FRISCH",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Force active pour 6.95 CHF - WC FRISCH",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Auto-activation, bleu, 4 pièces pour 6.95 CHF - WC FRISCH",
+    "qty": "Auto-activation, bleu, 4 pièces",
+    "price": 6.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Animaux",
+    "name": "Aliment humide pour chats pour 17.69 CHF - PURINA ONE",
+    "qty": "",
+    "price": 17.69,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Animaux",
+    "name": "Aliments humides pour chats adultes pour 24.99 CHF - PURINA ONE",
+    "qty": "",
+    "price": 24.99,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Robe en maille pour 9.99 CHF - ESMARA",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Pull à col roulé en mailles fines pour 7.99 CHF - ESMARA",
+    "qty": "",
+    "price": 7.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Gilet en maille pour 9.99 CHF - ESMARA",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Débardeurs en tissu côtelé, set de 3 pour 6.99 CHF - ESMARA MEN",
+    "qty": "",
+    "price": 6.99,
+    "old": 7.99,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Débardeurs, set de 3 pour 6.99 CHF - ESMARA",
+    "qty": "",
+    "price": 6.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Surchemise pour 12.99 CHF - ESMARA MEN",
+    "qty": "",
+    "price": 12.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "ESMARA MEN - Cardigan 1",
+    "qty": "",
+    "price": 12.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Pyjama, 2 pcs. pour 9.99 CHF - ESMARA",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Pantalon en flanelle premium pour 9.99 CHF - ESMARA",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Collants/legging thermorégulateur(s) pour 2.99 CHF - ESMARA",
+    "qty": "",
+    "price": 2.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Soutien-gorge sans armature côtelé pour 4.99 CHF - ESMARA",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Chaussettes thermorégulatrices (côtelées), set de 3 paires pour 4.99 CHF - ESMARA",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Chaussettes thermorégulatrices (côtelées), set de 3 paires pour 4.99 CHF - ESMARA MEN",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Voiture de course F1® Audi pour 29.9 CHF - LEGO",
+    "qty": "",
+    "price": 29.9,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Speed Champions pour 14.99 CHF - LEGO",
+    "qty": "",
+    "price": 14.99,
+    "old": 16.99,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "LEGO - Set de jeu",
+    "qty": "",
+    "price": 5.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Voiture miniature F1®, set de 5 pcs. pour 8.99 CHF - HOT WHEELS",
+    "qty": "",
+    "price": 8.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Console de jeu rétro pour 8.99 CHF - Console de jeu rétro",
+    "qty": "",
+    "price": 8.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Appareil photo pour enfant pour 24.9 CHF - Appareil photo pour enfant",
+    "qty": "",
+    "price": 24.9,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Compound Mix Studio pour 14.99 CHF - CRAZE",
+    "qty": "",
+    "price": 14.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Mini coffrets d’expérimentation pour 4.99 CHF - CLEMENTONI",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Set de bricolage/coloriage pour 5.99 CHF - Set de bricolage/coloriage",
+    "qty": "",
+    "price": 5.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Squishy Stitch & Friends pour 4.99 CHF - DISNEY",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "MR. BEAST LAB - Lab Swarms",
+    "qty": "",
+    "price": 8.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Boissons et vins",
+    "name": "Mini figurine de collection en vinyle pour 4.99 CHF - FUNKO",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "16.11. - 18.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Super Lupis pour 2.49 CHF - LUPILU",
+    "qty": "",
+    "price": 2.49,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Ours en peluche pour 14.99 CHF - SIMBA",
+    "qty": "",
+    "price": 14.99,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "HASBRO - Figurine",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "FUNKO - Figurine",
+    "qty": "",
+    "price": 12.99,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Circuit Pat’ Patrouille pour 24.9 CHF - SPINMASTER",
+    "qty": "",
+    "price": 24.9,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Voiture miniature pour 9.99 CHF - BURAGO",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Véhicule d’intervention pour 14.99 CHF - SPINMASTER",
+    "qty": "",
+    "price": 14.99,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Véhicule de jeu pour 8.99 CHF - SPINMASTER",
+    "qty": "",
+    "price": 8.99,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Porteur en forme de voiture pour 39.9 CHF - BIG",
+    "qty": "",
+    "price": 39.9,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Circuit de course Track Battle pour 49.9 CHF - CARRERA",
+    "qty": "",
+    "price": 49.9,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Voiture télécommandée Ferrari F1 – 75/Oracle Red Bull Racing pour 29.9 CHF - JAMARA",
+    "qty": "",
+    "price": 29.9,
+    "old": null,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Engin de chantier télécommandé pour 34.9 CHF - JAMARA",
+    "qty": "",
+    "price": 34.9,
+    "old": 39.9,
+    "valid": "30.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "LUPILU - Puzzle",
+    "qty": "1000 pièces",
+    "price": 2.99,
+    "old": 3.12,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Jeux familiaux pour 7.99 CHF - LUPILU",
+    "qty": "",
+    "price": 3.12,
+    "old": 7.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Puzzle 3D «Véhicule» pour 19.99 CHF - RAVENSBURGER",
+    "qty": "",
+    "price": 3.12,
+    "old": 19.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Puzzle 3D «Bâtiment» pour 19.99 CHF - RAVENSBURGER",
+    "qty": "",
+    "price": 3.12,
+    "old": 19.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "RAVENSBURGER - Dès 6-8 ans",
+    "qty": "",
+    "price": 3.12,
+    "old": 17.99,
+    "valid": "Jeux classiques pour enfants (action valable uniquement en Suisse alémanique)"
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "CLEMENTONI - Puzzle",
+    "qty": "3000 pièces",
+    "price": 3.12,
+    "old": 14.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Livre de Noël pour 4.99 CHF - Livre de Noël",
+    "qty": "",
+    "price": 3.12,
+    "old": 4.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "KOSMOS - Dès 10 ans",
+    "qty": "",
+    "price": 11.99,
+    "old": 12.99,
+    "valid": "Escape game (action valable uniquement en Suisse alémanique)"
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Animal en peluche pour 17.99 CHF - STEIFF",
+    "qty": "",
+    "price": 3.12,
+    "old": 17.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Animal en peluche pour 9.99 CHF - PAT’PATROUILLE",
+    "qty": "",
+    "price": 3.12,
+    "old": 9.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Poupée fonctionnelle pour 17.99 - BAYER DESIGN",
+    "qty": "",
+    "price": 17.99,
+    "old": 19.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Poupée bébé souple pour 19.99 CHF - BABY BORN",
+    "qty": "",
+    "price": 3.12,
+    "old": 19.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Set de jeu «Camping-car de rêve» pour 44.9 - BARBIE",
+    "qty": "",
+    "price": 44.9,
+    "old": 49.9,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Poupée Barbie «Cutie Reveal» pour 19.99 CHF - BARBIE",
+    "qty": "",
+    "price": 3.12,
+    "old": 19.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Poupée Barbie pour 8.99 CHF - BARBIE",
+    "qty": "",
+    "price": 8.99,
+    "old": 9.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "JAKKS PACIFIC - Poupée",
+    "qty": "",
+    "price": 3.12,
+    "old": 12.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Monster Truck/poupée Enchantimals pour 6.99 CHF - HOT WHEELS",
+    "qty": "",
+    "price": 3.12,
+    "old": 6.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Poupée personnage pour 12.99 - MATTEL",
+    "qty": "",
+    "price": 12.99,
+    "old": 14.99,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "CRIVIT - Fléchettes",
+    "qty": "",
+    "price": 3.99,
+    "old": null,
+    "valid": "14.12. - 16.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Animal de sommeil pour 24.9 CHF - FISHER-PRICE",
+    "qty": "",
+    "price": 24.9,
+    "old": 29.9,
+    "valid": "14.12. - 16.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Ballon de foot Air-Power pour 4.99 CHF - LUPILU",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "14.12. - 16.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Disponible dans différentes versions",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "14.12. - 16.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Dès 3-5 ans",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "14.12. - 16.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Dès 2 ans",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "14.12. - 16.12."
+  }
+]

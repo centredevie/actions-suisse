@@ -1,1 +1,4115 @@
-[]
+[
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Oranges blondes",
+    "qty": "1.10/1kg",
+    "price": 2.2,
+    "old": 3.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.20 statt CHF 3.20",
+    "qty": "1.10/1kg",
+    "price": 2.2,
+    "old": 3.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Hero",
+    "qty": "0.51/100g",
+    "price": 7.6,
+    "old": 11.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.60 statt CHF 11.40",
+    "qty": "0.51/100g",
+    "price": 7.6,
+    "old": 11.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Macaronis à la montagnarde aux 3 œufs Gala 3x 500g",
+    "qty": "0.25/100g",
+    "price": 3.8,
+    "old": 5.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 3.80 statt CHF 5.70",
+    "qty": "0.25/100g",
+    "price": 3.8,
+    "old": 5.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Polyvalent",
+    "qty": "1.59/10cl",
+    "price": 71.7,
+    "old": 119.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Rioja DOCa Reserva Mayor de Bodegas Ondarre 6x 75cl",
+    "qty": "1.59/10cl",
+    "price": 71.7,
+    "old": 119.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 71.70 statt CHF 119.70",
+    "qty": "1.59/10cl",
+    "price": 71.7,
+    "old": 119.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "12rou",
+    "qty": "",
+    "price": 13.95,
+    "old": 27.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 13.95 statt CHF 27.90",
+    "qty": "",
+    "price": 13.95,
+    "old": 27.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Expovina",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 13.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Cava DO Cordon Negro Freixenet, seco",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 13.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.95 statt CHF 13.95",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 13.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Surgelés",
+    "name": "Betty Bossi Sucre glace CH 500G",
+    "qty": "0.30/100g",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "0.30/100g",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.30/100g",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Naturafarm Noix de jambon Quick env. 1.1kg",
+    "qty": "1.85/100g",
+    "price": 20.35,
+    "old": 40.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 20.35 statt CHF 40.70",
+    "qty": "1.85/100g",
+    "price": 20.35,
+    "old": 40.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Jus de citron bio Naturaplan",
+    "qty": "1.13/100ml",
+    "price": 2.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "1.13/100ml",
+    "price": 2.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Hygiène et maison",
+    "name": "Lessive liquide Omo Universelle 100 lavages",
+    "qty": "5.76/1l",
+    "price": 25.9,
+    "old": 51.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 25.90 statt CHF 51.80",
+    "qty": "5.76/1l",
+    "price": 25.9,
+    "old": 51.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Huile de tournesol suisse",
+    "qty": "4.95/1l",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 litre",
+    "qty": "4.95/1l",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Châteauneuf-du-Pape AOC Château Saint-André",
+    "qty": "1.83/10cl",
+    "price": 13.75,
+    "old": 22.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 13.75 statt CHF 22.95",
+    "qty": "1.83/10cl",
+    "price": 13.75,
+    "old": 22.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Naturaplan Bio Fairtrade Bananes env. 1kg",
+    "qty": "0.25/100g",
+    "price": 2.5,
+    "old": 3.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.50 statt CHF 3.20",
+    "qty": "0.25/100g",
+    "price": 2.5,
+    "old": 3.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Raisins blancs avec peu de pépins Primagusto",
+    "qty": "0.62/100g",
+    "price": 2.8,
+    "old": 3.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.80 statt CHF 3.50",
+    "qty": "0.62/100g",
+    "price": 2.8,
+    "old": 3.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Naturaplan Bio Pain pagnol clair",
+    "qty": "0.70/100g",
+    "price": 2.6,
+    "old": 3.3,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.60 statt CHF 3.30",
+    "qty": "0.70/100g",
+    "price": 2.6,
+    "old": 3.3,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Grana Padano fromage râpé 3x 130g",
+    "qty": "1.90/100g",
+    "price": 7.4,
+    "old": 9.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.40 statt CHF 9.90",
+    "qty": "1.90/100g",
+    "price": 7.4,
+    "old": 9.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Filet mignon de poitrine de poulet 6 pièces env. 280g",
+    "qty": "2.48/100g",
+    "price": 6.95,
+    "old": 10.05,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.95 statt CHF 10.05",
+    "qty": "2.48/100g",
+    "price": 6.95,
+    "old": 10.05,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Naturafarm Cervelas 1 paire 3x 200g",
+    "qty": "0.99/100g",
+    "price": 5.95,
+    "old": 8.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.95 statt CHF 8.25",
+    "qty": "0.99/100g",
+    "price": 5.95,
+    "old": 8.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Crème entière UHT IP-Suisse 2x 500ml",
+    "qty": "0.67/100ml",
+    "price": 6.7,
+    "old": 7.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.70 statt CHF 7.60",
+    "qty": "0.67/100ml",
+    "price": 6.7,
+    "old": 7.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Viande de boeuf haché fine env. 500g",
+    "qty": "1.75/100g",
+    "price": 8.75,
+    "old": 9.75,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 8.75 statt CHF 9.75",
+    "qty": "1.75/100g",
+    "price": 8.75,
+    "old": 9.75,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "evian Eau minérale non gazéifiée 6x1.5 l",
+    "qty": "0.73/1l",
+    "price": 6.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 litre",
+    "qty": "0.73/1l",
+    "price": 6.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "SUPERPOINTS",
+    "qty": "0.90/100g",
+    "price": 4.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Endive Bio Naturaplan",
+    "qty": "0.90/100g",
+    "price": 4.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "10x Superpoints",
+    "qty": "0.90/100g",
+    "price": 4.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Farine blanche IP Suisse",
+    "qty": "1.90/1kg",
+    "price": 1.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "1.90/1kg",
+    "price": 1.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 kilogramme",
+    "qty": "1.90/1kg",
+    "price": 1.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Bio pain aux noix cuit sur pierre",
+    "qty": "0.90/100g",
+    "price": 3.6,
+    "old": 4.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 3.60 statt CHF 4.50",
+    "qty": "0.90/100g",
+    "price": 3.6,
+    "old": 4.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Bain moussant Hipp Flamant rose",
+    "qty": "3.38/100ml",
+    "price": 1.35,
+    "old": 1.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 1.35 statt CHF 1.50",
+    "qty": "3.38/100ml",
+    "price": 1.35,
+    "old": 1.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Bain moussant Hipp Crocodile",
+    "qty": "3.38/100ml",
+    "price": 1.35,
+    "old": 1.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Chips de fruits Hipp bio Fraise/Banane",
+    "qty": "24.17/100g",
+    "price": 2.9,
+    "old": 3.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.90 statt CHF 3.25",
+    "qty": "24.17/100g",
+    "price": 2.9,
+    "old": 3.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Snacks ABC Pat'Patrouille Helden Pure & Fun à partir de 3 ans",
+    "qty": "2.44/100g",
+    "price": 1.95,
+    "old": 2.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 1.95 statt CHF 2.20",
+    "qty": "2.44/100g",
+    "price": 1.95,
+    "old": 2.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Chips de fruits Hipp bio Mangue/Banane",
+    "qty": "24.17/100g",
+    "price": 2.9,
+    "old": 3.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Shampooing & Douche Hipp",
+    "qty": "1.48/100ml",
+    "price": 4.45,
+    "old": 4.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 4.45 statt CHF 4.95",
+    "qty": "1.48/100ml",
+    "price": 4.45,
+    "old": 4.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Hygiène et maison",
+    "name": "Shampoing & Après-shampooing Hipp",
+    "qty": "1.48/100ml",
+    "price": 4.45,
+    "old": 4.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Biscuits salés PURE & FUN La Pat' Patrouille Dinos",
+    "qty": "5.67/100g",
+    "price": 1.7,
+    "old": 1.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 1.70 statt CHF 1.90",
+    "qty": "5.67/100g",
+    "price": 1.7,
+    "old": 1.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Haferkissen Deliciously Cacahuète",
+    "qty": "4.50/100g",
+    "price": 2.25,
+    "old": 2.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.25 statt CHF 2.50",
+    "qty": "4.50/100g",
+    "price": 2.25,
+    "old": 2.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Biberon d'apprentissage Perfect Match Nuk 6+ mois",
+    "qty": "",
+    "price": 8.95,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 8.95 statt CHF 9.95",
+    "qty": "",
+    "price": 8.95,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Betty Bossi Doucette",
+    "qty": "2.83/100g",
+    "price": 5.95,
+    "old": 6.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.95 statt CHF 6.95",
+    "qty": "2.83/100g",
+    "price": 5.95,
+    "old": 6.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Naturaplan Bio Clémentines",
+    "qty": "3.13/1kg",
+    "price": 4.7,
+    "old": 5.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 4.70 statt CHF 5.95",
+    "qty": "3.13/1kg",
+    "price": 4.7,
+    "old": 5.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Haricots secs suisses",
+    "qty": "4.80/100g",
+    "price": 4.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "4.80/100g",
+    "price": 4.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "1pce",
+    "qty": "",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Ajouter le produit au panier d'achat",
+    "qty": "",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Bazar et loisirs",
+    "name": "Alternative végane au kebab Planted 2x 175g",
+    "qty": "2.71/100g",
+    "price": 9.5,
+    "old": 11.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.50 statt CHF 11.90",
+    "qty": "2.71/100g",
+    "price": 9.5,
+    "old": 11.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Alternative végane au hachis Betty Bossi Plant Kitchen",
+    "qty": "1.83/100g",
+    "price": 4.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.83/100g",
+    "price": 4.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Alternative végane à l'escalope BettyBossi Plant Kitchen Poivre-Citron",
+    "qty": "2.25/100g",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "2.25/100g",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "SUPERPOINTS",
+    "qty": "0.52/100g",
+    "price": 3.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Pommes Jazz du mois",
+    "qty": "0.52/100g",
+    "price": 3.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "10x Superpoints",
+    "qty": "0.52/100g",
+    "price": 3.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Alternative végane aux nuggets Betty Bossi Plant Kitchen",
+    "qty": "1.76/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.76/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Alternative végane aux chipolatas paysannes Betty Bossi Plant Kitchen",
+    "qty": "2.75/100g",
+    "price": 5.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "2.75/100g",
+    "price": 5.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Alternative végane au grillburger Betty Bossi Plant Kitchen",
+    "qty": "1.88/100g",
+    "price": 3.75,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.88/100g",
+    "price": 3.75,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Alternative végane à la saucisse à rôtir Betty Bossi Plant Kitchen",
+    "qty": "2.25/100g",
+    "price": 4.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "2.25/100g",
+    "price": 4.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Alternative végane à la charcuterie Betty Bossi Plant Kitchen Pastrami",
+    "qty": "4.20/100g",
+    "price": 4.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Choucroute crue Schöni 2x 500g",
+    "qty": "0.49/100g",
+    "price": 4.9,
+    "old": 5.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 4.90 statt CHF 5.90",
+    "qty": "0.49/100g",
+    "price": 4.9,
+    "old": 5.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Naturaplan",
+    "qty": "1.66/1l",
+    "price": 9.95,
+    "old": 12.0,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.95 statt CHF 12.00",
+    "qty": "1.66/1l",
+    "price": 9.95,
+    "old": 12.0,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Demi-crème UHT IP-Suisse 2x 500ml",
+    "qty": "0.52/100ml",
+    "price": 5.2,
+    "old": 5.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.20 statt CHF 5.90",
+    "qty": "0.52/100ml",
+    "price": 5.2,
+    "old": 5.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Coop",
+    "qty": "1.40/100g",
+    "price": 13.95,
+    "old": 15.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 13.95 statt CHF 15.60",
+    "qty": "1.40/100g",
+    "price": 13.95,
+    "old": 15.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Gerber Fondue toute prête 2x 800g",
+    "qty": "1.25/100g",
+    "price": 19.95,
+    "old": 29.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 19.95 statt CHF 29.90",
+    "qty": "1.25/100g",
+    "price": 19.95,
+    "old": 29.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Naturaplan",
+    "qty": "1.65/100g",
+    "price": 5.95,
+    "old": 7.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.95 statt CHF 7.90",
+    "qty": "1.65/100g",
+    "price": 5.95,
+    "old": 7.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Chavroux Fromage au lait de chèvre 2x 150g",
+    "qty": "2.10/100g",
+    "price": 6.3,
+    "old": 7.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.30 statt CHF 7.90",
+    "qty": "2.10/100g",
+    "price": 6.3,
+    "old": 7.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Fine Food Fromage frais farci Burrata",
+    "qty": "2.63/100g",
+    "price": 3.95,
+    "old": 4.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 3.95 statt CHF 4.95",
+    "qty": "2.63/100g",
+    "price": 3.95,
+    "old": 4.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Caprice des Dieux Fromage à pâte molle 2x 200g",
+    "qty": "1.88/100g",
+    "price": 7.5,
+    "old": 9.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.50 statt CHF 9.40",
+    "qty": "1.88/100g",
+    "price": 7.5,
+    "old": 9.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Fine Food Mozzarella di bufala campana lait de bufflonne",
+    "qty": "2.60/100g",
+    "price": 3.25,
+    "old": 4.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 3.25 statt CHF 4.10",
+    "qty": "2.60/100g",
+    "price": 3.25,
+    "old": 4.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Gerber Mélange pour fondue moitié-moitié 2x 800g",
+    "qty": "1.29/100g",
+    "price": 20.7,
+    "old": 30.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 20.70 statt CHF 30.90",
+    "qty": "1.29/100g",
+    "price": 20.7,
+    "old": 30.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Fromage fondu en tranches Burger XXL",
+    "qty": "0.80/100g",
+    "price": 1.6,
+    "old": 3.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 1.60 statt CHF 3.25",
+    "qty": "0.80/100g",
+    "price": 1.6,
+    "old": 3.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Sérés Danonino moins sucré 6x50g 2x 300g",
+    "qty": "0.78/100g",
+    "price": 4.7,
+    "old": 5.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 4.70 statt CHF 5.90",
+    "qty": "0.78/100g",
+    "price": 4.7,
+    "old": 5.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Emmi Rosettes de fromage tête de moine 3x 120g",
+    "qty": "3.94/100g",
+    "price": 14.2,
+    "old": 17.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 14.20 statt CHF 17.85",
+    "qty": "3.94/100g",
+    "price": 14.2,
+    "old": 17.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Coop",
+    "qty": "1.91/100g",
+    "price": 22.95,
+    "old": 27.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 22.95 statt CHF 27.90",
+    "qty": "1.91/100g",
+    "price": 22.95,
+    "old": 27.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Fine Food Crème Vanille 2x120g",
+    "qty": "1.27/100g",
+    "price": 3.05,
+    "old": 3.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 3.05 statt CHF 3.85",
+    "qty": "1.27/100g",
+    "price": 3.05,
+    "old": 3.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Bell Cuisine Boulettes à la viande nature",
+    "qty": "1.98/100g",
+    "price": 4.95,
+    "old": 6.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 4.95 statt CHF 6.80",
+    "qty": "1.98/100g",
+    "price": 4.95,
+    "old": 6.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Escalopes de chevreuil importées 2 pièces 200g",
+    "qty": "4.50/100g",
+    "price": 9.0,
+    "old": 11.3,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.00 statt CHF 11.30",
+    "qty": "4.50/100g",
+    "price": 9.0,
+    "old": 11.3,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Bell Snapéro Mini gendarmes nature",
+    "qty": "3.95/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "11,85.- par 6",
+    "qty": "3.95/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Coop",
+    "qty": "1.84/100g",
+    "price": 9.95,
+    "old": 14.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.95 statt CHF 14.85",
+    "qty": "1.84/100g",
+    "price": 9.95,
+    "old": 14.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Coop",
+    "qty": "6.93/100g",
+    "price": 10.4,
+    "old": 13.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 10.40 statt CHF 13.10",
+    "qty": "6.93/100g",
+    "price": 10.4,
+    "old": 13.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Viande de bœuf hachée 2x500g",
+    "qty": "0.98/100g",
+    "price": 9.75,
+    "old": 19.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.75 statt CHF 19.50",
+    "qty": "0.98/100g",
+    "price": 9.75,
+    "old": 19.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Jambon de campagne Bell Naturafarm 2x150g 300g",
+    "qty": "3.95/100g",
+    "price": 11.85,
+    "old": 15.3,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 11.85 statt CHF 15.30",
+    "qty": "3.95/100g",
+    "price": 11.85,
+    "old": 15.3,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Natura-Beef Ragoût de bœuf",
+    "qty": "3.45/100g",
+    "price": 6.9,
+    "old": 8.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.90 statt CHF 8.70",
+    "qty": "3.45/100g",
+    "price": 6.9,
+    "old": 8.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Citterio Salami Citterino env. 270g",
+    "qty": "3.83/100g",
+    "price": 10.35,
+    "old": 13.05,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 10.35 statt CHF 13.05",
+    "qty": "3.83/100g",
+    "price": 10.35,
+    "old": 13.05,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Filets de cabillaud Royal",
+    "qty": "3.89/100g",
+    "price": 17.5,
+    "old": 29.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 17.50 statt CHF 29.90",
+    "qty": "3.89/100g",
+    "price": 17.5,
+    "old": 29.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Naturafarm Pain de viande 3x 190g",
+    "qty": "1.57/100g",
+    "price": 8.95,
+    "old": 11.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 8.95 statt CHF 11.85",
+    "qty": "1.57/100g",
+    "price": 8.95,
+    "old": 11.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Naturaplan Bio Ailes de poulet 5 pièces env. 380g",
+    "qty": "1.84/100g",
+    "price": 7.0,
+    "old": 7.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.00 statt CHF 7.95",
+    "qty": "1.84/100g",
+    "price": 7.0,
+    "old": 7.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Coop",
+    "qty": "3.83/100g",
+    "price": 8.05,
+    "old": 11.55,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 8.05 statt CHF 11.55",
+    "qty": "3.83/100g",
+    "price": 8.05,
+    "old": 11.55,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Grand filet de canard avec la peau env. 250g",
+    "qty": "3.38/100g",
+    "price": 8.45,
+    "old": 10.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 8.45 statt CHF 10.60",
+    "qty": "3.38/100g",
+    "price": 8.45,
+    "old": 10.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Betty Bossi Naturaplan Bio Pâte à gâteau à l'épeautre Ø32cm",
+    "qty": "0.96/100g",
+    "price": 2.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.96/100g",
+    "price": 2.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Betty Bossi Naturaplan Bio Pâte à gâteau abaissée ronde Ø32cm",
+    "qty": "0.85/100g",
+    "price": 2.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.85/100g",
+    "price": 2.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Appenzeller Baerli-Biberli farci 4x 75g",
+    "qty": "1.80/100g",
+    "price": 5.4,
+    "old": 6.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.40 statt CHF 6.80",
+    "qty": "1.80/100g",
+    "price": 5.4,
+    "old": 6.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Fine Food Pain croustillant aux 3 graines",
+    "qty": "1.58/100g",
+    "price": 3.15,
+    "old": 3.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 3.15 statt CHF 3.95",
+    "qty": "1.58/100g",
+    "price": 3.15,
+    "old": 3.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Coop",
+    "qty": "0.83/100g",
+    "price": 2.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.83/100g",
+    "price": 2.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Harry 1688 pain de seigle/froment",
+    "qty": "0.59/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.59/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Harry pain Vital & Fit",
+    "qty": "0.62/100g",
+    "price": 3.1,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.62/100g",
+    "price": 3.1,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Surgelés",
+    "name": "Betty Bossi Naturaplan Bio Pâte à pizza abaissée 25x38cm",
+    "qty": "0.83/100g",
+    "price": 4.55,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.83/100g",
+    "price": 4.55,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Naturaplan Bio baguette de sils",
+    "qty": "1.00/100g",
+    "price": 2.8,
+    "old": 3.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Pain de mie clair",
+    "qty": "0.47/100g",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.47/100g",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Harry pain complet de seigle",
+    "qty": "0.66/100g",
+    "price": 3.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.66/100g",
+    "price": 3.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Betty Bossi bio Pâte feuilletée abaissée",
+    "qty": "0.91/100g",
+    "price": 2.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.91/100g",
+    "price": 2.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Pain de mie aux graines",
+    "qty": "0.63/100g",
+    "price": 2.35,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.63/100g",
+    "price": 2.35,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Bauli Croissants au chocolate 6 pièces",
+    "qty": "0.82/100g",
+    "price": 2.45,
+    "old": 3.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.45 statt CHF 3.10",
+    "qty": "0.82/100g",
+    "price": 2.45,
+    "old": 3.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Bauli Croissants aux abricots 6 pièces",
+    "qty": "0.82/100g",
+    "price": 2.45,
+    "old": 3.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boulangerie",
+    "name": "Pain de mie Mulino Bianco Pan Bauletto Integrale",
+    "qty": "0.74/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Sucre en cristal fin IP Suisse 4x 1kg",
+    "qty": "1.40/1kg",
+    "price": 5.6,
+    "old": 7.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.60 statt CHF 7.20",
+    "qty": "1.40/1kg",
+    "price": 5.6,
+    "old": 7.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Naturaplan Bio Pignons de pin 3x 100g",
+    "qty": "6.80/100g",
+    "price": 20.4,
+    "old": 25.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 20.40 statt CHF 25.50",
+    "qty": "6.80/100g",
+    "price": 20.4,
+    "old": 25.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Rivella Bleu Boissons gazéifiées faible en calories 6x50cl",
+    "qty": "3.10/100cl",
+    "price": 9.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 centilitre",
+    "qty": "3.10/100cl",
+    "price": 9.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "THOMY Mayonnaise à la Française",
+    "qty": "1.11/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Chirat Épis de maïs",
+    "qty": "3.96/100g",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Knorr Condiment Aromat",
+    "qty": "3.33/100g",
+    "price": 3.0,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "3.33/100g",
+    "price": 3.0,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Dr. Oetker Sucre vanillé Bourbon",
+    "qty": "12.29/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Noix de coco râpée Fairtrade",
+    "qty": "1.00/100g",
+    "price": 2.0,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.00/100g",
+    "price": 2.0,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Amandes éffilées",
+    "qty": "1.98/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Chirat Oignons argentés",
+    "qty": "1.58/100g",
+    "price": 4.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Farine d'avoine complète bio Naturaplan",
+    "qty": "0.98/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Dr. Oetker Poudre à lever 5 pièces",
+    "qty": "0.02/1g",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 gramme",
+    "qty": "0.02/1g",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "THOMY Sauce à la crème",
+    "qty": "1.52/100ml",
+    "price": 3.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "1.52/100ml",
+    "price": 3.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Mutti Passata",
+    "qty": "0.46/100g",
+    "price": 3.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.46/100g",
+    "price": 3.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Amandes moulues",
+    "qty": "1.80/100g",
+    "price": 3.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.80/100g",
+    "price": 3.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Bio farine de sarrasin sans gluten",
+    "qty": "0.76/100g",
+    "price": 3.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.76/100g",
+    "price": 3.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Barres Country Protein Choco-Raspberry 6 x 30g",
+    "qty": "2.75/100g",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Fine Food Chips à l'arôme de truffe",
+    "qty": "3.19/100g",
+    "price": 4.15,
+    "old": 5.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 4.15 statt CHF 5.20",
+    "qty": "3.19/100g",
+    "price": 4.15,
+    "old": 5.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Perles croquantes au sel sans gluten Roland Snack Pearls",
+    "qty": "2.56/100g",
+    "price": 2.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Zweifel",
+    "qty": "1.80/100g",
+    "price": 6.3,
+    "old": 8.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.30 statt CHF 8.40",
+    "qty": "1.80/100g",
+    "price": 6.3,
+    "old": 8.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Barres de céréales Country Choco 9x28g",
+    "qty": "1.57/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Biscuits apéritifs Roland Bretzeli Classic",
+    "qty": "2.55/100g",
+    "price": 2.55,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "2.55/100g",
+    "price": 2.55,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Barres de céréales Country Peanut-Choco chips 6x26g",
+    "qty": "2.24/100g",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Barres de céréales Country Apple-Strawberry 9x26g",
+    "qty": "1.79/100g",
+    "price": 4.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Kambly Goldfish Original",
+    "qty": "2.13/100g",
+    "price": 3.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "2.13/100g",
+    "price": 3.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Zweifel Chips Salt & Vinegar 2x 175g",
+    "qty": "1.80/100g",
+    "price": 6.3,
+    "old": 8.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Barres de céréales Country Lait 6x28g",
+    "qty": "2.08/100g",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Country Nuts Dark Choco & Sea Salt 6x30g",
+    "qty": "2.75/100g",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Roland Sticks salés",
+    "qty": "1.83/100g",
+    "price": 3.65,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.83/100g",
+    "price": 3.65,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Lu Mikado avec chocolat au lait 3x 75g",
+    "qty": "2.62/100g",
+    "price": 5.9,
+    "old": 9.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.90 statt CHF 9.60",
+    "qty": "2.62/100g",
+    "price": 5.9,
+    "old": 9.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Cacahuétes grillées & salées",
+    "qty": "0.48/100g",
+    "price": 2.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.48/100g",
+    "price": 2.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Barres Country Nuts & Seeds Crispy Nature 6 x 30g",
+    "qty": "2.75/100g",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Zweifel Chips Original Nature 2x 175g",
+    "qty": "1.80/100g",
+    "price": 6.3,
+    "old": 8.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Barres de céréales Country Apple 8x25g",
+    "qty": "1.90/100g",
+    "price": 3.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Betty Bossi Naturaplan Bio Knöpfli 3x 500g",
+    "qty": "0.53/100g",
+    "price": 7.9,
+    "old": 11.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.90 statt CHF 11.85",
+    "qty": "0.53/100g",
+    "price": 7.9,
+    "old": 11.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Findus Sticks de poisson lieu d'Alaska surgelés 15 pièces",
+    "qty": "1.32/100g",
+    "price": 5.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.32/100g",
+    "price": 5.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Betty Bossi Spätzli à la courge",
+    "qty": "0.79/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Surgelés",
+    "name": "Findus Filets de colin d'Alaska panés MSC surgelés 24 pièces",
+    "qty": "1.32/100g",
+    "price": 9.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.32/100g",
+    "price": 9.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Naturaplan Bio Mélange de légumes surgelés 2x 500g",
+    "qty": "0.75/100g",
+    "price": 7.5,
+    "old": 9.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.50 statt CHF 9.60",
+    "qty": "0.75/100g",
+    "price": 7.5,
+    "old": 9.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Betty Bossi Spätzli aux oeufs",
+    "qty": "0.59/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Findus Délices au fromage surglés 8 pièces",
+    "qty": "1.56/100g",
+    "price": 7.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.56/100g",
+    "price": 7.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Surgelés",
+    "name": "Findus Délices aux épinards surgelés 8 pièces",
+    "qty": "1.56/100g",
+    "price": 7.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Findus Délices aux champignons surglés 8 pièces",
+    "qty": "1.56/100g",
+    "price": 7.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Hero Ravioli aux oeufs 3x 430g",
+    "qty": "0.61/100g",
+    "price": 7.9,
+    "old": 11.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Betty Bossi Gnocchis aux pommes de terre",
+    "qty": "0.72/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Betty Bossi Tortellinis farcis avec épinards & ricotta 3x 500g",
+    "qty": "0.79/100g",
+    "price": 11.85,
+    "old": 17.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 11.85 statt CHF 17.85",
+    "qty": "0.79/100g",
+    "price": 11.85,
+    "old": 17.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Betty Bossi Nouilles aux pommes de terre",
+    "qty": "0.59/100g",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Poisson au four Findus Bordelaise MSC",
+    "qty": "2.45/100g",
+    "price": 9.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "2.45/100g",
+    "price": 9.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Lasagne bolognese Betty Bossi Bœuf 3x 400g",
+    "qty": "0.83/100g",
+    "price": 9.9,
+    "old": 14.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.90 statt CHF 14.85",
+    "qty": "0.83/100g",
+    "price": 9.9,
+    "old": 14.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Surgelés",
+    "name": "Marrons épluchés surgelés 2x 500g",
+    "qty": "1.00/100g",
+    "price": 9.95,
+    "old": 13.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.95 statt CHF 13.90",
+    "qty": "1.00/100g",
+    "price": 9.95,
+    "old": 13.9,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Betty Bossi Spätzli aux légumes",
+    "qty": "0.79/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Spätzlis Betty Bossi",
+    "qty": "0.65/100g",
+    "price": 1.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.65/100g",
+    "price": 1.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "San Pellegrino Eau minérale gazéifiée 6x1.25l",
+    "qty": "0.88/1l",
+    "price": 6.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Boisson pétillante San Pellegrino Sanbittèr Rosso sans alcool 10x10 cl",
+    "qty": "5.95/100cl",
+    "price": 5.95,
+    "old": 8.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Capri-Sun multivitaminés 10x20cl",
+    "qty": "2.48/100cl",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 centilitre",
+    "qty": "2.48/100cl",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Appenzeller Bières Quöllfrisch 10x33cl",
+    "qty": "3.62/100cl",
+    "price": 11.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 centilitre",
+    "qty": "3.62/100cl",
+    "price": 11.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Guinness Draught Stout Bière",
+    "qty": "7.00/100cl",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 centilitre",
+    "qty": "7.00/100cl",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Eau minérale non gazéifiée Vittel 6x1,5l",
+    "qty": "0.72/1l",
+    "price": 6.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 litre",
+    "qty": "0.72/1l",
+    "price": 6.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Chicco d'Oro Tradition en grains",
+    "qty": "1.99/100g",
+    "price": 19.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.99/100g",
+    "price": 19.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Ramseier Jus de pomme filtré 6x1.5l",
+    "qty": "1.32/1l",
+    "price": 11.85,
+    "old": 17.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 11.85 statt CHF 17.70",
+    "qty": "1.32/1l",
+    "price": 11.85,
+    "old": 17.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Red Bull Energy 24x25cl",
+    "qty": "4.15/100cl",
+    "price": 24.9,
+    "old": 35.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 24.90 statt CHF 35.60",
+    "qty": "4.15/100cl",
+    "price": 24.9,
+    "old": 35.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Granini Jus d'orange 6x1 l",
+    "qty": "2.16/1l",
+    "price": 12.95,
+    "old": 22.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 12.95 statt CHF 22.20",
+    "qty": "2.16/1l",
+    "price": 12.95,
+    "old": 22.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Rivella Bleu Boissons gazéifiées faible en calories 6x1.5 l",
+    "qty": "1.66/1l",
+    "price": 14.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 litre",
+    "qty": "1.66/1l",
+    "price": 14.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Appenzeller Bières Quöllfrisch 6x50cl",
+    "qty": "3.65/100cl",
+    "price": 10.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 centilitre",
+    "qty": "3.65/100cl",
+    "price": 10.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Ramseier Sauser 6x50cl",
+    "qty": "1.95/100cl",
+    "price": 5.85,
+    "old": 11.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 5.85 statt CHF 11.70",
+    "qty": "1.95/100cl",
+    "price": 5.85,
+    "old": 11.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Appenzeller Bières Quöllfrisch 8x33cl",
+    "qty": "4.73/100cl",
+    "price": 12.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 centilitre",
+    "qty": "4.73/100cl",
+    "price": 12.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Schweppes Indian Tonic Zero 6x50cl",
+    "qty": "3.97/100cl",
+    "price": 11.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 centilitre",
+    "qty": "3.97/100cl",
+    "price": 11.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "10pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 4.95,
+    "old": 5.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 4.95 statt CHF 5.60",
+    "qty": "Prix par 1 Pièce",
+    "price": 4.95,
+    "old": 5.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Expovina",
+    "qty": "1.46/10cl",
+    "price": 10.95,
+    "old": 14.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Naturaplan Bio-Prosecco DOC Raphael Dal Bo, extra dry",
+    "qty": "1.46/10cl",
+    "price": 10.95,
+    "old": 14.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 10.95 statt CHF 14.95",
+    "qty": "1.46/10cl",
+    "price": 10.95,
+    "old": 14.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Favori des clients",
+    "qty": "0.93/10cl",
+    "price": 6.95,
+    "old": 8.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Prosecco DOC Vigne dei Dogi, extra dry",
+    "qty": "0.93/10cl",
+    "price": 6.95,
+    "old": 8.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.95 statt CHF 8.95",
+    "qty": "0.93/10cl",
+    "price": 6.95,
+    "old": 8.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Prosecco Superiore di Valdobbiadene Conegliano DOCG Carpené Malvolti, extra dry",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 15.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.95 statt CHF 15.50",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 15.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Mundus Vini 2023",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 14.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Valdo Prosecco di Valdobbiadene DOCG",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 14.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 9.95 statt CHF 14.95",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 14.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Blu Secco Vino Frizzante 6x20cl",
+    "qty": "0.98/10cl",
+    "price": 11.7,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 10 centilitre",
+    "qty": "0.98/10cl",
+    "price": 11.7,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Palazzo Maffei Ripasso della Valpolicella Superiore DOC",
+    "qty": "1.65/10cl",
+    "price": 12.35,
+    "old": 16.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 12.35 statt CHF 16.50",
+    "qty": "1.65/10cl",
+    "price": 12.35,
+    "old": 16.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Primitivo di Manduria DOP Monte Sasso 6x 75cl",
+    "qty": "0.79/10cl",
+    "price": 35.7,
+    "old": 59.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 35.70 statt CHF 59.70",
+    "qty": "0.79/10cl",
+    "price": 35.7,
+    "old": 59.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Dézaley Grand Cru AOC",
+    "qty": "1.79/10cl",
+    "price": 12.55,
+    "old": 17.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 12.55 statt CHF 17.95",
+    "qty": "1.79/10cl",
+    "price": 12.55,
+    "old": 17.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Master's Choice",
+    "qty": "0.99/10cl",
+    "price": 7.45,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Ripasso della Valpolicella DOC Rocca Alata",
+    "qty": "0.99/10cl",
+    "price": 7.45,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.45 statt CHF 9.95",
+    "qty": "0.99/10cl",
+    "price": 7.45,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Favori des clients",
+    "qty": "3.19/10cl",
+    "price": 23.95,
+    "old": 33.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Champagne AOC Grande Réserve Nicolas Feuillatte, brut",
+    "qty": "3.19/10cl",
+    "price": 23.95,
+    "old": 33.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 23.95 statt CHF 33.95",
+    "qty": "3.19/10cl",
+    "price": 23.95,
+    "old": 33.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Vinum",
+    "qty": "1.86/10cl",
+    "price": 13.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Crémant d'Alsace AOP Rosé Wolfberger",
+    "qty": "1.86/10cl",
+    "price": 13.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 10 centilitre",
+    "qty": "1.86/10cl",
+    "price": 13.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Toscana IGT Santa Cristina Antinori",
+    "qty": "0.93/10cl",
+    "price": 6.95,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.95 statt CHF 9.95",
+    "qty": "0.93/10cl",
+    "price": 6.95,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Berliner Wein Trophy",
+    "qty": "1.69/10cl",
+    "price": 12.7,
+    "old": 16.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Grand Vin Mousseux Cordon Or Mauler, brut",
+    "qty": "1.69/10cl",
+    "price": 12.7,
+    "old": 16.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 12.70 statt CHF 16.95",
+    "qty": "1.69/10cl",
+    "price": 12.7,
+    "old": 16.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Naturaplan Bio-Prosecco DOC La Jara, extra dry",
+    "qty": "1.73/10cl",
+    "price": 12.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 10 centilitre",
+    "qty": "1.73/10cl",
+    "price": 12.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "James Suckling",
+    "qty": "4.93/10cl",
+    "price": 36.95,
+    "old": 46.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Champagne AOC Pommery Brut Royal",
+    "qty": "4.93/10cl",
+    "price": 36.95,
+    "old": 46.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 36.95 statt CHF 46.95",
+    "qty": "4.93/10cl",
+    "price": 36.95,
+    "old": 46.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Amarone della Valpolicella DOCG Palazzo Maffei",
+    "qty": "2.45/10cl",
+    "price": 18.4,
+    "old": 27.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 18.40 statt CHF 27.50",
+    "qty": "2.45/10cl",
+    "price": 18.4,
+    "old": 27.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Rioja DOCa Reserva Cune 6x 75cl",
+    "qty": "1.19/10cl",
+    "price": 53.7,
+    "old": 107.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 53.70 statt CHF 107.70",
+    "qty": "1.19/10cl",
+    "price": 53.7,
+    "old": 107.7,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Favori des clients",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 13.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Naturaplan Bio-Crémant d'Alsace AOC Wolfberger, brut",
+    "qty": "1.33/10cl",
+    "price": 9.95,
+    "old": 13.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "25pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 2.45,
+    "old": 3.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 2.45 statt CHF 3.50",
+    "qty": "Prix par 1 Pièce",
+    "price": 2.45,
+    "old": 3.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "24rou",
+    "qty": "",
+    "price": 16.95,
+    "old": 29.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 16.95 statt CHF 29.20",
+    "qty": "",
+    "price": 16.95,
+    "old": 29.2,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "16rou",
+    "qty": "",
+    "price": 16.95,
+    "old": 29.0,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 16.95 statt CHF 29.00",
+    "qty": "",
+    "price": 16.95,
+    "old": 29.0,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "30rou",
+    "qty": "",
+    "price": 15.5,
+    "old": 31.0,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 15.50 statt CHF 31.00",
+    "qty": "",
+    "price": 15.5,
+    "old": 31.0,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "3pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.8,
+    "old": 13.05,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.80 statt CHF 13.05",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.8,
+    "old": 13.05,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "32rou",
+    "qty": "",
+    "price": 18.95,
+    "old": 26.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 18.95 statt CHF 26.50",
+    "qty": "",
+    "price": 18.95,
+    "old": 26.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Oecoplan Nettoyant WC liquide Lemongrass",
+    "qty": "0.47/100ml",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "0.47/100ml",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "42pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.25,
+    "old": 12.15,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.25 statt CHF 12.15",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.25,
+    "old": 12.15,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Online",
+    "qty": "",
+    "price": 18.95,
+    "old": 26.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Oecoplan Vinaigre de nettoyage écologique recharge",
+    "qty": "3.30/1l",
+    "price": 3.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 litre",
+    "qty": "3.30/1l",
+    "price": 3.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Film alimentaire Prix Garantie 75m 29cm",
+    "qty": "",
+    "price": 1.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 Mètre",
+    "qty": "",
+    "price": 1.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "4x 50pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.95,
+    "old": 11.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.95 statt CHF 11.80",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.95,
+    "old": 11.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Oecoplan Vinaigre de nettoyage écologique",
+    "qty": "3.45/1l",
+    "price": 3.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 1 litre",
+    "qty": "3.45/1l",
+    "price": 3.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "168pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.95,
+    "old": 13.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.95 statt CHF 13.60",
+    "qty": "Prix par 1 Pièce",
+    "price": 7.95,
+    "old": 13.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "10pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 2.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "0.26/1pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 2.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "70pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 19.95,
+    "old": 40.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 19.95 statt CHF 40.25",
+    "qty": "Prix par 1 Pièce",
+    "price": 19.95,
+    "old": 40.25,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Aliment pour chats en gelée Felix Original Sélection mixte 40x85g",
+    "qty": "0.56/100g",
+    "price": 18.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "0.56/100g",
+    "price": 18.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.56/100g",
+    "price": 18.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Boissons et vins",
+    "name": "Aliment pour chats en gelée Felix Aussi bon que beau Ass. 44x85g",
+    "qty": "0.61/100g",
+    "price": 22.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "0.61/100g",
+    "price": 22.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.61/100g",
+    "price": 22.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Aliment pour chats Gourmet Revelations Mousseline au poulet 4x57g",
+    "qty": "1.93/100g",
+    "price": 4.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "1.93/100g",
+    "price": 4.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.93/100g",
+    "price": 4.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Felix Snacks pour chat Party Mix Original",
+    "qty": "2.93/100g",
+    "price": 5.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "2.93/100g",
+    "price": 5.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "2.93/100g",
+    "price": 5.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Aliment sec pour chats Felix Original Viande",
+    "qty": "0.42/100g",
+    "price": 8.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "0.42/100g",
+    "price": 8.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.42/100g",
+    "price": 8.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Aliment pour chats Felix Soup Sélection de la campagne 6x48g",
+    "qty": "1.08/100g",
+    "price": 3.1,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "1.08/100g",
+    "price": 3.1,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Purina ONE Sterilcat boeuf & blé",
+    "qty": "0.73/100g",
+    "price": 21.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "0.73/100g",
+    "price": 21.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.73/100g",
+    "price": 21.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Aliment pour chats Felix Soup Sélection de poissons 6x48g",
+    "qty": "1.08/100g",
+    "price": 3.1,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Purina ONE Croquettes à la dinde & riz Sensitive pour chat",
+    "qty": "0.93/100g",
+    "price": 13.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "0.93/100g",
+    "price": 13.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.93/100g",
+    "price": 13.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Felix Snacks pour chat Party Mix Seaside",
+    "qty": "2.93/100g",
+    "price": 5.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Gourmet Aliment Feine Pastete Gold pour chat 24x85g",
+    "qty": "1.02/100g",
+    "price": 20.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "1.02/100g",
+    "price": 20.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "1.02/100g",
+    "price": 20.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Purina ONE Adult Saumon+blé complet",
+    "qty": "0.73/100g",
+    "price": 21.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Purina One Aliments au poulet Sensitive en sauce pour chat 4x85g",
+    "qty": "1.41/100g",
+    "price": 4.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "1.41/100g",
+    "price": 4.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Aliment pour chats en gelée Felix Aussi bon que beau Poisson 24x85g",
+    "qty": "0.73/100g",
+    "price": 14.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "0.73/100g",
+    "price": 14.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "0.73/100g",
+    "price": 14.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Aliment pour chats Purina Gourmet Nature's creations Viande 8x85g",
+    "qty": "1.40/100g",
+    "price": 9.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "1.40/100g",
+    "price": 9.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Animaux",
+    "name": "Friandises pour chiens Purina Adventuros Mini steaks Cerf",
+    "qty": "5.64/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Combiner les rabais",
+    "qty": "5.64/100g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "PURINA ONE Senior 7+ Effilés en sauce au Bœuf et aux Carottes, Aliment Humide pour Chats, Sachets 4x85g",
+    "qty": "1.41/100g",
+    "price": 4.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Aliment pour chats Gourmet Revelations Mousseline au saumon 4x57g",
+    "qty": "1.93/100g",
+    "price": 4.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "70pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 1.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "0.03/1pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 1.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "200pce",
+    "qty": "Prix par 100 Pièce",
+    "price": 1.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "0.90/100pce",
+    "qty": "Prix par 100 Pièce",
+    "price": 1.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "40pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 1.7,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "0.04/1pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 1.7,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "4x 80pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 8.2,
+    "old": 11.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 8.20 statt CHF 11.80",
+    "qty": "Prix par 1 Pièce",
+    "price": 8.2,
+    "old": 11.8,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Hygiène et maison",
+    "name": "Signal Dentifrice Anti-Caries",
+    "qty": "2.56/100ml",
+    "price": 3.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "2.56/100ml",
+    "price": 3.2,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "4x 90pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 6.0,
+    "old": 8.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.00 statt CHF 8.60",
+    "qty": "Prix par 1 Pièce",
+    "price": 6.0,
+    "old": 8.6,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Hygiène et maison",
+    "name": "Savon liquide sel marin & fleur de lotus Naturaline Refill",
+    "qty": "1.10/100ml",
+    "price": 5.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "1.10/100ml",
+    "price": 5.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Produits laitiers",
+    "name": "Le Petit Marseillais Crème douche à la vanille 3x 250ml",
+    "qty": "0.96/100ml",
+    "price": 7.2,
+    "old": 10.35,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 7.20 statt CHF 10.35",
+    "qty": "0.96/100ml",
+    "price": 7.2,
+    "old": 10.35,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Rexona Nonstop Protection Deo Roll-On Cotton Dry",
+    "qty": "0.70/10ml",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 10 millilitre",
+    "qty": "0.70/10ml",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Borotalco Deo Original Roll On",
+    "qty": "1.10/10ml",
+    "price": 5.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 10 millilitre",
+    "qty": "1.10/10ml",
+    "price": 5.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Le Petit Marseillais Crème douche au fleur d'oranger 3x 250ml",
+    "qty": "0.96/100ml",
+    "price": 7.2,
+    "old": 10.35,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Rexona Men Nonstop Protection Déodorant spray Cobalt Dry Anti-Transpirant",
+    "qty": "2.60/100ml",
+    "price": 3.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "2.60/100ml",
+    "price": 3.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Hygiène et maison",
+    "name": "Savons Dove Cream bar 2x90g",
+    "qty": "1.94/100g",
+    "price": 3.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "14pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 2.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "0.21/1pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 2.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "4x 60pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 6.4,
+    "old": 9.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 6.40 statt CHF 9.40",
+    "qty": "Prix par 1 Pièce",
+    "price": 6.4,
+    "old": 9.4,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Sibonet pH 5.5 hypoallergénique Gel douche recharge",
+    "qty": "1.59/100ml",
+    "price": 7.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "1.59/100ml",
+    "price": 7.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Freche Freunde Chips de fruits bio à la fraise à partir de 36+ mois",
+    "qty": "24.17/100g",
+    "price": 2.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "40pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 1.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "0.05/1pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 1.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Freche Freunde Bio Poche à tartiner Pomme Fraise Cerise Myrtille Framboise à partir de 6+ mois",
+    "qty": "1.95/100g",
+    "price": 1.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Freche Freunde Barres croustillantes bio Banane & Potiron à partir de 8+ mois",
+    "qty": "4.88/100g",
+    "price": 4.1,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "4.88/100g",
+    "price": 4.1,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Barres Freche Freunde Banane Raisin rouge & Aronia à partir de 36+ mois",
+    "qty": "4.24/100g",
+    "price": 3.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "4.24/100g",
+    "price": 3.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Freche Freunde Bio Party-Pops Banane à partir de 12+ mois",
+    "qty": "9.00/100g",
+    "price": 1.35,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "9.00/100g",
+    "price": 1.35,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Weleda Baby Calendula Douche & Shampooing",
+    "qty": "4.25/100ml",
+    "price": 8.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 millilitre",
+    "qty": "4.25/100ml",
+    "price": 8.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Fruits et légumes",
+    "name": "Freche Freunde Chips de fruits bio à la mangue à partir de 36+ mois",
+    "qty": "20.71/100g",
+    "price": 2.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "60pce",
+    "qty": "Prix par 1 Pièce",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "29,7.- par 12",
+    "qty": "Prix par 1 Pièce",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Freche Freunde Bio Bretzels aux pois chiches à partir de 36+ mois",
+    "qty": "3.80/100g",
+    "price": 2.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
+    "qty": "3.80/100g",
+    "price": 2.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Johnson's Baby Shampooing 3x 300ml",
+    "qty": "0.88/100ml",
+    "price": 7.9,
+    "old": 11.85,
+    "valid": ""
+  }
+]

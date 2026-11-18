@@ -694,42 +694,6 @@
   },
   {
     "store": "lidl",
-    "cat": "Épicerie",
-    "name": "K-Pop Demon Hunters pour 6.99 CHF - UNO",
-    "qty": "",
-    "price": 6.99,
-    "old": null,
-    "valid": "16.11. - 18.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Dès 3 ans",
-    "qty": "",
-    "price": 9.99,
-    "old": null,
-    "valid": "16.11. - 18.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Dès 0 ans",
-    "qty": "",
-    "price": 7.99,
-    "old": null,
-    "valid": "16.11. - 18.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Livre scientifique pour 3.99 CHF - Livre scientifique",
-    "qty": "",
-    "price": 3.99,
-    "old": 4.99,
-    "valid": "16.11. - 18.11."
-  },
-  {
-    "store": "lidl",
     "cat": "Bazar et loisirs",
     "name": "Super Lupis pour 2.49 CHF - LUPILU",
     "qty": "",

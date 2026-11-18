@@ -87,9 +87,10 @@ def main():
         print(f"Requête Coop via VPN (page {page_num})...", flush=True)
         try:
             if HAS_CFFI:
-                resp = cffi_requests.get(url, headers=headers, impersonate="chrome124", timeout=15)
+                resp = cffi_requests.get(url, headers=headers, impersonate="chrome124", timeout=25)
             else:
-                resp = cffi_requests.get(url, headers=headers, timeout=15)
+                resp = cffi_requests.get(url, headers=headers, timeout=25)
+
             print(f"  Statut HTTP : {resp.status_code} | Taille : {len(resp.text)} octets", flush=True)
             if resp.status_code != 200:
                 break

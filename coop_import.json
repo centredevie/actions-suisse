@@ -1225,24 +1225,6 @@
   },
   {
     "store": "coop",
-    "cat": "Épicerie",
-    "name": "Coop",
-    "qty": "6.93/100g",
-    "price": 10.4,
-    "old": 13.1,
-    "valid": ""
-  },
-  {
-    "store": "coop",
-    "cat": "Épicerie",
-    "name": "CHF 10.40 statt CHF 13.10",
-    "qty": "6.93/100g",
-    "price": 10.4,
-    "old": 13.1,
-    "valid": ""
-  },
-  {
-    "store": "coop",
     "cat": "Viande et poisson",
     "name": "Viande de bœuf hachée 2x500g",
     "qty": "0.98/100g",
@@ -1257,6 +1239,24 @@
     "qty": "0.98/100g",
     "price": 9.75,
     "old": 19.5,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Coop",
+    "qty": "6.93/100g",
+    "price": 10.4,
+    "old": 13.1,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 10.40 statt CHF 13.10",
+    "qty": "6.93/100g",
+    "price": 10.4,
+    "old": 13.1,
     "valid": ""
   },
   {
@@ -1334,24 +1334,6 @@
   {
     "store": "coop",
     "cat": "Viande et poisson",
-    "name": "Naturafarm Pain de viande 3x 190g",
-    "qty": "1.57/100g",
-    "price": 8.95,
-    "old": 11.85,
-    "valid": ""
-  },
-  {
-    "store": "coop",
-    "cat": "Épicerie",
-    "name": "CHF 8.95 statt CHF 11.85",
-    "qty": "1.57/100g",
-    "price": 8.95,
-    "old": 11.85,
-    "valid": ""
-  },
-  {
-    "store": "coop",
-    "cat": "Viande et poisson",
     "name": "Naturaplan Bio Ailes de poulet 5 pièces env. 380g",
     "qty": "1.84/100g",
     "price": 7.0,
@@ -1365,6 +1347,24 @@
     "qty": "1.84/100g",
     "price": 7.0,
     "old": 7.95,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Viande et poisson",
+    "name": "Naturafarm Pain de viande 3x 190g",
+    "qty": "1.57/100g",
+    "price": 8.95,
+    "old": 11.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "CHF 8.95 statt CHF 11.85",
+    "qty": "1.57/100g",
+    "price": 8.95,
+    "old": 11.85,
     "valid": ""
   },
   {
@@ -2242,20 +2242,20 @@
   },
   {
     "store": "coop",
-    "cat": "Épicerie",
-    "name": "Findus Délices aux champignons surglés 8 pièces",
-    "qty": "1.56/100g",
-    "price": 7.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "coop",
     "cat": "Produits laitiers",
     "name": "Hero Ravioli aux oeufs 3x 430g",
     "qty": "0.61/100g",
     "price": 7.9,
     "old": 11.85,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Findus Délices aux champignons surglés 8 pièces",
+    "qty": "1.56/100g",
+    "price": 7.5,
+    "old": null,
     "valid": ""
   },
   {
@@ -2359,10 +2359,10 @@
   },
   {
     "store": "coop",
-    "cat": "Épicerie",
-    "name": "Spätzlis Betty Bossi",
-    "qty": "0.65/100g",
-    "price": 1.95,
+    "cat": "Surgelés",
+    "name": "Findus Délices bolognese surgelés 8 pièces",
+    "qty": "1.75/100g",
+    "price": 8.4,
     "old": null,
     "valid": ""
   },
@@ -2370,8 +2370,8 @@
     "store": "coop",
     "cat": "Épicerie",
     "name": "Prix par 100 gramme",
-    "qty": "0.65/100g",
-    "price": 1.95,
+    "qty": "1.75/100g",
+    "price": 8.4,
     "old": null,
     "valid": ""
   },
@@ -3981,6 +3981,15 @@
     "store": "coop",
     "cat": "Fruits et légumes",
     "name": "Freche Freunde Bio Poche à tartiner Pomme Fraise Cerise Myrtille Framboise à partir de 6+ mois",
+    "qty": "1.95/100g",
+    "price": 1.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "coop",
+    "cat": "Épicerie",
+    "name": "Prix par 100 gramme",
     "qty": "1.95/100g",
     "price": 1.95,
     "old": null,

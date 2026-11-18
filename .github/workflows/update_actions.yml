@@ -22,15 +22,12 @@ jobs:
 
       - name: Installer les dependances
         run: |
-          pip install requests curl_cffi playwright playwright-stealth beautifulsoup4
+          pip install requests playwright playwright-stealth beautifulsoup4
           playwright install chromium
           playwright install-deps chromium
 
       - name: Script Migros
         run: python3 migros_actions.py
-
-      - name: Script Coop
-        run: python3 coop_actions.py
 
       - name: Script Aldi
         run: python3 aldi_actions.py
@@ -40,6 +37,23 @@ jobs:
 
       - name: Script Denner
         run: python3 denner_actions.py
+
+      - name: Activer le VPN pour Coop
+        if: env.HAS_WG == 'true'
+        env:
+          HAS_WG: ${{ secrets.WG_CONFIG != '' }}
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq wireguard-tools openresolv
+          echo "${{ secrets.WG_CONFIG }}" | sudo tee /etc/wireguard/wg0.conf > /dev/null
+          sudo wg-quick up wg0
+
+      - name: Script Coop
+        run: python3 coop_actions.py
+
+      - name: Couper le VPN
+        if: always()
+        run: sudo wg-quick down wg0 || true
 
       - name: Sauvegarder les JSON
         run: |

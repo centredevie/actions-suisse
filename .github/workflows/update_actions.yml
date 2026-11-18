@@ -44,8 +44,8 @@ jobs:
           HAS_WG: ${{ secrets.WG_CONFIG != '' }}
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq wireguard-tools openresolv
-          echo "${{ secrets.WG_CONFIG }}" | sudo tee /etc/wireguard/wg0.conf > /dev/null
+          sudo apt-get install -y -qq wireguard-tools
+          echo "${{ secrets.WG_CONFIG }}" | grep -v "^DNS" | sudo tee /etc/wireguard/wg0.conf > /dev/null
           sudo wg-quick up wg0
 
       - name: Script Coop

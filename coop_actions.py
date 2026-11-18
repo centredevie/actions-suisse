@@ -1,11 +1,11 @@
 import json
 import re
-from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup
 
 try:
-    from playwright_stealth import stealth_sync
+    from curl_cffi import requests as cffi_requests
 except ImportError:
-    stealth_sync = None
+    import requests as cffi_requests
 
 URL_COOP = "https://www.coop.ch/fr/actions/les-actions-du-moment/c/m_1011"
 
@@ -31,11 +31,11 @@ def map_category(cat_raw, name=""):
         return 'Bazar et loisirs'
     return 'Épicerie'
 
-def extract_from_json_payload(data, out_list, seen):
-    if isinstance(data, dict):
-        title = data.get('title') or data.get('name') or data.get('productName')
-        price_obj = data.get('price') or data.get('salesPrice') or data.get('prices')
-        if title and isinstance(title, str) and price_obj is not None:
+def extract_json_recursive(obj, out_list, seen):
+    if isinstance(obj, dict):
+        title = obj.get('title') or obj.get('name') or obj.get('productName')
+        price_obj = obj.get('price') or obj.get('salesPrice') or obj.get('prices')
+        if isinstance(title, str) and price_obj is not None:
             price = None
             old_price = None
             if isinstance(price_obj, (int, float)):
@@ -49,9 +49,9 @@ def extract_from_json_payload(data, out_list, seen):
                     old_price = float(old)
 
             if price and price > 0:
-                qty = str(data.get('quantity') or data.get('content') or data.get('packageSize') or '')
-                cat_raw = str(data.get('category') or data.get('mainCategory') or '')
-                valid = str(data.get('validTo') or data.get('promotionPeriod') or '')
+                qty = str(obj.get('quantity') or obj.get('content') or obj.get('packageSize') or '')
+                cat_raw = str(obj.get('category') or obj.get('mainCategory') or '')
+                valid = str(obj.get('validTo') or obj.get('promotionPeriod') or '')
                 key = (title.strip(), price)
                 if key not in seen:
                     seen.add(key)
@@ -64,114 +64,87 @@ def extract_from_json_payload(data, out_list, seen):
                         "old": old_price,
                         "valid": valid.strip()
                     })
-        for v in data.values():
-            extract_from_json_payload(v, out_list, seen)
-    elif isinstance(data, list):
-        for item in data:
-            extract_from_json_payload(item, out_list, seen)
+        for v in obj.values():
+            extract_json_recursive(v, out_list, seen)
+    elif isinstance(obj, list):
+        for item in obj:
+            extract_json_recursive(item, out_list, seen)
 
 def main():
     results = []
     seen = set()
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled", "--no-sandbox", "--disable-dev-shm-usage"]
-        )
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
-            locale="fr-CH",
-            timezone_id="Europe/Zurich",
-            viewport={"width": 1366, "height": 900}
-        )
-        page = context.new_page()
-        if stealth_sync:
-            stealth_sync(page)
+    headers = {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "fr-CH,fr;q=0.9",
+        "Referer": "https://www.coop.ch/fr/"
+    }
 
-        def handle_response(response):
-            try:
-                ct = response.headers.get("content-type", "")
-                if "application/json" in ct and response.status == 200:
-                    if any(k in response.url for k in ["product", "search", "m_1011", "offer", "action"]):
-                        extract_from_json_payload(response.json(), results, seen)
-            except Exception:
-                pass
-
-        page.on("response", handle_response)
-
-        print("Chargement des actions Coop via VPN...", flush=True)
+    for page_num in range(0, 5):
+        url = f"{URL_COOP}?q=%3Arelevance&page={page_num}&pageSize=60"
+        print(f"Requête Coop via VPN (page {page_num})...", flush=True)
         try:
-            page.goto(URL_COOP, wait_until="domcontentloaded", timeout=35000)
-            page.wait_for_timeout(4000)
-            print(f"Titre de la page reçue : {page.title()}", flush=True)
+            resp = cffi_requests.get(url, headers=headers, impersonate="chrome124", timeout=15)
+            print(f"  Statut HTTP : {resp.status_code} | Taille : {len(resp.text)} octets", flush=True)
+            if resp.status_code != 200:
+                break
+
+            soup = BeautifulSoup(resp.text, "html.parser")
+            title_tag = soup.find("title")
+            print(f"  Titre HTML : {title_tag.text.strip() if title_tag else 'Aucun'}", flush=True)
+
+            for sc in soup.find_all("script"):
+                txt = sc.string or ""
+                if "product" in txt.lower() and ("price" in txt.lower() or "salesprice" in txt.lower()):
+                    try:
+                        extract_json_recursive(json.loads(txt), results, seen)
+                    except Exception:
+                        pass
+
+            cards = soup.select('[data-udo-cat1], [class*="productTile"], article')
+            for c in cards:
+                cat_attr = c.get("data-udo-cat1", "")
+                lines = [l.strip() for l in c.get_text("\n").split("\n") if l.strip()]
+                price = None
+                old_price = None
+                qty = ""
+                name = ""
+                for l in lines:
+                    m = re.match(r'^(?:CHF\s*)?(\d+\.\d{2})$', l)
+                    if m:
+                        v = float(m.group(1))
+                        if price is None:
+                            price = v
+                        elif v > price:
+                            old_price = v
+                    elif re.search(r'\b(\d+\s*(?:g|kg|ml|cl|l|pièce|pièces))\b', l, re.I) and len(l) < 30:
+                        qty = l
+                    elif not name and len(l) > 3 and '%' not in l:
+                        name = l
+                if name and price:
+                    key = (name, price)
+                    if key not in seen:
+                        seen.add(key)
+                        results.append({
+                            "store": "coop",
+                            "cat": map_category(cat_attr, name),
+                            "name": name,
+                            "qty": qty,
+                            "price": price,
+                            "old": old_price,
+                            "valid": ""
+                        })
+
+            if len(results) == 0 and page_num == 0:
+                break
         except Exception as e:
-            print(f"Erreur réseau Coop : {e}", flush=True)
-            browser.close()
-            with open("coop_import.json", "w", encoding="utf-8") as f:
-                json.dump([], f)
-            return
-
-        try:
-            btn = page.locator("#onetrust-accept-btn-handler, button:has-text('Accepter')").first
-            if btn.is_visible(timeout=2000):
-                btn.click()
-                page.wait_for_timeout(1500)
-        except Exception:
-            pass
-
-        for step in range(1, 12):
-            page.evaluate(f"window.scrollTo(0, document.body.scrollHeight * {step / 11});")
-            page.wait_for_timeout(450)
-
-        dom_items = page.evaluate("""() => {
-            const cards = Array.from(document.querySelectorAll('[data-udo-cat1], [class*="productTile"], article'));
-            return cards.map(c => ({
-                cat: c.getAttribute('data-udo-cat1') || '',
-                text: c.innerText || ''
-            }));
-        }""")
-
-        print(f"JSON interceptés : {len(results)} | Cartes DOM trouvées : {len(dom_items)}", flush=True)
-
-        for d in dom_items:
-            lines = [l.strip() for l in d['text'].split('\n') if l.strip()]
-            price = None
-            old_price = None
-            qty = ""
-            name = ""
-            for l in lines:
-                m = re.match(r'^(?:CHF\s*)?(\d+\.\d{2})$', l)
-                if m:
-                    v = float(m.group(1))
-                    if price is None:
-                        price = v
-                    elif v > price:
-                        old_price = v
-                elif re.search(r'\b(\d+\s*(?:g|kg|ml|cl|l|pièce|pièces))\b', l, re.I) and len(l) < 30:
-                    qty = l
-                elif not name and len(l) > 3 and '%' not in l:
-                    name = l
-            if name and price:
-                key = (name, price)
-                if key not in seen:
-                    seen.add(key)
-                    results.append({
-                        "store": "coop",
-                        "cat": map_category(d['cat'], name),
-                        "name": name,
-                        "qty": qty,
-                        "price": price,
-                        "old": old_price,
-                        "valid": ""
-                    })
-
-        browser.close()
+            print(f"  Erreur page {page_num} : {e}", flush=True)
+            break
 
     with open("coop_import.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    print(f"{len(results)} produits écrits dans coop_import.json", flush=True)
+    print(f"Total Coop sauvegardé : {len(results)} produits dans coop_import.json", flush=True)
 
 if __name__ == "__main__":
     main()

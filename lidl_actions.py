@@ -34,7 +34,6 @@ def parse_lidl_card(lines):
     if not clean:
         return None
 
-    # Recombiner les prix coupés sur 2 lignes (ex: "2." suivi de "99" ou "2" suivi de ".99")
     merged_lines = []
     i = 0
     while i < len(clean):
@@ -55,16 +54,13 @@ def parse_lidl_card(lines):
         if re.search(r'(?:dès le|valable|\d{2}\.\d{2}\.?\s*[–-])', line, re.I):
             valid = line
             continue
-
         if re.match(r'^-?\d+\s*%(?:\s*de rabais)?$', line, re.I):
             continue
-
         if re.search(r'(?:1\s*kg|100\s*g|1\s*l|100\s*ml)\s*=', line, re.I):
             if not qty:
                 qty = line
             continue
 
-        # Extraction de prix flexible dans la ligne (ex: "2.99", "CHF 2.99", "2.99*", "au lieu de 4.50")
         nums = re.findall(r'(\d+\.\d{2})', line)
         if nums and len(line) < 25:
             for n in nums:
@@ -99,34 +95,32 @@ def parse_lidl_card(lines):
         "valid": valid
     }
 
-def discover_promo_urls(page):
-    """Détecte uniquement les vraies URLs de rayons d'actions (/c/fr-CH/store/.../a10...)."""
-    print(f"Recherche des liens d'actions sur {HOME_LIDL}...")
-    page.goto(HOME_LIDL, wait_until="domcontentloaded", timeout=45000)
-    page.wait_for_timeout(2500)
-
-    try:
-        btn = page.locator("button:has-text('Accepter'), #onetrust-accept-btn-handler").first
-        if btn.is_visible(timeout=2000):
-            btn.click()
-            page.wait_for_timeout(1000)
-    except Exception:
-        pass
-
-    hrefs = page.evaluate("""() => {
-        const links = Array.from(document.querySelectorAll('a[href]'));
-        return links
-            .map(a => a.getAttribute('href') || '')
-            .filter(href => href.includes('/c/fr-CH/store/') && /\/a\d+/.test(href));
-    }""")
-
-    urls = [FALLBACK_LIDL]
-    for h in hrefs:
-        full = urljoin(HOME_LIDL, h)
-        if full not in urls and 'lidl-plus' not in full:
-            urls.append(full)
-
-    return urls[:4]
+def extract_embedded_json(obj, out_list, seen):
+    """Extrait les produits si Lidl les stocke dans un script JSON de la page."""
+    if isinstance(obj, dict):
+        title = obj.get('title') or obj.get('fullTitle') or obj.get('name')
+        price_data = obj.get('price')
+        if isinstance(title, str) and isinstance(price_data, dict):
+            p = price_data.get('price') or price_data.get('amount')
+            old = price_data.get('oldPrice') or price_data.get('strokePrice')
+            if isinstance(p, (int, float)) and p > 0:
+                key = (title.strip(), float(p))
+                if key not in seen:
+                    seen.add(key)
+                    out_list.append({
+                        "store": "lidl",
+                        "cat": map_category(title),
+                        "name": title.strip(),
+                        "qty": str(price_data.get('packaging') or obj.get('packaging') or ''),
+                        "price": float(p),
+                        "old": float(old) if isinstance(old, (int, float)) and old > p else None,
+                        "valid": ""
+                    })
+        for v in obj.values():
+            extract_embedded_json(v, out_list, seen)
+    elif isinstance(obj, list):
+        for item in obj:
+            extract_embedded_json(item, out_list, seen)
 
 def main():
     results = []
@@ -140,45 +134,60 @@ def main():
             timezone_id="Europe/Zurich"
         )
         page = context.new_page()
+        page.set_default_timeout(15000)
 
-        target_urls = discover_promo_urls(page)
-        print(f"Pages d'actions Lidl ciblées : {target_urls}")
+        print("1/3 Découverte des pages d'actions Lidl...", flush=True)
+        target_urls = [FALLBACK_LIDL]
+        try:
+            page.goto(HOME_LIDL, wait_until="domcontentloaded", timeout=20000)
+            page.wait_for_timeout(2000)
+            hrefs = page.evaluate("""() => {
+                return Array.from(document.querySelectorAll('a[href]'))
+                    .map(a => a.getAttribute('href') || '')
+                    .filter(h => h.includes('/c/fr-CH/store/') && /\\/a\\d+/.test(h));
+            }""")
+            for h in hrefs:
+                full = urljoin(HOME_LIDL, h)
+                if full not in target_urls and 'lidl-plus' not in full:
+                    target_urls.append(full)
+        except Exception as e:
+            print(f"Note accueil Lidl : {e}", flush=True)
+
+        target_urls = target_urls[:3]
+        print(f"Pages ciblées ({len(target_urls)}) : {target_urls}", flush=True)
 
         for url in target_urls:
-            print(f"Scraping Lidl : {url}")
+            print(f"2/3 Lecture de {url}...", flush=True)
             try:
-                page.goto(url, wait_until="domcontentloaded", timeout=45000)
-                page.wait_for_timeout(3000)
+                page.goto(url, wait_until="domcontentloaded", timeout=20000)
+                page.wait_for_timeout(2500)
 
-                for _ in range(15):
+                # Défilement rapide et borné (6 étapes max, aucun clic bloquant)
+                for step in range(1, 7):
+                    page.evaluate(f"window.scrollTo(0, document.body.scrollHeight * {step / 6});")
+                    page.wait_for_timeout(400)
+
+                # 1) Extraction depuis les JSON intégrés dans la page
+                scripts_json = page.evaluate("""() => {
+                    return Array.from(document.querySelectorAll('script[type="application/json"]'))
+                        .map(s => s.textContent || '');
+                }""")
+                for raw_j in scripts_json:
                     try:
-                        more_btn = page.locator("button:has-text('Afficher plus'), button:has-text('Charger plus')").first
-                        if more_btn.is_visible(timeout=400):
-                            more_btn.click()
-                            page.wait_for_timeout(1000)
+                        extract_embedded_json(json.loads(raw_j), results, seen)
                     except Exception:
                         pass
-                    page.mouse.wheel(0, 1600)
-                    page.wait_for_timeout(450)
 
-                # Extraction des cartes produits + attributs data-*
+                # 2) Extraction depuis le DOM visible
                 cards_data = page.evaluate("""() => {
-                    const selectors = [
-                        '.product-grid-box',
-                        '[data-testid*="product"]',
-                        'li.s-grid__item',
-                        'article'
-                    ];
+                    const selectors = ['.product-grid-box', '[data-testid*="product"]', 'li.s-grid__item', 'article'];
                     let els = [];
                     for (const sel of selectors) {
                         const found = Array.from(document.querySelectorAll(sel));
-                        if (found.length > 3) {
-                            els = found;
-                            break;
-                        }
+                        if (found.length > 2) { els = found; break; }
                     }
                     if (!els.length) {
-                        els = Array.from(document.querySelectorAll('main a')).filter(a => a.querySelector('img') && /\\d+\\.\\d{2}/.test(a.innerText));
+                        els = Array.from(document.querySelectorAll('main a')).filter(a => /\\d+\\.\\d{2}/.test(a.innerText));
                     }
                     return els.map(el => ({
                         text: el.innerText || '',
@@ -187,7 +196,7 @@ def main():
                     }));
                 }""")
 
-                print(f"  -> {len(cards_data)} cartes brutes sur {url}")
+                print(f"   -> {len(cards_data)} cartes DOM vues | Total cumulé : {len(results)}", flush=True)
                 for card in cards_data:
                     raw_lines = card['text'].split('\n')
                     if card['title'] and card['price']:
@@ -199,14 +208,14 @@ def main():
                             seen.add(key)
                             results.append(item)
             except Exception as e:
-                print(f"Erreur sur {url} : {e}")
+                print(f"Erreur sur {url} : {e}", flush=True)
 
         browser.close()
 
     with open("lidl_import.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    print(f"Total Lidl sauvegardé : {len(results)} offres dans lidl_import.json")
+    print(f"3/3 Terminé : {len(results)} offres écrites dans lidl_import.json", flush=True)
 
 if __name__ == "__main__":
     main()

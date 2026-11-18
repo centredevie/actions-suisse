@@ -4,8 +4,10 @@ from bs4 import BeautifulSoup
 
 try:
     from curl_cffi import requests as cffi_requests
+    HAS_CFFI = True
 except ImportError:
     import requests as cffi_requests
+    HAS_CFFI = False
 
 URL_COOP = "https://www.coop.ch/fr/actions/les-actions-du-moment/c/m_1011"
 
@@ -84,7 +86,10 @@ def main():
         url = f"{URL_COOP}?q=%3Arelevance&page={page_num}&pageSize=60"
         print(f"Requête Coop via VPN (page {page_num})...", flush=True)
         try:
-            resp = cffi_requests.get(url, headers=headers, impersonate="chrome124", timeout=15)
+            if HAS_CFFI:
+                resp = cffi_requests.get(url, headers=headers, impersonate="chrome124", timeout=15)
+            else:
+                resp = cffi_requests.get(url, headers=headers, timeout=15)
             print(f"  Statut HTTP : {resp.status_code} | Taille : {len(resp.text)} octets", flush=True)
             if resp.status_code != 200:
                 break

@@ -101,9 +101,16 @@ def main():
         page.on("response", handle_response)
 
         print("Chargement des actions Coop via VPN...", flush=True)
-        page.goto(URL_COOP, wait_until="domcontentloaded", timeout=35000)
-        page.wait_for_timeout(4000)
-        print(f"Titre de la page reçue : {page.title()}", flush=True)
+        try:
+            page.goto(URL_COOP, wait_until="domcontentloaded", timeout=35000)
+            page.wait_for_timeout(4000)
+            print(f"Titre de la page reçue : {page.title()}", flush=True)
+        except Exception as e:
+            print(f"Erreur réseau Coop : {e}", flush=True)
+            browser.close()
+            with open("coop_import.json", "w", encoding="utf-8") as f:
+                json.dump([], f)
+            return
 
         try:
             btn = page.locator("#onetrust-accept-btn-handler, button:has-text('Accepter')").first

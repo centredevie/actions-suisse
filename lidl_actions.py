@@ -29,10 +29,21 @@ def map_category(text):
     return 'Épicerie'
 
 def parse_lidl_card(lines):
-    ignore = {'ajouter au panier', 'en savoir plus', 'nouveau', 'super prix', 'action', 'exclusivité lidl plus', 'lidl plus'}
+    ignore = {'ajouter au panier', 'en savoir plus', 'nouveau', 'super prix', 'action', 'exclusivité lidl plus', 'lidl plus', 'en magasin'}
     clean = [l.strip() for l in lines if l.strip() and l.strip().lower() not in ignore]
     if not clean:
         return None
+
+    # Recombiner les prix coupés sur 2 lignes (ex: "2." suivi de "99" ou "2" suivi de ".99")
+    merged_lines = []
+    i = 0
+    while i < len(clean):
+        if i + 1 < len(clean) and re.match(r'^\d+\.$', clean[i]) and re.match(r'^\d{2}\*?$', clean[i+1]):
+            merged_lines.append(clean[i] + clean[i+1])
+            i += 2
+        else:
+            merged_lines.append(clean[i])
+            i += 1
 
     price = None
     old_price = None
@@ -40,7 +51,7 @@ def parse_lidl_card(lines):
     valid = ""
     name_parts = []
 
-    for line in clean:
+    for line in merged_lines:
         if re.search(r'(?:dès le|valable|\d{2}\.\d{2}\.?\s*[–-])', line, re.I):
             valid = line
             continue
@@ -53,23 +64,26 @@ def parse_lidl_card(lines):
                 qty = line
             continue
 
-        m_num = re.match(r'^(?:CHF\s*)?(\d+\.\d{2})\*?$', line, re.I)
-        if m_num:
-            val = float(m_num.group(1))
-            if price is None:
-                price = val
-            elif val > price:
-                old_price = val
-            elif val < price:
-                old_price = price
-                price = val
+        # Extraction de prix flexible dans la ligne (ex: "2.99", "CHF 2.99", "2.99*", "au lieu de 4.50")
+        nums = re.findall(r'(\d+\.\d{2})', line)
+        if nums and len(line) < 25:
+            for n in nums:
+                val = float(n)
+                if price is None:
+                    price = val
+                elif val > price and old_price is None:
+                    old_price = val
+                elif val < price and old_price is None:
+                    old_price = price
+                    price = val
             continue
 
-        if re.search(r'\b(\d+(?:[.,]\d+)?\s*(?:g|kg|ml|cl|l|pièce|pièces|pces|x)\b)', line, re.I) and len(line) < 40 and not qty:
+        if re.search(r'\b(\d+(?:[.,]\d+)?\s*(?:g|kg|ml|cl|l|pièce|pièces|pces|x|×)\b)', line, re.I) and len(line) < 40 and not qty:
             qty = line
             continue
 
-        name_parts.append(line)
+        if len(line) > 2:
+            name_parts.append(line)
 
     if price is None or not name_parts:
         return None
@@ -86,10 +100,10 @@ def parse_lidl_card(lines):
     }
 
 def discover_promo_urls(page):
-    """Détecte automatiquement les URLs des actions de la semaine depuis l'accueil Lidl."""
+    """Détecte uniquement les vraies URLs de rayons d'actions (/c/fr-CH/store/.../a10...)."""
     print(f"Recherche des liens d'actions sur {HOME_LIDL}...")
-    page.goto(HOME_LIDL, wait_until="networkidle", timeout=45000)
-    page.wait_for_timeout(1500)
+    page.goto(HOME_LIDL, wait_until="domcontentloaded", timeout=45000)
+    page.wait_for_timeout(2500)
 
     try:
         btn = page.locator("button:has-text('Accepter'), #onetrust-accept-btn-handler").first
@@ -102,29 +116,17 @@ def discover_promo_urls(page):
     hrefs = page.evaluate("""() => {
         const links = Array.from(document.querySelectorAll('a[href]'));
         return links
-            .filter(a => {
-                const href = a.getAttribute('href') || '';
-                const text = (a.innerText || '').toLowerCase();
-                return (
-                    href.includes('/c/fr-CH/') &&
-                    (href.includes('promotion') || href.includes('action') || href.includes('offre') ||
-                     text.includes('promotion') || text.includes('action') || text.includes('semaine'))
-                );
-            })
-            .map(a => a.getAttribute('href'));
+            .map(a => a.getAttribute('href') || '')
+            .filter(href => href.includes('/c/fr-CH/store/') && /\/a\d+/.test(href));
     }""")
 
-    urls = []
+    urls = [FALLBACK_LIDL]
     for h in hrefs:
         full = urljoin(HOME_LIDL, h)
-        if full not in urls and '/p/' not in full:
+        if full not in urls and 'lidl-plus' not in full:
             urls.append(full)
 
-    if not urls:
-        urls = [FALLBACK_LIDL]
-
-    # On garde les 3 premières pages d'actions principales (ex: Promotions de la semaine, Super week-end, etc.)
-    return urls[:3]
+    return urls[:4]
 
 def main():
     results = []
@@ -133,19 +135,20 @@ def main():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-            locale="fr-CH"
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            locale="fr-CH",
+            timezone_id="Europe/Zurich"
         )
         page = context.new_page()
 
         target_urls = discover_promo_urls(page)
-        print(f"Pages d'actions Lidl détectées : {target_urls}")
+        print(f"Pages d'actions Lidl ciblées : {target_urls}")
 
         for url in target_urls:
             print(f"Scraping Lidl : {url}")
             try:
-                page.goto(url, wait_until="networkidle", timeout=45000)
-                page.wait_for_timeout(2000)
+                page.goto(url, wait_until="domcontentloaded", timeout=45000)
+                page.wait_for_timeout(3000)
 
                 for _ in range(15):
                     try:
@@ -156,19 +159,20 @@ def main():
                     except Exception:
                         pass
                     page.mouse.wheel(0, 1600)
-                    page.wait_for_timeout(400)
+                    page.wait_for_timeout(450)
 
-                cards_text = page.evaluate("""() => {
+                # Extraction des cartes produits + attributs data-*
+                cards_data = page.evaluate("""() => {
                     const selectors = [
                         '.product-grid-box',
                         '[data-testid*="product"]',
-                        'article',
-                        'li.s-grid__item'
+                        'li.s-grid__item',
+                        'article'
                     ];
                     let els = [];
                     for (const sel of selectors) {
                         const found = Array.from(document.querySelectorAll(sel));
-                        if (found.length > 5) {
+                        if (found.length > 3) {
                             els = found;
                             break;
                         }
@@ -176,12 +180,19 @@ def main():
                     if (!els.length) {
                         els = Array.from(document.querySelectorAll('main a')).filter(a => a.querySelector('img') && /\\d+\\.\\d{2}/.test(a.innerText));
                     }
-                    return els.map(el => el.innerText);
+                    return els.map(el => ({
+                        text: el.innerText || '',
+                        title: el.getAttribute('data-name') || el.getAttribute('title') || '',
+                        price: el.getAttribute('data-price') || ''
+                    }));
                 }""")
 
-                print(f"  -> {len(cards_text)} cartes brutes sur {url}")
-                for raw in cards_text:
-                    item = parse_lidl_card(raw.split('\n'))
+                print(f"  -> {len(cards_data)} cartes brutes sur {url}")
+                for card in cards_data:
+                    raw_lines = card['text'].split('\n')
+                    if card['title'] and card['price']:
+                        raw_lines = [card['title'], card['price']] + raw_lines
+                    item = parse_lidl_card(raw_lines)
                     if item:
                         key = (item['name'], item['price'])
                         if key not in seen:

@@ -22,7 +22,7 @@ jobs:
 
       - name: Installer les dependances
         run: |
-          pip install requests playwright beautifulsoup4
+          pip install requests playwright playwright-stealth beautifulsoup4
           playwright install chromium
           playwright install-deps chromium
 

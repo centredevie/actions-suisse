@@ -2,101 +2,137 @@
  {
   "store": "migros",
   "cat": "Fruits et légumes",
-  "name": "Extra Clémentines avec feuille",
-  "qty": "1,5 kg",
-  "price": 4.4,
-  "old": 5.9,
-  "valid": "12.11–18.11"
+  "name": "Migros Poireaux verts",
+  "qty": "1 kg",
+  "price": 3.8,
+  "old": 4.8,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Fruits et légumes",
-  "name": "Prunes  rouges",
+  "name": "Migros Avocat",
   "qty": "1 pièce",
-  "price": 1.2,
-  "old": 1.5,
-  "valid": "12.11–18.11"
+  "price": 1.11,
+  "old": 1.3,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Fruits et légumes",
-  "name": "Aubergines Bio",
-  "qty": "1 kg",
-  "price": 3.75,
-  "old": 5,
-  "valid": "12.11–18.11"
+  "name": "Migros Tomates cerises Mélange",
+  "qty": "500 g",
+  "price": 3.45,
+  "old": 4.95,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Fruits et légumes",
-  "name": "Migros Snack tomates-dattes",
-  "qty": "250 g",
-  "price": 1.75,
-  "old": 2.95,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Fruits et légumes",
-  "name": "Migros Patates douces",
-  "qty": "1 kg",
-  "price": 1.25,
-  "old": 1.8,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Fruits et légumes",
-  "name": "Extra Cacahuètes extra crunchy",
-  "qty": "1.5kg",
-  "price": 8.25,
-  "old": 16.5,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Fruits et légumes",
-  "name": "Salade de jeunes pousses Bio",
-  "qty": "180 g · Hit",
-  "price": 3.6,
+  "name": "Clémentines",
+  "qty": "600 g · 1.–",
+  "price": 1,
   "old": null,
-  "valid": "12.11–18.11"
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Fruits et légumes",
-  "name": "Extra Kaki",
+  "name": "Jazz Pommes",
   "qty": "1 kg",
   "price": 3.95,
-  "old": 4.95,
-  "valid": "12.11–18.11"
+  "old": 5.2,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Fruits et légumes",
+  "name": "Migros Pimientos de Padrón",
+  "qty": "200 g",
+  "price": 1,
+  "old": 1.95,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Fruits et légumes",
+  "name": "Rampon XL",
+  "qty": "180 g · Hit",
+  "price": 3.95,
+  "old": null,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Fruits et légumes",
+  "name": "Migros Pommes de terre grenaille",
+  "qty": "600 g",
+  "price": 1.41,
+  "old": 2.1,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Fruits et légumes",
+  "name": "Oranges blondes Bio",
+  "qty": "1.5kg",
+  "price": 3.9,
+  "old": 5.6,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Fruits et légumes",
+  "name": "Kakis Bio",
+  "qty": "500 g",
+  "price": 2.4,
+  "old": 3.5,
+  "valid": "19.11–22.11"
  },
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "Migros Saumon fumé d’Islande",
-  "qty": "250 g",
-  "price": 9.95,
-  "old": 17.35,
-  "valid": "12.11–18.11"
+  "name": "M-Classic Cervelas",
+  "qty": "200 g",
+  "price": 1.44,
+  "old": 1.8,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "Entrecôte de bœuf",
+  "name": "Tradition Jambon paysan",
+  "qty": "2  ×  150g",
+  "price": 7.9,
+  "old": 9.9,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Viande et poisson",
+  "name": "Émincé de porc",
   "qty": "100 g",
-  "price": 5.3,
-  "old": 7.95,
-  "valid": "12.11–18.11"
+  "price": 1.6,
+  "old": 1.85,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "Optigal Escalopes de poulet 2 pièces",
-  "qty": "2 pièces",
-  "price": 2.8,
-  "old": 3.3,
-  "valid": "12.11–18.11"
+  "name": "Citterio Salami Milano ",
+  "qty": "2  ×  130g",
+  "price": 11,
+  "old": 13.78,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Viande et poisson",
+  "name": "Optigal Mini-filets de poulet Midi",
+  "qty": "100 g",
+  "price": 2.95,
+  "old": 3.6,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -119,38 +155,11 @@
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "Optigal Poulet entier",
-  "qty": "le kg",
-  "price": 6.95,
-  "old": 9.95,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
-  "name": "Migros Côtelette de veau",
-  "qty": "100 g",
-  "price": 4.95,
-  "old": 6.5,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
   "name": "Palette Quick",
   "qty": "100 g",
   "price": 1.65,
   "old": 2.5,
   "valid": "29.10–30.12"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
-  "name": "Rumsteck de bœuf",
-  "qty": "100 g",
-  "price": 5.95,
-  "old": 7.6,
-  "valid": "12.11–18.11"
  },
  {
   "store": "migros",
@@ -164,11 +173,38 @@
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "Spécialité Suisse Jambon cru des Grisons en tranches ultrafines",
-  "qty": "160 g",
-  "price": 6.95,
-  "old": 8.8,
-  "valid": "12.11–18.11"
+  "name": "Spécialité Suisse Viande séchée d’épaule",
+  "qty": "120 g",
+  "price": 6.4,
+  "old": 8.34,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Viande et poisson",
+  "name": "Saucisse de Vienne Bio",
+  "qty": "2  ×  100g",
+  "price": 3.2,
+  "old": 4.2,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Viande et poisson",
+  "name": "Migros Saumon fumé",
+  "qty": "300 g",
+  "price": 8.95,
+  "old": 13.5,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Viande et poisson",
+  "name": "Premier vongole cuites",
+  "qty": "500 g · Hit",
+  "price": 13.95,
+  "old": null,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -182,92 +218,92 @@
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "M-Classic Filet mignon de bœuf",
+  "name": "Migros Filet de saumon sans peau",
+  "qty": "500 g",
+  "price": 12.95,
+  "old": 22.25,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Viande et poisson",
+  "name": "Migros Cordon-bleu de porc",
   "qty": "100 g",
-  "price": 6.9,
-  "old": 9.2,
-  "valid": "12.11–18.11"
+  "price": 2.05,
+  "old": 2.95,
+  "valid": "19.11–22.11"
  },
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "Don Pollo Poitrine de poulet en tranches ultrafines",
-  "qty": "200 g",
-  "price": 2.95,
-  "old": 3.92,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
-  "name": "Émincé de bœuf",
+  "name": "Lard à griller",
   "qty": "100 g",
-  "price": 3.35,
-  "old": 4.2,
-  "valid": "12.11–18.11"
+  "price": 1.8,
+  "old": 2.35,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "M-Classic Filet de saumon sauvage avec peau",
-  "qty": "2  ×  150g",
-  "price": 11.95,
-  "old": 14.7,
-  "valid": "12.11–18.11"
+  "name": "Migros Nuggets de poulet",
+  "qty": "500 g",
+  "price": 5.45,
+  "old": 7.3,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "Migros Escalope de poulet Délice mini",
-  "qty": "360 g",
-  "price": 7.6,
-  "old": 9.5,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
-  "name": "Jambon",
-  "qty": "2  ×  160g",
-  "price": 5.95,
-  "old": 7.6,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
-  "name": "Chipolatas",
-  "qty": "2  ×  200g",
-  "price": 5.5,
-  "old": 7,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
-  "name": "Migros Paupiettes de viande Migros ﻿au lard",
-  "qty": "100 g",
-  "price": 2.35,
-  "old": 2.85,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Viande et poisson",
-  "name": "Lard à cuire fumé",
+  "name": "Migros Rôti à la tessinoise",
   "qty": "100 g",
   "price": 1.95,
-  "old": 2.35,
-  "valid": "12.11–18.11"
+  "old": 2.6,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Viande et poisson",
-  "name": "M-Classic Filets de dorade",
-  "qty": "350 g",
-  "price": 8.95,
-  "old": 12,
-  "valid": "12.11–18.11"
+  "name": "M-Classic Crevettes White Tiger",
+  "qty": "450 g",
+  "price": 9.95,
+  "old": 13.05,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Bami goreng chicken",
+  "qty": "1kg · 20x",
+  "price": 6.5,
+  "old": null,
+  "valid": "19.11–02.12"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Chicken Mascarpone Pasta Bake",
+  "qty": "1kg · 20x",
+  "price": 6.5,
+  "old": null,
+  "valid": "19.11–02.12"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Beurre de choix Bio",
+  "qty": "200 g",
+  "price": 4,
+  "old": 4.7,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Knöpflis Bio",
+  "qty": "2  ×  500g",
+  "price": 5.9,
+  "old": 7.9,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -290,11 +326,20 @@
  {
   "store": "migros",
   "cat": "Produits laitiers",
-  "name": "Gruyère Fromage râpé",
-  "qty": "3  ×  130g",
-  "price": 6.95,
-  "old": 8.85,
-  "valid": "12.11–18.11"
+  "name": "Yogos Yogourts Nature",
+  "qty": "4  ×  180g",
+  "price": 3.35,
+  "old": 4.2,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Sélection Raclette aux épices de Noël",
+  "qty": "240 g · 20x",
+  "price": 7.4,
+  "old": null,
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
@@ -308,20 +353,29 @@
  {
   "store": "migros",
   "cat": "Produits laitiers",
-  "name": "Tilsiter Fromage à pâte mi-dure vert",
-  "qty": "100 g",
-  "price": 1.1,
-  "old": 1.4,
-  "valid": "12.11–18.11"
+  "name": "Da Emilio Grana Padano DOP râpé",
+  "qty": "3  ×  120g",
+  "price": 5.85,
+  "old": 8.4,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Produits laitiers",
-  "name": "Valflora Crème entière 35% matière grasse laitière, UHT",
-  "qty": "250 ml",
-  "price": 1.83,
-  "old": 2.15,
-  "valid": "12.11–18.11"
+  "name": "Valflora Lait entier 3.5 % de gras, UHT",
+  "qty": "12  ×  1l",
+  "price": 16.3,
+  "old": 19.2,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Mini nems aux légumes",
+  "qty": "500 g · Hit",
+  "price": 8.9,
+  "old": null,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -335,11 +389,47 @@
  {
   "store": "migros",
   "cat": "Produits laitiers",
-  "name": "Migros Fondue moitié-moitié",
-  "qty": "2  ×  800g · 20%",
-  "price": 18.4,
+  "name": "Œufs 53+, importés, élevage au sol",
+  "qty": "18 pièces",
+  "price": 4.95,
+  "old": 5.76,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Migros Spätzli au fromage",
+  "qty": "370 g · 20x",
+  "price": 4.8,
   "old": null,
-  "valid": "12.11–18.11"
+  "valid": "19.11–02.12"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Vacherin Mont d'Or Fromage à pâte molle",
+  "qty": "100 g",
+  "price": 2.2,
+  "old": 2.6,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Appenzeller Fromage à pâte mi-dure Bio, Surchoix",
+  "qty": "100 g",
+  "price": 2.2,
+  "old": 2.8,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Produits laitiers",
+  "name": "Gruyère Fromage à pâte dure Bio, Surchoix",
+  "qty": "100 g",
+  "price": 2.4,
+  "old": 3,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -352,12 +442,12 @@
  },
  {
   "store": "migros",
-  "cat": "Boulangerie",
-  "name": "Harry Sammy's Pain toast aux graines",
-  "qty": "375 g · 20x",
-  "price": 3.2,
-  "old": null,
-  "valid": "05.11–18.11"
+  "cat": "Produits laitiers",
+  "name": "Baer Camembert crémeux",
+  "qty": "300 g",
+  "price": 6.1,
+  "old": 7.68,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -371,6 +461,15 @@
  {
   "store": "migros",
   "cat": "Boulangerie",
+  "name": "Miel suisse",
+  "qty": "500 g",
+  "price": 12.85,
+  "old": 16.5,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Boulangerie",
   "name": "Hausbäckerei Pain au levain",
   "qty": "250 g · 20x",
   "price": 2.75,
@@ -380,11 +479,11 @@
  {
   "store": "migros",
   "cat": "Boulangerie",
-  "name": "Migros XL-Toast Vitality farine blanche",
-  "qty": "2  ×  730g",
-  "price": 5.1,
-  "old": 6.8,
-  "valid": "12.11–18.11"
+  "name": "Cornets à la crème",
+  "qty": "280 g",
+  "price": 6,
+  "old": 7,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -407,29 +506,11 @@
  {
   "store": "migros",
   "cat": "Boulangerie",
-  "name": "Pain mixte Ölz",
-  "qty": "390 g · 20x",
-  "price": 2.9,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Boulangerie",
   "name": "Migros Brownies chocolat",
   "qty": "360 g · 20x",
   "price": 1.5,
   "old": null,
   "valid": "12.11–25.11"
- },
- {
-  "store": "migros",
-  "cat": "Boulangerie",
-  "name": "Petit Bonheur Boules de Berlin fourrées aux framboises et groseilles",
-  "qty": "420 g",
-  "price": 4.4,
-  "old": 6.3,
-  "valid": "12.11–18.11"
  },
  {
   "store": "migros",
@@ -443,20 +524,29 @@
  {
   "store": "migros",
   "cat": "Boulangerie",
-  "name": "Migros Petit pain de Sils",
-  "qty": "480 g · 20x",
-  "price": 3.5,
-  "old": null,
-  "valid": "05.11–18.11"
+  "name": "Migros Farine fleur",
+  "qty": "4  ×  1kg",
+  "price": 6.05,
+  "old": 7.6,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "Longobardi Tomates concassées",
-  "qty": "6  ×  230 g",
-  "price": 5.45,
-  "old": 7.8,
-  "valid": "12.11–18.11"
+  "name": "Alnatura Vinaigre de pomme Bio, non filtré",
+  "qty": "500 ml · 20x",
+  "price": 2.4,
+  "old": null,
+  "valid": "19.11–02.12"
+ },
+ {
+  "store": "migros",
+  "cat": "Épicerie",
+  "name": "Alnatura Origin Volanti Bio",
+  "qty": "500 g · 20x",
+  "price": 1.9,
+  "old": null,
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
@@ -470,38 +560,74 @@
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "M-Classic Huile de tournesol  ",
-  "qty": "500 ml",
-  "price": 1.62,
-  "old": 2.7,
-  "valid": "12.11–18.11"
+  "name": "Thomy Paprika Zweifel Mayonnaise",
+  "qty": "170 g · 20x",
+  "price": 3.5,
+  "old": null,
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "Petit Bonheur Mini-biberlis fourrés aux amandes",
-  "qty": "634 g · 21%",
+  "name": "M-Classic Röstis Original",
+  "qty": "3  ×  500g",
+  "price": 5,
+  "old": 7.5,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Épicerie",
+  "name": "M-Classic Ravioli alla napoletana farcis à la viande",
+  "qty": "6  ×  870g",
+  "price": 17.75,
+  "old": 23.7,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Épicerie",
+  "name": "Frey Figurines Père Noël",
+  "qty": "101 g · 20x",
+  "price": 4.95,
+  "old": null,
+  "valid": "19.11–02.12"
+ },
+ {
+  "store": "migros",
+  "cat": "Épicerie",
+  "name": "M-Classic Bâtons aux noisettes",
+  "qty": "1kg",
   "price": 7,
-  "old": null,
-  "valid": "12.11–18.11"
+  "old": 8.6,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "Petit Bonheur Tresse russe",
-  "qty": "330 g",
-  "price": 3.6,
-  "old": 4.5,
-  "valid": "12.11–18.11"
+  "name": "Migros Olives avec pâte de poivrons",
+  "qty": "200 g · 20x",
+  "price": 1,
+  "old": null,
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "Kinder Chocolat Noël",
-  "qty": "300 g · 20x",
-  "price": 5.5,
-  "old": null,
-  "valid": "05.11–18.11"
+  "name": "Frey Freylini Boules de chocolat classics",
+  "qty": "1.3kg",
+  "price": 14.95,
+  "old": 24.05,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Épicerie",
+  "name": "Frey Chocolat pâtissier 55% cacao",
+  "qty": "3  ×  200 g",
+  "price": 5.95,
+  "old": 8.85,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -515,20 +641,20 @@
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "Petit Bonheur Bâtons fourrés aux noisettes",
-  "qty": "220 g",
-  "price": 2.7,
-  "old": 3.4,
-  "valid": "12.11–18.11"
+  "name": "Frey Truffes assort.",
+  "qty": "150 g · 20x",
+  "price": 8.95,
+  "old": null,
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "Sun Queen Morceaux de mangue",
-  "qty": "400 g",
-  "price": 7,
-  "old": 8.8,
-  "valid": "12.11–18.11"
+  "name": "A. Vogel Santasapina",
+  "qty": "2  ×  100 g",
+  "price": 5.9,
+  "old": 7.9,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -551,15 +677,6 @@
  {
   "store": "migros",
   "cat": "Épicerie",
-  "name": "Frey Père Noël blanc",
-  "qty": "100 g · 20x",
-  "price": 4.2,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Épicerie",
   "name": "Frey Freylini Boules de chocolat Dark Almond",
   "qty": "200 g · 20x",
   "price": 4.95,
@@ -568,93 +685,39 @@
  },
  {
   "store": "migros",
-  "cat": "Épicerie",
-  "name": "Merci Finest Selection Noël",
-  "qty": "250 g · 20x",
-  "price": 5.4,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Épicerie",
-  "name": "Frey Truffes assorties",
-  "qty": "2  ×  256 g",
-  "price": 18.4,
-  "old": 23,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Épicerie",
-  "name": "Biberli d’Appenzell",
-  "qty": "6  ×  75g",
-  "price": 6.95,
-  "old": 9.3,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
   "cat": "Surgelés",
-  "name": "Pelican Crevettes tail-on, cuites",
-  "qty": "750 g",
-  "price": 13.95,
-  "old": 19.95,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Surgelés",
-  "name": "Ben & Jerry's Peaces Brookies & Cream",
-  "qty": "160 ml · 20x",
-  "price": 6.95,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Surgelés",
-  "name": "Migros Tartare avec sauce",
-  "qty": "320 g · 20x",
-  "price": 10,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Surgelés",
-  "name": "Migros Crispy Bites pomme de terre farcie au fromage frais",
-  "qty": "240 g · 20x",
-  "price": 2.95,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Surgelés",
-  "name": "Migros Filet de pangasius",
-  "qty": "1.5kg",
-  "price": 7.45,
-  "old": 10.67,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Surgelés",
-  "name": "Migros Steak de cuisse de poulet",
-  "qty": "1 pièce · 20x",
-  "price": 11.95,
-  "old": null,
-  "valid": "05.11–18.11"
+  "name": "Migros Fondue chinoise Porc",
+  "qty": "400 g",
+  "price": 9.95,
+  "old": 14.9,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Surgelés",
   "name": "Migros Fondue chinoise Bœuf",
-  "qty": "800 g · 20x",
-  "price": 29.9,
+  "qty": "400 g",
+  "price": 13.1,
+  "old": 19.9,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Surgelés",
+  "name": "Pelican Saumon Filets",
+  "qty": "750 g",
+  "price": 17.95,
+  "old": 24,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Surgelés",
+  "name": "M-Classic Ailes de poulet épicées",
+  "qty": "1kg · Hit",
+  "price": 5.5,
   "old": null,
-  "valid": "05.11–18.11"
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -664,6 +727,15 @@
   "price": 2.95,
   "old": null,
   "valid": "12.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Boissons et vins",
+  "name": "Rocchetta Eau minérale non gazeuse",
+  "qty": "6  ×  1.5l",
+  "price": 2.95,
+  "old": 4.95,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -748,39 +820,12 @@
  },
  {
   "store": "migros",
-  "cat": "Animaux",
-  "name": "Cesar Créations en gelée agneau, bœuf, poulet et dinde",
-  "qty": "12  ×  100 g · 20x",
-  "price": 11.95,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Animaux",
-  "name": "Vital Balance Adult au poulet et aux haricots verts",
-  "qty": "40  ×  85g",
-  "price": 23.5,
-  "old": 37.58,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Animaux",
-  "name": "optipet Lingettes Pet Wipes pour animaux de compagnie à l’aloe vera Pour chiens et chats",
-  "qty": "80 pièces · 20x",
-  "price": 11.9,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
   "cat": "Hygiène et maison",
-  "name": "POKÉMON Carapuce endormi endormi, 45 cm",
+  "name": "Lego City 60494 Camion-benne et la chargeuse frontale",
   "qty": "1 pce",
-  "price": 29.95,
-  "old": 59.95,
-  "valid": "12.11–18.11"
+  "price": 62,
+  "old": 124,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -802,84 +847,39 @@
  },
  {
   "store": "migros",
-  "cat": "Hygiène et maison",
-  "name": "Lego City 60502 Aéroport avec avion",
-  "qty": "1 pce",
-  "price": 49.95,
-  "old": 99.95,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
   "cat": "Boissons et vins",
-  "name": "Nivea Men Hydrocare Sérum Power Effet hydratant 72 heures",
+  "name": "Beurer Tensiomètre Comfort BM 48",
   "qty": "1 pièce · 20x",
-  "price": 17.95,
+  "price": 54.95,
   "old": null,
-  "valid": "05.11–18.11"
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
   "cat": "Boissons et vins",
-  "name": "Bulldog Original After shave baume Aloe Vera",
-  "qty": "100 ml · 20x",
-  "price": 6.95,
-  "old": null,
-  "valid": "05.11–18.11"
+  "name": "Meridol Bain de bouche",
+  "qty": "2  ×  400ml",
+  "price": 10.35,
+  "old": 13.8,
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
   "cat": "Boissons et vins",
-  "name": "Nivea Savon solide Creme Soft",
-  "qty": "1 pce · 20x",
-  "price": 1.15,
+  "name": "Rexona Men Déodorant roll-on Cobalt dry 48 h, anti-transpirant",
+  "qty": "50 ml · 20x",
+  "price": 3.3,
   "old": null,
-  "valid": "05.11–18.11"
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
-  "cat": "Boissons et vins",
-  "name": "Nivea Q10 Power Lait démaquillant Power Créatine ",
-  "qty": "1500 · 20x",
-  "price": 7.8,
+  "cat": "Hygiène et maison",
+  "name": "Plenty Original 2 épaisseurs, 1/2 feuille",
+  "qty": "16 Stk. · Hit",
+  "price": 16.65,
   "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Boissons et vins",
-  "name": "Nivea Men Gel douche Active Clean",
-  "qty": "250 ml · 20x",
-  "price": 3.5,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Boissons et vins",
-  "name": "Nivea Men Déodorant spray Dry Active 72h, anti-transpirant, 0 % alcool",
-  "qty": "150 ml · 20x",
-  "price": 4.2,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Boissons et vins",
-  "name": "Meridol Dentifrice à effet rapide",
-  "qty": "75 ml · 20x",
-  "price": 6.95,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Boissons et vins",
-  "name": "Migros Beauty & Co. Cube de serviettes à démaquiller Quattro MBTY & Co",
-  "qty": "1 pièce",
-  "price": 6.25,
-  "old": 9.4,
-  "valid": "12.11–18.11"
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
@@ -893,29 +893,11 @@
  {
   "store": "migros",
   "cat": "Hygiène et maison",
-  "name": "Manella Produit vaisselle Winter Berries",
-  "qty": "3  ×  500ml · Hit",
-  "price": 7.9,
-  "old": null,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Hygiène et maison",
   "name": "Hakle Propreté traitante 4 épaisseurs",
   "qty": "30 Pce",
   "price": 19.95,
   "old": 36.5,
   "valid": "12.11–25.11"
- },
- {
-  "store": "migros",
-  "cat": "Hygiène et maison",
-  "name": "Twist Papier ménage Ultra",
-  "qty": "2 rouleau ×  · 20x",
-  "price": 3.95,
-  "old": null,
-  "valid": "05.11–18.11"
  },
  {
   "store": "migros",
@@ -929,11 +911,20 @@
  {
   "store": "migros",
   "cat": "Hygiène et maison",
-  "name": "Linsoft Mouchoirs Maxi, lot de 3",
-  "qty": "3  ×  110 pièces",
-  "price": 7.3,
-  "old": 9.75,
-  "valid": "12.11–18.11"
+  "name": "Twist Style 3 épaisseurs",
+  "qty": "12 Stk.",
+  "price": 9.45,
+  "old": 13.55,
+  "valid": "19.11–02.12"
+ },
+ {
+  "store": "migros",
+  "cat": "Hygiène et maison",
+  "name": "Migros Clean SACS À ORDURES 35 l, LOT DE 5 ROULEAUX",
+  "qty": "1 pièce",
+  "price": 13.6,
+  "old": 17,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -943,6 +934,15 @@
   "price": 6.95,
   "old": null,
   "valid": "12.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Bazar et loisirs",
+  "name": "Vacuvin Bouchon verseur 2x",
+  "qty": "2 pces · 20x",
+  "price": 8.95,
+  "old": null,
+  "valid": "19.11–02.12"
  },
  {
   "store": "migros",
@@ -965,11 +965,11 @@
  {
   "store": "migros",
   "cat": "Bazar et loisirs",
-  "name": "Anthurium 12 cm",
+  "name": "Hellébore 12 cm",
   "qty": "1 pièce",
-  "price": 9.95,
-  "old": 12.95,
-  "valid": "12.11–18.11"
+  "price": 5.95,
+  "old": 7.95,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -983,65 +983,47 @@
  {
   "store": "migros",
   "cat": "Bazar et loisirs",
-  "name": "Hellébore doré  10,5 cm",
-  "qty": "1 pièce",
-  "price": 9.7,
-  "old": 12.95,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Bazar et loisirs",
-  "name": "Migros Mini-roses 20 pièces",
-  "qty": "20 pièces",
-  "price": 7.95,
-  "old": 9.95,
-  "valid": "12.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Bazar et loisirs",
-  "name": "Amaryllis avec cire Finn",
-  "qty": "1 pièce · 20x",
-  "price": 12.95,
+  "name": "Roses Grande 10 pièces",
+  "qty": "10 Stk. · Hit",
+  "price": 9.95,
   "old": null,
-  "valid": "05.11–18.11"
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Bazar et loisirs",
-  "name": "Migros Bouquet d’amaryllis grandes",
+  "name": "Migros Bouquet Surprise Midi",
   "qty": "1 pièce",
-  "price": 14.95,
-  "old": 19.95,
-  "valid": "12.11–18.11"
+  "price": 10,
+  "old": 14.95,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Bazar et loisirs",
-  "name": "Amaryllis sur bois 19 cm x 8 cm",
-  "qty": "1 pièce",
-  "price": 11.95,
-  "old": 14.95,
-  "valid": "12.11–18.11"
+  "name": "Phalaenopsis 2 hampes, 12 cm",
+  "qty": "1 pièce · Hit",
+  "price": 9.95,
+  "old": null,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Bazar et loisirs",
-  "name": "Migros Bouquet de verdure du Cap",
-  "qty": "1 Stk.",
-  "price": 11.95,
-  "old": 14.95,
-  "valid": "12.11–18.11"
+  "name": "Migros Amaryllis vert",
+  "qty": "3 pièces",
+  "price": 11,
+  "old": 12.95,
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
   "cat": "Boissons et vins",
-  "name": "Mattel Games UNO Extreme",
-  "qty": "1 pièce",
+  "name": "Playmobil 72214 Rendez-vous magique des fées",
+  "qty": "1 pce",
   "price": 22.45,
   "old": 44.95,
-  "valid": "12.11–18.11"
+  "valid": "19.11–25.11"
  },
  {
   "store": "migros",
@@ -1118,28 +1100,28 @@
  {
   "store": "migros",
   "cat": "Épicerie",
+  "name": "Mega City Train Tube J’ADORE ",
+  "qty": "1 Stk.",
+  "price": 34.95,
+  "old": 69.95,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Épicerie",
+  "name": "Poires Conférence",
+  "qty": "500 g · 1.–",
+  "price": 1,
+  "old": null,
+  "valid": "19.11–25.11"
+ },
+ {
+  "store": "migros",
+  "cat": "Épicerie",
   "name": "Migros Home Allume-gaz noir",
   "qty": "1 pièce",
   "price": 5.95,
   "old": 11.9,
   "valid": "29.10–24.12"
- },
- {
-  "store": "migros",
-  "cat": "Épicerie",
-  "name": "Migros Clean Sac multi-usages 35L plié",
-  "qty": "3 Pce",
-  "price": 5.6,
-  "old": 7.05,
-  "valid": "05.11–18.11"
- },
- {
-  "store": "migros",
-  "cat": "Épicerie",
-  "name": "Véhicule tout-terrain Beast Runners RC 1:10",
-  "qty": "1 pce",
-  "price": 24.95,
-  "old": 49.95,
-  "valid": "12.11–18.11"
  }
 ]

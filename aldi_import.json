@@ -1,498 +1,12 @@
 [
   {
     "store": "aldi",
-    "cat": "Épicerie",
-    "name": "LYTTOS - Olives géantes grecques",
-    "qty": "850 g",
-    "price": 7.64,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "GRANDE ALBERONE - Grande Alberone",
-    "qty": "1,5 l",
-    "price": 9.99,
-    "old": null,
-    "valid": "CHF 14.99¹"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "STORCK - Barres aux noix Knoppers Pack XXL",
-    "qty": "375 g",
-    "price": 1.28,
-    "old": 4.79,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "BELLASAN - Huile de tournesol",
-    "qty": "2 l",
-    "price": 3.4,
-    "old": 6.79,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "HAPPY HARVEST - Dattes Medjoul XXL",
-    "qty": "",
-    "price": 9.49,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Boissons et vins",
-    "name": "HAPPY HARVEST - Cerneaux de noix XXL",
-    "qty": "500 g",
-    "price": 0.98,
-    "old": 4.89,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Surgelés",
-    "name": "Au rayon surgelés - GOLDEN SEAFOOD",
-    "qty": "500 g",
-    "price": 9.69,
-    "old": null,
-    "valid": "(CHF 19.38/1 kg)"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "BARILLA - Penne rigate",
-    "qty": "2,5 kg",
-    "price": 2.36,
-    "old": 5.89,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Boissons et vins",
-    "name": "CERVEJA SAGRES - Sagres Bière",
-    "qty": "330 ml",
-    "price": 2.03,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Au rayon frais - MINI BABYBEL",
-    "qty": "396 g",
-    "price": 1.49,
-    "old": 5.89,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Au rayon frais - FOL EPI",
-    "qty": "300 g",
-    "price": 1.66,
-    "old": 4.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "BARILLA - Sauce Napoletana",
-    "qty": "1,2 kg",
-    "price": 4.83,
-    "old": 5.79,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "MULINO BIANCO - Pan goccioli",
-    "qty": "336 g",
-    "price": 0.89,
-    "old": 2.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Boissons et vins",
-    "name": "CHIRAT - Vinaigre, herbes",
-    "qty": "1 l",
-    "price": 2.99,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Surgelés",
-    "name": "Au rayon surgelés - FINDUS",
-    "qty": "",
-    "price": 8.99,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Au rayon frais - CAPRICE DES DIEUX",
-    "qty": "300 g",
-    "price": 1.65,
-    "old": 4.95,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "SINALCO - Original",
-    "qty": "1,5 l",
-    "price": 0.95,
-    "old": 1.42,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "RIVELLA - Rouge",
-    "qty": "500 ml",
-    "price": 3.18,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "RIVELLA - Bleu",
-    "qty": "500 ml",
-    "price": 3.18,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Produits laitiers",
-    "name": "MIKADO - Lait",
-    "qty": "225 g",
-    "price": 2.62,
-    "old": 5.89,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "MULINO BIANCO - Plumcake",
-    "qty": "330 g",
-    "price": 0.91,
-    "old": 2.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "HANSAPLAST - Spray pour les plaies",
-    "qty": "50 ml",
-    "price": 0.98,
-    "old": 4.89,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "BEN'S ORIGINAL - Riz en sachets de cuisson, XXL",
-    "qty": "",
-    "price": 4.99,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "ARGETA - Classique",
-    "qty": "285 g",
-    "price": 1.54,
-    "old": 4.39,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Prix cassé - FOCUS WATER",
-    "qty": "500 ml",
-    "price": 0.42,
-    "old": 2.09,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "BARILLA - Pesto Rosso",
-    "qty": "600 g",
-    "price": 1.5,
-    "old": 8.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Au rayon frais - LE SUPERBE",
-    "qty": "400 g",
-    "price": 1.17,
-    "old": 4.69,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "ARGETA - Piquant",
-    "qty": "285 g",
-    "price": 1.54,
-    "old": 4.39,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Viande et poisson",
-    "name": "ARGETA - ARGETA Thon MSC",
-    "qty": "285 g",
-    "price": 1.54,
-    "old": 4.39,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "HERO - Rösti, original",
-    "qty": "1,5 kg",
-    "price": 4.99,
-    "old": 7.49,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "KING'S CROWN - Pot de cornichons XXL",
-    "qty": "0,85 KG/ATG",
-    "price": 4.11,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "BELLA - Amandes XXL, nature",
-    "qty": "500 g",
-    "price": 1.0,
-    "old": 4.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "PRINGLES - Chips",
-    "qty": "370 g",
-    "price": 1.32,
-    "old": 4.89,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Produits laitiers",
-    "name": "WERNLI - Petits cœurs au beurre",
-    "qty": "300 g",
-    "price": 2.66,
-    "old": 7.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "HAPPY HARVEST - Noix XXL",
-    "qty": "500 g",
-    "price": 1.16,
-    "old": 5.79,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Surgelés",
-    "name": "Au rayon surgelés - PRIMANA",
-    "qty": "1,5 kg",
-    "price": 8.66,
-    "old": null,
-    "valid": "CHF 12.99¹"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "BAULI - Girella",
-    "qty": "280 g",
-    "price": 1.41,
-    "old": 3.95,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "FELDSCHLÖSSCHEN - Original",
-    "qty": "5,94 l",
-    "price": 2.52,
-    "old": null,
-    "valid": "CHF 14.95¹"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Au rayon frais - LA VACHE QUI RIT",
-    "qty": "512 g",
-    "price": 1.27,
-    "old": 6.49,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "M&M'S - Peanut party",
-    "qty": "800 g",
-    "price": 9.49,
-    "old": null,
-    "valid": "(CHF 11.86/1 kg)"
-  },
-  {
-    "store": "aldi",
-    "cat": "Surgelés",
-    "name": "Au rayon surgelés - FINDUS",
-    "qty": "600 g",
-    "price": 7.49,
-    "old": null,
-    "valid": "(CHF 12.48/1 kg)"
-  },
-  {
-    "store": "aldi",
-    "cat": "Boissons et vins",
-    "name": "RAMSEIER - Jus gazeux",
-    "qty": "330 ml",
-    "price": 1.91,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Fruits et légumes",
-    "name": "MR. BROWNIE - Orange",
-    "qty": "200 g",
-    "price": 1.65,
-    "old": 3.29,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Fruits et légumes",
-    "name": "MR. BROWNIE - Carotte",
-    "qty": "200 g",
-    "price": 1.65,
-    "old": 3.29,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Au rayon frais - KIRI DIPPI",
-    "qty": "280 g",
-    "price": 1.78,
-    "old": 4.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "LOTUS - Gaufres de Liège avec chocolat",
-    "qty": "518 g",
-    "price": 9.44,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "MILKA - Cookie Sensations",
-    "qty": "468 g",
-    "price": 1.6,
-    "old": 7.49,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "EMMI",
-    "qty": "800 g",
-    "price": 1.75,
-    "old": null,
-    "valid": "CHF 13.99¹"
-  },
-  {
-    "store": "aldi",
-    "cat": "Fruits et légumes",
-    "name": "Tranches de fraises lyophilisées",
-    "qty": "70 g",
-    "price": 7.13,
-    "old": null,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Fruits et légumes",
-    "name": "BAILEYS - Baileys Winter",
-    "qty": "500 ml",
-    "price": 2.98,
-    "old": null,
-    "valid": "CHF 14.89¹"
-  },
-  {
-    "store": "aldi",
-    "cat": "Surgelés",
-    "name": "Au rayon surgelés - Végan",
-    "qty": "600 g",
-    "price": 6.99,
-    "old": null,
-    "valid": "(CHF 11.65/1 kg)"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "Au rayon frais - SAVEURS SUISSES",
-    "qty": "400 g",
-    "price": 1.0,
-    "old": 3.99,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "KELLOGG'S - Froot Loops",
-    "qty": "375 g",
-    "price": 0.96,
-    "old": 3.59,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Épicerie",
-    "name": "KELLOGG'S - Müesli aux céréales et au miel",
-    "qty": "400 g",
-    "price": 0.86,
-    "old": 3.45,
-    "valid": "Disponible depuis 16.11.2026"
-  },
-  {
-    "store": "aldi",
     "cat": "Viande et poisson",
     "name": "ALMARE SEAFOOD - Filet de thon MSC à l'huile bio",
     "qty": "140 g",
     "price": 2.49,
     "old": 3.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -501,7 +15,7 @@
     "qty": "",
     "price": 8.89,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -519,7 +33,7 @@
     "qty": "200 g",
     "price": 2.5,
     "old": 4.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -528,7 +42,7 @@
     "qty": "500 ml",
     "price": 1.39,
     "old": 6.95,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -537,7 +51,7 @@
     "qty": "420 g",
     "price": 0.59,
     "old": 2.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -546,7 +60,7 @@
     "qty": "",
     "price": 6.95,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -555,7 +69,7 @@
     "qty": "",
     "price": 9.99,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -564,7 +78,7 @@
     "qty": "",
     "price": 5.99,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -573,7 +87,7 @@
     "qty": "280 g",
     "price": 0.89,
     "old": 2.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -591,7 +105,7 @@
     "qty": "500 ml",
     "price": 1.2,
     "old": 5.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -600,7 +114,7 @@
     "qty": "",
     "price": 7.99,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -609,7 +123,7 @@
     "qty": "",
     "price": 0.75,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -618,7 +132,7 @@
     "qty": "1,5 l",
     "price": 3.33,
     "old": 4.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -627,7 +141,7 @@
     "qty": "18 g",
     "price": 1.11,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -636,7 +150,7 @@
     "qty": "30 g",
     "price": 0.66,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -645,7 +159,7 @@
     "qty": "40 g",
     "price": 0.5,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -654,7 +168,7 @@
     "qty": "40 g",
     "price": 0.5,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -663,16 +177,7 @@
     "qty": "25 g",
     "price": 0.8,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
-  },
-  {
-    "store": "aldi",
-    "cat": "Fruits et légumes",
-    "name": "Végan - BIO NATURA",
-    "qty": "250 ml",
-    "price": 0.52,
-    "old": 1.29,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -681,7 +186,7 @@
     "qty": "200 g",
     "price": 1.5,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -690,7 +195,7 @@
     "qty": "200 g",
     "price": 1.5,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -699,7 +204,7 @@
     "qty": "200 g",
     "price": 1.5,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -708,7 +213,7 @@
     "qty": "335 g",
     "price": 0.47,
     "old": 1.59,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -717,7 +222,7 @@
     "qty": "400 g",
     "price": 0.5,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -726,7 +231,7 @@
     "qty": "400 g",
     "price": 0.5,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -735,7 +240,7 @@
     "qty": "1,5 kg",
     "price": 6.66,
     "old": 9.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -744,7 +249,7 @@
     "qty": "500 ml",
     "price": 0.3,
     "old": 1.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -753,7 +258,7 @@
     "qty": "500 ml",
     "price": 0.3,
     "old": 1.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -762,7 +267,7 @@
     "qty": "500 ml",
     "price": 0.3,
     "old": 1.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -771,7 +276,7 @@
     "qty": "400 ml",
     "price": 0.75,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -798,7 +303,7 @@
     "qty": "",
     "price": 0.15,
     "old": 9.95,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -807,7 +312,7 @@
     "qty": "300 ml",
     "price": 2.65,
     "old": 7.95,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -816,7 +321,7 @@
     "qty": "2 l",
     "price": 1.0,
     "old": 1.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -834,7 +339,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -843,7 +348,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -852,7 +357,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -861,7 +366,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -870,7 +375,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -879,7 +384,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -888,7 +393,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -897,7 +402,7 @@
     "qty": "284 g",
     "price": 1.05,
     "old": 2.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -906,7 +411,7 @@
     "qty": "",
     "price": 3.99,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -915,7 +420,7 @@
     "qty": "1,5 l",
     "price": 3.99,
     "old": 5.99,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -924,7 +429,7 @@
     "qty": "600 ml",
     "price": 7.48,
     "old": null,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -933,7 +438,7 @@
     "qty": "500 ml",
     "price": 1.1,
     "old": 5.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -951,7 +456,7 @@
     "qty": "120 g",
     "price": 2.08,
     "old": 2.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
   },
   {
     "store": "aldi",
@@ -960,6 +465,474 @@
     "qty": "120 g",
     "price": 2.08,
     "old": 2.49,
-    "valid": "Disponible à partir du 23.11.2026"
+    "valid": "Disponible depuis 23.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "FERRERO - Ferrero Collection",
+    "qty": "359 g",
+    "price": 4.18,
+    "old": null,
+    "valid": "CHF 14.99¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "PLENTY - Papier ménage",
+    "qty": "",
+    "price": 9.49,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "I COLORI DEL SAPORE - Huile d'olive extra vierge non filtrée",
+    "qty": "750 ml",
+    "price": 9.99,
+    "old": null,
+    "valid": "(CHF 13.32/1 l)"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "OVOMALTINE - Plaques de chocolat",
+    "qty": "500 g",
+    "price": 2.39,
+    "old": null,
+    "valid": "CHF 11.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "SUPER BOCK - Bière",
+    "qty": "7,92 l",
+    "price": 2.27,
+    "old": null,
+    "valid": "CHF 17.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Produits laitiers",
+    "name": "Au rayon frais - Fromage râpé",
+    "qty": "400 g",
+    "price": 1.12,
+    "old": 4.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "SANBITTER - Boisson bitter sans alcool",
+    "qty": "",
+    "price": 5.49,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "FERRERO - Coffret cadeau Mon Chéri",
+    "qty": "283 g",
+    "price": 3.18,
+    "old": 8.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GRANDE ALBERONE - GRANDE ALBERONE La Mia Anima",
+    "qty": "750 ml",
+    "price": 8.89,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Nero d’Avola DOC",
+    "qty": "750 ml",
+    "price": 3.32,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Végan - GOURMET FINEST CUISINE",
+    "qty": "125 g",
+    "price": 1.99,
+    "old": 2.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "SIGNAL - Dentifrice, White Now",
+    "qty": "225 ml",
+    "price": 4.42,
+    "old": 9.95,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Végan - HARIBO",
+    "qty": "900 g",
+    "price": 6.66,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "CUCINA - Christmas Pasta",
+    "qty": "500 g",
+    "price": 0.4,
+    "old": 1.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "KAMBLY - Goldfish",
+    "qty": "480 g",
+    "price": 1.35,
+    "old": 6.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "SIGNAL - Brosse à dents Junior",
+    "qty": "3 Pièce",
+    "price": 1.66,
+    "old": 4.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "SIGNAL - Brosse à dents Kids",
+    "qty": "3 Pièce",
+    "price": 1.66,
+    "old": 4.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "EVIAN - Eau minérale, plate",
+    "qty": "330 ml",
+    "price": 1.39,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "SIGNAL - Dentifrice, Kids",
+    "qty": "225 ml",
+    "price": 2.22,
+    "old": 4.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "SIGNAL - Dentifrice, Junior",
+    "qty": "225 ml",
+    "price": 2.22,
+    "old": 4.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Produits laitiers",
+    "name": "LINDT - Boules Lindor lait",
+    "qty": "200 g",
+    "price": 3.48,
+    "old": 6.95,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "LINDT - Boules Lindor assorties",
+    "qty": "200 g",
+    "price": 3.48,
+    "old": 6.95,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "MOSER ROTH - Chocolats en boîte cadeau",
+    "qty": "200 g",
+    "price": 2.0,
+    "old": 3.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Produits laitiers",
+    "name": "Au rayon surgelés - Rösti Snack, Le Gruyère",
+    "qty": "270 g",
+    "price": 1.48,
+    "old": 3.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "HAPPY HARVEST - Fruits secs dans un ravier en bois",
+    "qty": "350 g",
+    "price": 1.37,
+    "old": 4.79,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "HARIBO - HARIBO Mélange de Noël",
+    "qty": "500 g",
+    "price": 0.8,
+    "old": 3.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Boissons et vins",
+    "name": "VOLVIC - VOLVIC Eau aromatisée à la pêche",
+    "qty": "",
+    "price": 1.25,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Bazar et loisirs",
+    "name": "FERRERO - Nutella chaussette de Noël",
+    "qty": "209 g",
+    "price": 4.78,
+    "old": 9.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "SURF - Lessive liquide, jasmin printanier",
+    "qty": "",
+    "price": 0.14,
+    "old": null,
+    "valid": "CHF 13.95¹"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Végan - CUCINA",
+    "qty": "500 g",
+    "price": 0.3,
+    "old": 1.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GOURMET FINEST CUISINE - Riz long grain noir",
+    "qty": "500 g",
+    "price": 0.5,
+    "old": 2.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GOURMET FINEST CUISINE - Riz long grain rouge",
+    "qty": "500 g",
+    "price": 0.5,
+    "old": 2.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "RED BULL - Sans sucre",
+    "qty": "1,5 l",
+    "price": 3.99,
+    "old": 5.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "RED BULL - Regular",
+    "qty": "1,5 l",
+    "price": 3.99,
+    "old": 5.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Viande et poisson",
+    "name": "GOURMET FINEST CUISINE - Thon, à l’huile de colza avec piment",
+    "qty": "104 g",
+    "price": 3.36,
+    "old": 3.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "GOURMET FINEST CUISINE - Thon, à l’huile de colza avec poivre noir et citron",
+    "qty": "104 g",
+    "price": 3.36,
+    "old": 3.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Viande et poisson",
+    "name": "GOURMET FINEST CUISINE - Thon, à l’huile de colza",
+    "qty": "104 g",
+    "price": 3.36,
+    "old": 3.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "Végan - MOSER ROTH",
+    "qty": "125 g",
+    "price": 1.59,
+    "old": 1.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Hygiène et maison",
+    "name": "SIGNAL - Dentifrice",
+    "qty": "400 ml",
+    "price": 1.75,
+    "old": 6.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "SIGNAL - Brosses à dents, medium",
+    "qty": "4 Pièce",
+    "price": 1.5,
+    "old": 5.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "GOURMET FINEST CUISINE - Cantuccini, pistache",
+    "qty": "",
+    "price": 2.79,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "GOURMET FINEST CUISINE - Cantuccini, chocolat et orange",
+    "qty": "",
+    "price": 2.79,
+    "old": null,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "GOURMET FINEST CUISINE - Crème de raifort, pomme",
+    "qty": "135 g",
+    "price": 1.1,
+    "old": 1.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "GOURMET FINEST CUISINE - Crème de raifort, orange",
+    "qty": "135 g",
+    "price": 1.1,
+    "old": 1.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Produits laitiers",
+    "name": "GOURMET FINEST CUISINE - Crème de raifort, canneberges",
+    "qty": "135 g",
+    "price": 1.1,
+    "old": 1.49,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "CUCINA NOBILE - Antipasti di mare, salade de fruits de mer",
+    "qty": "190 g",
+    "price": 1.57,
+    "old": 2.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Fruits et légumes",
+    "name": "CUCINA NOBILE - Antipasti di mare, fruits de mer/légumes",
+    "qty": "190 g",
+    "price": 1.57,
+    "old": 2.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "CUCINA NOBILE - Antipasti di mare, calamar géant",
+    "qty": "190 g",
+    "price": 1.57,
+    "old": 2.99,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "MARS - Mini Mars",
+    "qty": "333 g",
+    "price": 1.29,
+    "old": 4.29,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "MARS - Mini Twix",
+    "qty": "333 g",
+    "price": 1.29,
+    "old": 4.29,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Épicerie",
+    "name": "MARS - Mini Snickers",
+    "qty": "333 g",
+    "price": 1.29,
+    "old": 4.29,
+    "valid": "Disponible à partir du 30.11.2026"
+  },
+  {
+    "store": "aldi",
+    "cat": "Surgelés",
+    "name": "Au rayon surgelés - BUITONI",
+    "qty": "720 g",
+    "price": 9.89,
+    "old": null,
+    "valid": "(CHF 13.74/1 kg)"
   }
 ]

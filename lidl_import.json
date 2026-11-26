@@ -1,272 +1,839 @@
 [
   {
     "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "LUPILU - Gigoteuse 1",
-    "qty": "",
-    "price": 14.99,
-    "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Pyjama combinaison, set de 2 pour 8.99 CHF - LUPILU",
-    "qty": "",
-    "price": 8.99,
-    "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "LUPILU - Cardigan 1",
-    "qty": "",
-    "price": 6.99,
-    "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "LUPILU - Body premium 1",
-    "qty": "",
-    "price": 9.99,
-    "old": 12.99,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Bodies croisés, set de 3 pour 6.99 CHF - LUPILU",
-    "qty": "",
-    "price": 6.99,
-    "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Bodies, set de 3 pour 4.99 CHF - LUPILU",
-    "qty": "",
-    "price": 4.99,
-    "old": 5.99,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Ensemble molletonné, 2 pcs. pour 5.99 CHF - LUPILU",
+    "cat": "Épicerie",
+    "name": "Peignes de Patagonie MSC pour 5.99 CHF - DELUXE",
     "qty": "",
     "price": 5.99,
     "old": null,
-    "valid": "19.11. - 25.11."
+    "valid": "dès le 26.11."
   },
   {
     "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Set thermorégulateur, 2 pcs. pour 7.99 CHF - LUPILU",
+    "cat": "Viande et poisson",
+    "name": "Saumon fumé norvégien ASC pour 3.99 CHF - DELUXE",
     "qty": "",
-    "price": 7.99,
+    "price": 3.99,
     "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "LUPILU - Salopette 1",
-    "qty": "",
-    "price": 6.99,
-    "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Pantalons de jogging, set de 2 pour 4.99 CHF - LUPILU",
-    "qty": "",
-    "price": 4.99,
-    "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Collants thermorégulateurs, set de 2 pour 4.99 CHF - LUPILU",
-    "qty": "",
-    "price": 4.99,
-    "old": null,
-    "valid": "19.11. - 25.11."
+    "valid": "dès le 26.11."
   },
   {
     "store": "lidl",
     "cat": "Fruits et légumes",
-    "name": "Pantalon en maille pour 5.99 CHF - LUPILU",
+    "name": "Crevettes avec panure de pommes de terre pour 4.49 CHF - DELUXE",
     "qty": "",
-    "price": 5.99,
+    "price": 4.49,
     "old": null,
-    "valid": "19.11. - 25.11."
+    "valid": "dès le 26.11."
   },
   {
     "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Collants/legging de grossesse thermorégulateur(s) pour 2.99 CHF - ESMARA",
+    "cat": "Viande et poisson",
+    "name": "Jambon cru Culatello pour 5.99 CHF - DELUXE",
+    "qty": "",
+    "price": 5.99,
+    "old": 6.99,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Tête de Moine AOP pour 2.59 CHF - Tête de Moine AOP",
+    "qty": "",
+    "price": 2.59,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "DELUXE - Camembert",
+    "qty": "",
+    "price": 3.99,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "MILBONA - Nouveauté – disponible pour une durée limitée",
+    "qty": "",
+    "price": 1.99,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Parmigiano Reggiano pour 2.99 CHF - DELUXE",
     "qty": "",
     "price": 2.99,
     "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Bazar et loisirs",
-    "name": "Transat pour bébé pour 34.9 CHF - LUPILU",
-    "qty": "88,5 x 55 x 47 cm",
-    "price": 34.9,
-    "old": null,
-    "valid": "19.11. - 25.11."
+    "valid": "dès le 26.11."
   },
   {
     "store": "lidl",
     "cat": "Boissons et vins",
-    "name": "Anneau de dentition/jouet d’activité pour 4.99 CHF - FISHER-PRICE",
+    "name": "Coffret cadeau «Truffe» pour 12.99 CHF - DELUXE",
     "qty": "",
-    "price": 4.99,
+    "price": 12.99,
     "old": null,
-    "valid": "19.11. - 25.11."
+    "valid": "dès le 26.11."
   },
   {
     "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Veilleuse à LED pour 5.99 CHF - LIVARNO",
+    "cat": "Boulangerie",
+    "name": "Mini-toasts Deluxe pour 1.49 CHF - DELUXE",
     "qty": "",
-    "price": 5.99,
+    "price": 1.49,
     "old": null,
-    "valid": "19.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Fruits et légumes",
-    "name": "Set de pommeaux de douche, 2 pcs. pour 4.99 CHF - LIVARNO",
-    "qty": "",
-    "price": 4.99,
-    "old": null,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Set de douche pour 29.9 CHF - LIVARNO",
-    "qty": "",
-    "price": 29.9,
-    "old": null,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Fruits et légumes",
-    "name": "Pommeau de douche pour 3.99 CHF - LIVARNO",
-    "qty": "",
-    "price": 3.99,
-    "old": null,
-    "valid": "23.11. - 25.11."
+    "valid": "dès le 26.11."
   },
   {
     "store": "lidl",
     "cat": "Produits laitiers",
-    "name": "Raclette de douche/organiseur/distributeur de savon pour 2.99 CHF - LIVARNO",
-    "qty": "",
-    "price": 2.99,
-    "old": null,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Poubelle de salle de bain premium pour 5.99 CHF - LIVARNO",
-    "qty": "",
-    "price": 5.99,
-    "old": null,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Abattant WC Thermoplast pour 9.99 CHF - LIVARNO",
+    "name": "Fondue à la truffe pour 9.99 CHF - DELUXE",
     "qty": "",
     "price": 9.99,
     "old": null,
-    "valid": "23.11. - 25.11."
+    "valid": "dès le 26.11."
   },
   {
     "store": "lidl",
     "cat": "Épicerie",
-    "name": "Porte-serviette/garniture WC 3 en 1 pour 7.99 CHF - LIVARNO",
+    "name": "Gressins étirés pour 1.99 CHF - DELUXE",
+    "qty": "",
+    "price": 1.99,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "BORGO VENUSIO - Scrocchi",
+    "qty": "",
+    "price": 1.99,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Surgelés",
+    "name": "Glace en couches pour 3.99 CHF - GELATELLI",
+    "qty": "",
+    "price": 3.99,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Biscuits au chocolat pour 1.99 CHF - DELUXE",
+    "qty": "",
+    "price": 1.99,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Crème au chocolat à la noix de coco pour 1.99 CHF - DELUXE",
+    "qty": "",
+    "price": 1.99,
+    "old": null,
+    "valid": "dès le 26.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Couronne de crevettes ASC pour 4.39 CHF - DELUXE",
+    "qty": "",
+    "price": 4.39,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Saumon fumé norvégien pour 5.49 CHF - DELUXE",
+    "qty": "",
+    "price": 5.49,
+    "old": null,
+    "valid": "dès le 10.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Homard MSC pour 11.99 CHF - DELUXE",
+    "qty": "",
+    "price": 11.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "DELUXE - Caviar",
+    "qty": "",
+    "price": 11.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Dinde pour 34.9 CHF - DELUXE",
+    "qty": "",
+    "price": 34.9,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Oie engraissée à l’avoine pour 44.9 CHF - DELUXE",
+    "qty": "",
+    "price": 44.9,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "QUALITÉ SUISSE - Entrecôte",
+    "qty": "",
+    "price": 4.49,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "DELUXE - Salsiccia",
     "qty": "",
     "price": 7.99,
     "old": null,
-    "valid": "23.11. - 25.11."
+    "valid": ""
   },
   {
     "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Serviette de douche pour 8.99 CHF - LIVARNO",
-    "qty": "70 x 140 cm",
-    "price": 8.99,
-    "old": null,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Épicerie",
-    "name": "Serviettes, set de 2 pour 8.99 CHF - LIVARNO",
-    "qty": "50 x 100 cm chacune",
-    "price": 8.99,
-    "old": null,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Boissons et vins",
-    "name": "Rasoir rotatif pour 14.99 CHF - CIEN BEAUTY",
-    "qty": "",
-    "price": 14.99,
-    "old": 19.99,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Boissons et vins",
-    "name": "Set de pinceaux de maquillage, 14 pcs. pour 5.99 CHF - CIEN",
+    "cat": "Viande et poisson",
+    "name": "Dattes au lard pour 5.99 CHF - DELUXE",
     "qty": "",
     "price": 5.99,
     "old": null,
-    "valid": "23.11. - 25.11."
+    "valid": ""
   },
   {
     "store": "lidl",
-    "cat": "Boissons et vins",
-    "name": "Sèche-cheveux à technologie ionique pour 12.99 CHF - CIEN BEAUTY",
+    "cat": "Viande et poisson",
+    "name": "Jambon cru des Grisons pour 3.69 CHF - QUALITÉ SUISSE",
     "qty": "",
-    "price": 12.99,
+    "price": 3.69,
     "old": null,
-    "valid": "23.11. - 25.11."
-  },
-  {
-    "store": "lidl",
-    "cat": "Boissons et vins",
-    "name": "Pèse-personne pour 6.99 CHF - CIEN BEAUTY",
-    "qty": "",
-    "price": 6.99,
-    "old": null,
-    "valid": "23.11. - 25.11."
+    "valid": ""
   },
   {
     "store": "lidl",
     "cat": "Épicerie",
-    "name": "LIVARNO - Peignoir 1",
+    "name": "Petits roulés méditerranéens pour 9.99 CHF - DELUXE",
     "qty": "",
     "price": 9.99,
     "old": null,
-    "valid": "23.11. - 25.11."
+    "valid": "dès le 10.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Viande et poisson",
+    "name": "Filet de porc pour 2.89 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 2.89,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Raclette en bloc pour 1.79 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 1.79,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Raclette 1/4 de meule pour 1.09 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 1.09,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Raclette en tranches pour 6.99 CHF - DELUXE",
+    "qty": "",
+    "price": 6.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Raclette en tranches pour 5.49 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 5.49,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Raclette à la truffe en tranches pour 8.89 CHF - DELUXE",
+    "qty": "",
+    "price": 8.89,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Plateau de fromages pour 12.95 CHF - DELUXE",
+    "qty": "",
+    "price": 12.95,
+    "old": null,
+    "valid": "dès le 12.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Rosettes de Tête de Moine AOP pour 3.85 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 3.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Fondue toute prête classique pour 7.49 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 7.49,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Fondue toute prête moitié-moitié pour 11.49 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 11.49,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Fondue toute prête à la truffe pour 4.99 CHF - Fondue toute prête à la truffe",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Fondue fraîche moitié-moitié pour 9.99 CHF - QUALITÉ SUISSE",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Fondue à la Tête de Moine pour 12.99 CHF - DELUXE",
+    "qty": "",
+    "price": 12.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Mini bouchées apéritives pour 4.99 CHF - CHEF SELECT",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": "dès le 10.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Canapés en pâte feuilletée pour 2.99 CHF - DELUXE",
+    "qty": "",
+    "price": 2.99,
+    "old": null,
+    "valid": "dès le 5.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Mélange de champignons avec truffe pour 3.99 CHF - DELUXE",
+    "qty": "",
+    "price": 3.99,
+    "old": null,
+    "valid": "dès le 5.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Sauces de fête de qualité pour 1.99 CHF - DELUXE",
+    "qty": "",
+    "price": 1.99,
+    "old": null,
+    "valid": "dès le 10.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Produits laitiers",
+    "name": "Sauces pour fondue chinoise pour 1.29 CHF - Kania",
+    "qty": "",
+    "price": 1.29,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "KANIA - Fond",
+    "qty": "",
+    "price": 2.49,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Surgelés",
+    "name": "DELUXE - Glace",
+    "qty": "",
+    "price": 4.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Desserts en verrines, pack de 2 pour 2.49 CHF - DELUXE",
+    "qty": "",
+    "price": 2.49,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Boissons et vins",
+    "name": "Gâteau de fête pour 8.99 CHF - DELUXE",
+    "qty": "",
+    "price": 8.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "DELUXE - Tiramisu",
+    "qty": "",
+    "price": 3.79,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Spécialités de dessert pour 3.79 CHF - MILBONA",
+    "qty": "",
+    "price": 3.79,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Aperitivo sans alcool pour 3.99 CHF - BITTEROL",
+    "qty": "",
+    "price": 3.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Boissons et vins",
+    "name": "Vin mousseux avec feuille d’or pour 9.99 CHF - Retard de livraison partiel",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Blanc/rosé sans alcool pour 8.95 CHF - FREIXENET",
+    "qty": "",
+    "price": 8.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Tinto Pesquera Crianza pour 17.95 CHF - Tinto Pesquera Crianza",
+    "qty": "",
+    "price": 17.95,
+    "old": null,
+    "valid": "dès le 5.11."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Aspirateur sans sac pour 49.9 CHF - SILVERCREST",
+    "qty": "",
+    "price": 49.9,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Chargeur portable 20 000 mAh pour 24.9 CHF - ANKER",
+    "qty": "",
+    "price": 24.9,
+    "old": 54.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Fer à vapeur pour 14.99 CHF - TEFAL",
+    "qty": "",
+    "price": 14.99,
+    "old": 31.95,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Meuleuse d’angle sans fil 20 V pour 49.9 CHF - PARKSIDE",
+    "qty": "",
+    "price": 49.9,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Set perceuse-visseuse sans fil 20 V pour 49.9 CHF - PARKSIDE",
+    "qty": "",
+    "price": 49.9,
+    "old": 59.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Visseuse sans fil 4 V pour 9.99 CHF - PARKSIDE",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Tondeuse «HC362C» pour 19.99 CHF - REMINGTON",
+    "qty": "",
+    "price": 19.99,
+    "old": 22.95,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Brossettes «Radiant White», set de 4 pour 19.99 - ORAL-B",
+    "qty": "",
+    "price": 19.99,
+    "old": 24.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Boissons et vins",
+    "name": "Machine à café automatique «Series 800» pour 199 CHF - PHILIPS",
+    "qty": "",
+    "price": 265.52,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Set de casseroles, 10 pcs. pour 49.9 - GSW",
+    "qty": "",
+    "price": 49.9,
+    "old": 69.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Mixeur à poser «Mix’n’Go Steel» pour 19.99 CHF - RUSSELL HOBBS",
+    "qty": "",
+    "price": 19.99,
+    "old": 31.3,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Poêle wok pour 24.9 CHF - TEFAL",
+    "qty": "",
+    "price": 24.9,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "TEFAL - Tous feux dont induction",
+    "qty": "",
+    "price": 49.9,
+    "old": 59.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "TEFAL - Poêle",
+    "qty": "",
+    "price": 19.99,
+    "old": 40.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Poêle pour 24.9 CHF - TEFAL",
+    "qty": "",
+    "price": 24.9,
+    "old": 32.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Poêle pour 29.9 CHF - TEFAL",
+    "qty": "",
+    "price": 29.9,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Poêle de service pour 34.9 CHF - TEFAL",
+    "qty": "",
+    "price": 34.9,
+    "old": 45.5,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Boissons et vins",
+    "name": "Set cadeau 2 en 1 pour 14.99 CHF - BODUM",
+    "qty": "",
+    "price": 14.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Accessoire pour robot ménager pour 14.99 - SILVERCREST",
+    "qty": "",
+    "price": 14.99,
+    "old": 19.99,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Planche support pour 9.99 - SILVERCREST",
+    "qty": "",
+    "price": 9.99,
+    "old": 14.99,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Blender portable Flex pour 49.9 CHF - NUTRIBULLET",
+    "qty": "",
+    "price": 49.9,
+    "old": 59.9,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Sweat à capuche pour 16.99 CHF - UMBRO",
+    "qty": "",
+    "price": 16.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Sweat à capuche/sweat zippé pour 16.99 CHF - UMBRO",
+    "qty": "",
+    "price": 16.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Pantalon en molleton pour 16.99 CHF - UMBRO",
+    "qty": "",
+    "price": 16.99,
+    "old": 19.99,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "UMBRO - T-shirt 1",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Bonnet en maille pour 6.99 CHF - UMBRO",
+    "qty": "",
+    "price": 6.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Boxers, set de 2 pour 9.99 CHF - REEBOK",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Sac de sport pour 12.99 CHF - REEBOK",
+    "qty": "45 x 22 x 22 cm (env. 21 l)",
+    "price": 12.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "REEBOK - Serviette",
+    "qty": "60 x 130 cm",
+    "price": 9.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Cardigan en maille pour 14.99 CHF - STRENESSE BLUE",
+    "qty": "",
+    "price": 14.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "STRENESSE BLUE - T-shirt 1",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "STRENESSE BLUE - Pull 1",
+    "qty": "",
+    "price": 9.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Tenue d’intérieur en velours, 2 pcs. pour 14.99 CHF - STRENESSE BLUE",
+    "qty": "",
+    "price": 14.99,
+    "old": 17.99,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Fruits et légumes",
+    "name": "Robe en maille pour 14.99 CHF - STRENESSE BLUE",
+    "qty": "",
+    "price": 14.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Pantalon chino pour 17.99 CHF - STRENESSE BLUE",
+    "qty": "",
+    "price": 17.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "STRENESSE BLUE - Pantalon 1",
+    "qty": "",
+    "price": 17.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Épicerie",
+    "name": "Boxers, set de 2 pour 7.99 CHF - STRENESSE BLUE",
+    "qty": "",
+    "price": 7.99,
+    "old": 9.99,
+    "valid": "26.11. - 2.12."
+  },
+  {
+    "store": "lidl",
+    "cat": "Bazar et loisirs",
+    "name": "Chaussettes de tennis, set de 3 paires pour 6.99 CHF - STRENESSE BLUE",
+    "qty": "",
+    "price": 6.99,
+    "old": null,
+    "valid": "26.11. - 2.12."
   }
 ]

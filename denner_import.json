@@ -1,206 +1,35 @@
 [
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt au goût de vanille M&M’s Danone",
+    "cat": "Viande et poisson",
+    "name": "Noix de jambon Fürstenländer",
     "qty": "",
-    "price": 2.95,
+    "price": 1.59,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Epoisses AOP Fromagerie Germain",
+    "cat": "Viande et poisson",
+    "name": "Viande des Grisons Grischuna",
     "qty": "",
-    "price": 6.95,
+    "price": 6.2,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Fromage à pâte mi-dure Gallus Grand Cru Hardegger",
+    "cat": "Viande et poisson",
+    "name": "Plateau de viande pour raclette Grischuna",
     "qty": "",
-    "price": 3.6,
+    "price": 4.9,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt bifidus nature IP-SUISSE",
-    "qty": "",
-    "price": 0.6,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt bifidus nature IP-SUISSE",
-    "qty": "",
-    "price": 1.25,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt Baies des bois IP-SUISSE",
-    "qty": "",
-    "price": 0.6,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Yogourt Mangue IP-SUISSE",
-    "qty": "",
-    "price": 0.75,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt Figue IP-SUISSE",
-    "qty": "",
-    "price": 0.75,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt Miel et Noix IP-SUISSE",
-    "qty": "",
-    "price": 0.75,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Fromage à tartiner Kiri",
-    "qty": "",
-    "price": 5.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Crème de marrons L’Original MaronSui’s La Laitière Nestlé",
-    "qty": "",
-    "price": 3.3,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Fromage Le Gruyère AOP",
-    "qty": "",
-    "price": 5.7,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Double crème du Pays de Fribourg Milco",
-    "qty": "",
-    "price": 5.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Raclette Original Swiss",
-    "qty": "",
-    "price": 9.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Cremefine à cuire Rama",
-    "qty": "",
-    "price": 1.25,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Cremefine déjà fouettée Rama",
-    "qty": "",
-    "price": 2.65,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Tomme à la Crème Jean-Louis",
-    "qty": "",
-    "price": 4.4,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Strudel aux pommes Coppenrath & Wiese",
-    "qty": "",
-    "price": 4.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Mix de légumes suisses Royal Findus",
-    "qty": "",
-    "price": 5.8,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Mini spirales pâte feuilletée Filosophy",
-    "qty": "",
-    "price": 3.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Nuii Cream & Anatolian Pistachio",
-    "qty": "",
-    "price": 6.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Pizza Mozzarella Ristorante Dr. Oetker",
-    "qty": "",
-    "price": 7.9,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Surgelés",
-    "name": "Pizza Prosciutto Ristorante Dr. Oetker",
+    "cat": "Viande et poisson",
+    "name": "Jambon supérieur IP-SUISSE",
     "qty": "",
     "price": 7.9,
     "old": null,
@@ -209,25 +38,340 @@
   {
     "store": "denner",
     "cat": "Viande et poisson",
-    "name": "Filets de pangasius premium Silverstar",
+    "name": "Filet de canard Pierre Guéraçade",
     "qty": "",
-    "price": 6.2,
+    "price": 6.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Bloc de Foie Gras de Canard Pierre Guéraçague",
+    "qty": "",
+    "price": 17.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Bloc de foie gras de canard Pierre Guéraçague",
+    "qty": "",
+    "price": 10.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Foie fin de Canard Pierre Guéraçague",
+    "qty": "",
+    "price": 6.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Asia Snacks Dim Sum Selection",
+    "name": "Chorizo en chiffonnade Serrano",
     "qty": "",
-    "price": 5.95,
+    "price": 2.15,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Swiss Black Angus Salami entier IP-SUISSE",
+    "qty": "",
+    "price": 8.9,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Lasagne Bolognese Mmmh",
+    "name": "Schüblig de Tannenberg Suttero",
+    "qty": "",
+    "price": 9.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Yogourt à boire Fraise Actimel Danone",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Yogourt à boire Multifruits Actimel Danone",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Yogourt à boire Fraise-Banane Actimel Danone",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Coulommiers Cœur de Lion",
+    "qty": "",
+    "price": 4.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Yogourt Fraise Oikos Danone",
+    "qty": "",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Yogourt Fruit de la passion Oikos Danone",
+    "qty": "",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Lait drink Denner",
+    "qty": "",
+    "price": 7.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Raclette Nature Denner",
+    "qty": "",
+    "price": 1.04,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Fromage à pâte dure Emmentaler AOP",
+    "qty": "",
+    "price": 1.59,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Birchermuesli Classic Hirz",
+    "qty": "",
+    "price": 4.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Le Gruyère AOP Vieux-Fribourg Fromagerie Moléson",
+    "qty": "",
+    "price": 2.76,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Papillon Roquefort AOP",
+    "qty": "",
+    "price": 3.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Cottage Cheese Philadelphia",
+    "qty": "",
+    "price": 1.75,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Œufs suisses pour pique-nique de Noël",
+    "qty": "",
+    "price": 3.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Rama au beurre",
+    "qty": "",
+    "price": 3.7,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Fromage à pâte mi-dure Wildberger",
+    "qty": "",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Cevapcici",
+    "qty": "",
+    "price": 8.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Frites ondulées Denner",
+    "qty": "",
+    "price": 3.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Speciale Casa di Mama Dr. Oetker",
+    "qty": "",
+    "price": 8.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Caprese Forno di Pietra Buitoni",
+    "qty": "",
+    "price": 8.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Diavola Forno Di Pietra Buitoni",
+    "qty": "",
+    "price": 8.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Prosciutto e Pesto Forno di Pietra Buitoni",
+    "qty": "",
+    "price": 8.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Glace Cinnamon Magic Mövenpick",
+    "qty": "",
+    "price": 9.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Galettes de blé noir Bernard Jarnoux",
+    "qty": "",
+    "price": 4.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Asia Snacks",
+    "qty": "",
+    "price": 10.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Spätzle aux œufs Frisch & Fertig",
+    "qty": "",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Blinis Apéritif à l’aneth Labeyrie",
+    "qty": "",
+    "price": 3.75,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Crust Cheesy Sodebo",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Crust Spicy Sodebo",
+    "qty": "",
+    "price": 6.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Pesto alla Genovese Barilla",
+    "qty": "",
+    "price": 8.0,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Spaghetti N° 5 Barilla",
     "qty": "",
     "price": 4.95,
     "old": null,
@@ -236,126 +380,36 @@
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Olives vertes Bella di Cerignola Agrimonti",
+    "name": "Spaghettoni N° 7 Barilla",
+    "qty": "",
+    "price": 4.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Thon rosé Denner",
+    "qty": "",
+    "price": 6.45,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Bolets Denner",
+    "qty": "",
+    "price": 10.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Farfalle 85 tricolores Divella",
     "qty": "",
     "price": 3.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Andros Fruit Me Up!",
-    "qty": "",
-    "price": 9.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Fusilli N° 98 Barilla",
-    "qty": "",
-    "price": 7.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Crème Pâtissière Vanille Dr. Oetker",
-    "qty": "",
-    "price": 2.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Sauce Chocolat Dr. Oetker",
-    "qty": "",
-    "price": 2.65,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Flan Caramel Dr. Oetker",
-    "qty": "",
-    "price": 2.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Muffins Dr. Oetker",
-    "qty": "",
-    "price": 4.15,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Pouding Vanille Dr. Oetker",
-    "qty": "",
-    "price": 3.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Liaison pour tartes Dr. Oetker",
-    "qty": "",
-    "price": 2.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Semoule au lait Dr. Oetker",
-    "qty": "",
-    "price": 3.45,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Riz au lait Dr. Oetker",
-    "qty": "",
-    "price": 3.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tomato Ketchup Heinz",
-    "qty": "",
-    "price": 2.45,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Sauce Andalouse Heinz",
-    "qty": "",
-    "price": 4.05,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tomato Ketchup Heinz",
-    "qty": "",
-    "price": 4.2,
     "old": null,
     "valid": ""
   },
@@ -365,6 +419,60 @@
     "name": "Rösti bernois Hero",
     "qty": "",
     "price": 9.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Boissons et vins",
+    "name": "Rösti Original Hero",
+    "qty": "",
+    "price": 2.65,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Sauce Barbecue Hot Hero",
+    "qty": "",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Sauce Cocktail Hero",
+    "qty": "",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Sauce Curry Hero",
+    "qty": "",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Sauce Ail Hero",
+    "qty": "",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Sauce Tartare Hero",
+    "qty": "",
+    "price": 3.95,
     "old": null,
     "valid": ""
   },
@@ -407,115 +515,106 @@
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Sauce soja Kikkoman",
+    "name": "Kellogg’s Trésor",
     "qty": "",
-    "price": 7.8,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Mix Fondue Chinoise Knorr",
-    "qty": "",
-    "price": 9.45,
+    "price": 10.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Tortillas sans gluten Old El Paso",
+    "name": "Aromat Knorr",
     "qty": "",
-    "price": 4.75,
+    "price": 12.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Tortillas de maïs et de blé Old El Paso",
+    "name": "Sauce de rôti liée Knorr",
     "qty": "",
-    "price": 4.75,
+    "price": 15.8,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Bouillon de bœuf Knorr",
+    "qty": "",
+    "price": 9.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Bouillon de bœuf Spécial Knorr",
+    "qty": "",
+    "price": 19.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Bouillon de légumes Knorr",
+    "qty": "",
+    "price": 9.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Bouillon de légumes Knorr",
+    "qty": "",
+    "price": 11.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Bouillon de légumes Knorr",
+    "qty": "",
+    "price": 16.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Fond de légumes Knorr",
+    "qty": "",
+    "price": 19.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Mélange aux épices Taco Old El Paso",
+    "name": "Bouillon de poule Knorr",
     "qty": "",
-    "price": 1.05,
+    "price": 9.6,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Mélange aux épices pour fajitas Old El Paso",
+    "name": "Bouillon de poule Knorr",
     "qty": "",
-    "price": 1.05,
+    "price": 15.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "Sauce dip Chunky Salsa Old El Paso",
-    "qty": "",
-    "price": 3.15,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas au blé Old El Paso",
-    "qty": "",
-    "price": 3.6,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Mélange aux épices pour guacamole Old El Paso",
-    "qty": "",
-    "price": 1.0,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas complètes Wrap Old El Paso",
-    "qty": "",
-    "price": 4.45,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas au blé Wrap Old El Paso",
-    "qty": "",
-    "price": 4.35,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Gourdes Pom’Potes Materne",
-    "qty": "",
-    "price": 3.35,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Huile d'olive Extra Vierge Méditerranée Sabo",
+    "cat": "Viande et poisson",
+    "name": "Bouillon de bœuf Knorr",
     "qty": "",
     "price": 15.95,
     "old": null,
@@ -524,52 +623,25 @@
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Courge Spreewaldhof",
+    "name": "Confiture de figues Labeyrie",
     "qty": "",
-    "price": 2.95,
+    "price": 3.75,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Chou rouge Spreewaldhof",
+    "name": "Riz Siam Jasmin parfumé Le Dragon",
     "qty": "",
-    "price": 2.95,
+    "price": 8.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Mélanges d’épices gourmet Stedy",
-    "qty": "",
-    "price": 9.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Baguette Beurre à l’ail Meggle",
-    "qty": "",
-    "price": 2.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Baguette Beurre aux fines herbes Meggle",
-    "qty": "",
-    "price": 2.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Roland Petite Pause",
+    "name": "Ovomaltine Crisp Müesli Wander",
     "qty": "",
     "price": 10.95,
     "old": null,
@@ -577,362 +649,146 @@
   },
   {
     "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Pain aux raisins",
-    "qty": "",
-    "price": 2.35,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Muffins au chocolat Mum’s made",
-    "qty": "",
-    "price": 3.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Boulangerie",
-    "name": "Pain d’épeautre pur",
-    "qty": "",
-    "price": 2.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Tablette de chocolat Lait Noisettes Avelines",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Tablette de chocolat Lait Avelines",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tablette de chocolat Noir Avelines",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Branches Crunchy Caramel Cailler",
-    "qty": "",
-    "price": 16.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Branches Crémant Cailler",
-    "qty": "",
-    "price": 16.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Crémant Cailler",
-    "qty": "",
-    "price": 6.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Crunchy Caramel Cailler",
-    "qty": "",
-    "price": 6.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Dessert Cailler",
-    "qty": "",
-    "price": 6.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablettes de chocolat fourré Cailler",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Choco-Nut Cailler",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Frigor Lait Cailler",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Lait des Alpes Cailler avec Petit Beurre Kambly",
-    "qty": "",
-    "price": 6.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Pralinato Cailler",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Rayon Cailler",
-    "qty": "",
-    "price": 6.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Lait Cailler",
-    "qty": "",
-    "price": 17.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablettes de chocolat Cailler",
-    "qty": "",
-    "price": 17.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Lait Noisettes entières Cailler",
-    "qty": "",
-    "price": 17.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Branches Denner",
-    "qty": "",
-    "price": 12.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Haribo Santa’s Party Mix",
-    "qty": "",
-    "price": 9.45,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
     "cat": "Épicerie",
     "name": "Home - Actions actuelles",
-    "qty": "Italie, les 100 g",
-    "price": 4.5,
-    "old": 25.11,
+    "qty": "grillées et salées, 1 kg",
+    "price": 26.11,
+    "old": 29.11,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "20% a partir de 2 pièces sur tous les produits Cirio en emballage individuel* - * Également sur les prix promotionnels! Non cumulable avec d’autres bons et rabais spéciaux.",
-    "qty": "Italie, les 100 g",
-    "price": 3.6,
-    "old": 4.5,
+    "name": "30% sur toutes les produits Lindt* - * Également sur les prix promotionnels! Non cumulable avec d’autres bons et rabais spéciaux.",
+    "qty": "grillées et salées, 1 kg",
+    "price": 2.39,
+    "old": 2.99,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Viande et poisson",
-    "name": "SPECIAL - Viande séchée Calanda Grischuna",
-    "qty": "Porc, en tranches, 100 g",
-    "price": 4.5,
-    "old": null,
+    "name": "Filet mignon de porc Denner - Pièce entière, env. 450 g, les 100 g",
+    "qty": "",
+    "price": 2.39,
+    "old": 2.99,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "SPECIAL",
-    "qty": "",
-    "price": 4.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Séré aux fruits Danonino Danone - Fraise, Banane, Framboise, Abricot, Cerise, 12 x 50 g",
-    "qty": "",
-    "price": 3.6,
-    "old": 5.4,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Boulangerie",
-    "name": "–.80 - Pain au chocolat",
-    "qty": "70 g",
-    "price": 1.1,
-    "old": null,
+    "name": "Pistaches XXL Wonderful",
+    "qty": "grillées et salées, 1 kg",
+    "price": 14.5,
+    "old": 20.75,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "–.80",
+    "name": "½ PRIX - Bouteille: 7.40 au lieu de 14.95 *",
     "qty": "",
-    "price": 1.1,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Boulangerie",
-    "name": "Croissant au chocolat - * Uniquement en Suisse alémanique et italienne",
-    "qty": "85 g",
-    "price": 1.15,
-    "old": 1.7,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Boissons et vins",
-    "name": "Café Espresso Mövenpick - * Comparaison concurrentielle",
-    "qty": "en grains, 1 kg",
-    "price": 14.95,
-    "old": 19.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Caffè Crema Mövenpick",
-    "qty": "en grains, 1 kg",
-    "price": 14.95,
-    "old": 20.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Boissons et vins",
-    "name": "Café Le Divin Mövenpick",
-    "qty": "en grains, 1 kg",
-    "price": 14.95,
-    "old": 20.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "Filet de porc Denner - Pièce entière, env. 900 g, les 100 g",
-    "qty": "Uruguay, 2 x 220 g, les 100 g",
-    "price": 1.67,
-    "old": 2.25,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "Entrecôte de bœuf Florentino’s Prime Black Angus",
-    "qty": "Uruguay, 2 x 220 g, les 100 g",
-    "price": 3.99,
-    "old": 4.99,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "½ PRIX - Pralinés Collection Cailler",
-    "qty": "Xmas, 427 g",
-    "price": 14.95,
-    "old": 29.95,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "½ PRIX",
-    "qty": "",
-    "price": 14.95,
-    "old": 29.95,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "½ PRIX - Bouteille: 7.50 au lieu de 14.95",
-    "qty": "",
-    "price": 44.85,
+    "price": 44.4,
     "old": 89.7,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Boissons et vins",
-    "name": "½ PRIX - Eau minérale Evian",
-    "qty": "non gazeuse, 6 x 1,5 litre",
-    "price": 3.3,
+    "name": "au lieu de 30.– - Bière Original Feldschlösschen",
+    "qty": "24 x 33 cl",
+    "price": 17.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 30.–",
+    "qty": "",
+    "price": 17.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Boissons et vins",
+    "name": "Eau minérale San Pellegrino",
+    "qty": "gazeuse, 6 x 1,25 litre",
+    "price": 3.95,
     "old": 6.6,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "½ PRIX",
+    "name": "Exclusivité web ! - Bouteille: 46.95 au lieu de 58.95 *",
     "qty": "",
-    "price": 3.3,
-    "old": 6.6,
+    "price": 281.7,
+    "old": 353.7,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Bouteille: 46.95 au lieu de 58.95 *",
+    "qty": "",
+    "price": 281.7,
+    "old": 353.7,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Courge Hokkaido IP-SUISSE - le kg",
+    "qty": "6 x 1,5 litre",
+    "price": 1.95,
+    "old": 2.85,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Filet de bœuf Black Angus - Pièce entière, Uruguay/Argentine, env. 750 g, les 100 g",
+    "qty": "",
+    "price": 4.79,
+    "old": 7.7,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "½ PRIX - Bouteille: 7.90 au lieu de 15.80 *",
+    "qty": "",
+    "price": 47.4,
+    "old": 94.8,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Boissons et vins",
+    "name": "Coca-Cola Classic",
+    "qty": "6 x 1,5 litre",
+    "price": 6.95,
+    "old": 14.35,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Boissons et vins",
+    "name": "Coca-Cola Zéro",
+    "qty": "6 x 1,5 litre",
+    "price": 6.95,
+    "old": 14.35,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Boissons et vins",
+    "name": "Coca-Cola Sans Caféine",
+    "qty": "6 x 1,5 litre",
+    "price": 6.95,
+    "old": 14.35,
     "valid": ""
   },
   {
@@ -955,127 +811,64 @@
   },
   {
     "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "au lieu de 4.– - Brocolis",
-    "qty": "",
-    "price": 2.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
     "cat": "Épicerie",
-    "name": "au lieu de 4.–",
-    "qty": "",
-    "price": 2.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Dattes Medjoul",
-    "qty": "",
-    "price": 4.75,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL",
-    "qty": "",
-    "price": 4.75,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "au lieu de 3.– - Rampon Mmmh",
-    "qty": "",
-    "price": 2.25,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "au lieu de 3.–",
-    "qty": "",
-    "price": 2.25,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Salame Strafino Citterio",
-    "qty": "à grain fin, Italie, 250 g",
-    "price": 8.9,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL",
-    "qty": "",
-    "price": 8.9,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "9.– - Lard pour petit-déjeuner Denner",
-    "qty": "en tranches, Suisse, 3 x 200 g",
-    "price": 11.8,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "9.–",
-    "qty": "",
-    "price": 11.8,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Rôti impérial Denner - * Comparaison concurrentielle",
-    "qty": "Porc, à cuire, 600 g",
-    "price": 10.9,
-    "old": 15.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "Quasi d’agneau Denner - 2 pièces, Australie/Nouvelle-Zélande/Royaume-Uni/Uruguay, env. 400 g, les 100 g",
-    "qty": "",
-    "price": 2.79,
-    "old": 4.85,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "Ragoût de bœuf Denner",
-    "qty": "env. 400 g, les 100 g",
+    "name": "Noix",
+    "qty": "France, 500 g",
     "price": 1.99,
-    "old": 2.35,
+    "old": 2.95,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Poires - le kg",
+    "qty": "",
+    "price": 1.95,
+    "old": 2.95,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Tomates cerises en grappe - Provenance indiquée sur l’emballage, 500 g",
+    "qty": "",
+    "price": 2.99,
+    "old": 3.95,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Clémentines - Espagne, le kg",
+    "qty": "",
+    "price": 1.75,
+    "old": 2.3,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "au lieu de 2.– - Laitue iceberg Mmmh",
+    "qty": "",
+    "price": 1.5,
+    "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "SPECIAL - Bresaola della Valtellina I.G.P. Menatti",
-    "qty": "Italie, 2 x 80 g",
-    "price": 8.8,
+    "name": "au lieu de 2.–",
+    "qty": "",
+    "price": 1.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Asia Gourmet Crispy Shrimps",
+    "qty": "Thaïlande, 200 g",
+    "price": 4.95,
     "old": null,
     "valid": ""
   },
@@ -1084,60 +877,15 @@
     "cat": "Épicerie",
     "name": "SPECIAL",
     "qty": "",
-    "price": 8.8,
+    "price": 4.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Viande et poisson",
-    "name": "SPECIAL - Délices au poulet Mmmh",
-    "qty": "",
-    "price": 9.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL",
-    "qty": "",
-    "price": 9.5,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "Filet de pangasius Gourmet Fisheries - dans la pâte à pâtisserie, précuit, Vietnam, 500 g",
-    "qty": "",
-    "price": 6.95,
-    "old": 8.95,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "Jambon cuit Puccini Rapelli - * Comparaison concurrentielle",
-    "qty": "extra-fin, Suisse, 250 g",
-    "price": 5.1,
-    "old": 9.85,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "Jambon de la Forêt-Noire - * Comparaison concurrentielle",
-    "qty": "Pièce entière, Allemagne, 300 g",
-    "price": 5.9,
-    "old": 10.95,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Viande et poisson",
-    "name": "au lieu de 9.– - Saumon sauvage d’Alaska Ancora",
-    "qty": "en tranches, Alaska, 2 x 100 g",
+    "name": "au lieu de 9.– - Saumon fumé bio Seafood 4 You",
+    "qty": "en tranches, Norvège, 2 x 100 g",
     "price": 7.2,
     "old": null,
     "valid": ""
@@ -1153,28 +901,10 @@
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "½ PRIX - Tapas mixtes El Pozo",
-    "qty": "",
-    "price": 4.95,
-    "old": 9.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "½ PRIX",
-    "qty": "",
-    "price": 4.95,
-    "old": 9.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "SPECIAL - Fondue moitié-moitié Cremo",
-    "qty": "400 g",
-    "price": 10.95,
+    "cat": "Viande et poisson",
+    "name": "SPECIAL - Cordon-bleu de poulet Carna Gallo",
+    "qty": "5 pièces, 500 g",
+    "price": 6.95,
     "old": null,
     "valid": ""
   },
@@ -1183,61 +913,88 @@
     "cat": "Épicerie",
     "name": "SPECIAL",
     "qty": "",
-    "price": 10.95,
+    "price": 6.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt avec sauce caramel Twix Danone - * Comparaison concurrentielle",
-    "qty": "3 x 120 g",
-    "price": 2.95,
-    "old": 4.2,
+    "cat": "Viande et poisson",
+    "name": "Jambon supérieur essentiel Del Maître - * Uniquement en Suisse romande",
+    "qty": "en tranches, 2 x 130 g",
+    "price": 7.9,
+    "old": 9.9,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Yogourt au goût de vanille M&M’s Danone - * Comparaison concurrentielle",
-    "qty": "3 x 120 g",
-    "price": 2.95,
-    "old": 4.2,
+    "cat": "Viande et poisson",
+    "name": "Saucisses paysannes Denner - * Comparaison concurrentielle",
+    "qty": "aux herbes, porc, 3 x 130 g",
+    "price": 4.9,
+    "old": 9.15,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Epoisses AOP Fromagerie Germain - * Comparaison concurrentielle",
-    "qty": "affiné au Marc de Bourgogne, 250 g",
-    "price": 6.95,
-    "old": 9.95,
+    "cat": "Fruits et légumes",
+    "name": "SPECIAL - Médaillons de veau Denner",
+    "qty": "",
+    "price": 62.5,
+    "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Fromage à pâte mi-dure Gallus Grand Cru Hardegger - * Comparaison concurrentielle | Uniquement en Suisse alémanique et italienne",
-    "qty": "surchoix, 200 g",
-    "price": 3.6,
-    "old": 4.9,
+    "cat": "Épicerie",
+    "name": "SPECIAL",
+    "qty": "",
+    "price": 62.5,
+    "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Crème de marrons L’Original MaronSui’s La Laitière Nestlé - * Comparaison concurrentielle",
-    "qty": "4 x 69 g",
-    "price": 3.3,
-    "old": 4.4,
+    "cat": "Viande et poisson",
+    "name": "6.– - Filets de saumon Denner",
+    "qty": "avec peau, Norvège, 2 x 190 g",
+    "price": 8.4,
+    "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "au lieu de 8.– - Fromage Le Gruyère AOP",
-    "qty": "salé, 8 mois d'affinage, 380 g",
-    "price": 5.7,
+    "cat": "Épicerie",
+    "name": "6.–",
+    "qty": "",
+    "price": 8.4,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Schüblig Olma Denner",
+    "qty": "Porc et bœuf, 4 x 280 g",
+    "price": 9.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL",
+    "qty": "",
+    "price": 9.9,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "au lieu de 8.– - Émincé de blanc de poulet Denner",
+    "qty": "Hongrie, 2 x 250 g",
+    "price": 6.8,
     "old": null,
     "valid": ""
   },
@@ -1246,34 +1003,16 @@
     "cat": "Épicerie",
     "name": "au lieu de 8.–",
     "qty": "",
-    "price": 5.7,
+    "price": 6.8,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Double crème du Pays de Fribourg Milco - * Comparaison concurrentielle | Uniquement en Suisse romande",
-    "qty": "300 g",
-    "price": 5.95,
-    "old": 7.95,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Raclette Original Swiss - * Comparaison concurrentielle",
-    "qty": "Piment, en tranches, 2 x 300 g",
-    "price": 9.95,
-    "old": 15.8,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "SPECIAL - Strudel aux pommes Coppenrath & Wiese",
-    "qty": "600 g",
-    "price": 4.95,
+    "cat": "Épicerie",
+    "name": "SPECIAL - Escalopes de sanglier Denner",
+    "qty": "",
+    "price": 2.99,
     "old": null,
     "valid": ""
   },
@@ -1282,16 +1021,43 @@
     "cat": "Épicerie",
     "name": "SPECIAL",
     "qty": "",
-    "price": 4.95,
+    "price": 2.99,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Mini spirales pâte feuilletée Filosophy",
+    "cat": "Produits laitiers",
+    "name": "Plateau apéritif Spécialités de Gruyères - * Comparaison concurrentielle | Uniquement en Suisse romande",
+    "qty": "150 g",
+    "price": 8.95,
+    "old": 9.95,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Noix de jambon Fürstenländer - Porc, Suisse, env. 900 g, les 100 g",
     "qty": "",
-    "price": 3.95,
+    "price": 1.59,
+    "old": 2.15,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Viande des Grisons Grischuna - en tranches, en tranches, Uruguay/Paraguay, 100 g",
+    "qty": "",
+    "price": 6.2,
+    "old": 7.8,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "SPECIAL - Plateau de viande pour raclette Grischuna",
+    "qty": "en tranches, Suisse, 100 g",
+    "price": 4.9,
     "old": null,
     "valid": ""
   },
@@ -1300,16 +1066,34 @@
     "cat": "Épicerie",
     "name": "SPECIAL",
     "qty": "",
-    "price": 3.95,
+    "price": 4.9,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Viande et poisson",
-    "name": "SPECIAL - Filets de pangasius premium Silverstar",
-    "qty": "Vietnam, 900 g",
-    "price": 6.2,
+    "name": "Jambon supérieur IP-SUISSE - * Uniquement en Suisse alémanique et italienne",
+    "qty": "en tranches, 2 x 150 g",
+    "price": 7.9,
+    "old": 9.9,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "Filet de canard Pierre Guéraçade - fumé au bois de hêtre, en tranches, 90 g",
+    "qty": "",
+    "price": 6.45,
+    "old": 6.5,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "SPECIAL - Bloc de Foie Gras de Canard Pierre Guéraçague",
+    "qty": "4 parts, 150 g",
+    "price": 17.95,
     "old": null,
     "valid": ""
   },
@@ -1318,16 +1102,34 @@
     "cat": "Épicerie",
     "name": "SPECIAL",
     "qty": "",
-    "price": 6.2,
+    "price": 17.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Asia Snacks Dim Sum Selection",
-    "qty": "320 g",
-    "price": 5.95,
+    "cat": "Viande et poisson",
+    "name": "Bloc de foie gras de canard Pierre Guéraçague - * Uniquement en Suisse romande",
+    "qty": "Le Duo, 2 x 40 g",
+    "price": 10.45,
+    "old": 10.95,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "SPECIAL - Foie fin de Canard Pierre Guéraçague",
+    "qty": "2 x 35 g",
+    "price": 6.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "SPECIAL - Swiss Black Angus Salami entier IP-SUISSE",
+    "qty": "200 g",
+    "price": 8.9,
     "old": null,
     "valid": ""
   },
@@ -1336,60 +1138,321 @@
     "cat": "Épicerie",
     "name": "SPECIAL",
     "qty": "",
-    "price": 5.95,
+    "price": 8.9,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "SPECIAL - Olives vertes Bella di Cerignola Agrimonti",
-    "qty": "650 g",
-    "price": 3.95,
+    "name": "Schüblig de Tannenberg Suttero - * Comparaison concurrentielle | Uniquement en Suisse alémanique et italienne",
+    "qty": "4 x 105 g",
+    "price": 9.9,
+    "old": 16.9,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Coulommiers Cœur de Lion",
+    "qty": "Extra Crémeux, 385 g",
+    "price": 4.5,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL",
+    "qty": "",
+    "price": 4.5,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Fruits et légumes",
-    "name": "Andros Fruit Me Up! - Compotes à boire, sans sucres ajoutés, assorties, 18 pièces",
+    "name": "Yogourt Fraise Oikos Danone - * Comparaison concurrentielle",
+    "qty": "à la grecque, 4 x 115 g",
+    "price": 2.95,
+    "old": 4.15,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "Yogourt Fruit de la passion Oikos Danone - * Comparaison concurrentielle",
+    "qty": "à la grecque, 4 x 115 g",
+    "price": 2.95,
+    "old": 4.15,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Lait drink Denner - UHT, 2,5% de matière grasse, 6 x 1 litre",
     "qty": "",
-    "price": 9.95,
-    "old": 14.95,
+    "price": 7.4,
+    "old": 9.3,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Fromage à pâte dure Emmentaler AOP - Réserve, 11 mois d’affinage, env. 400 g, les 100 g",
+    "qty": "",
+    "price": 1.59,
+    "old": 2.4,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "½ PRIX - au lieu de 15.–",
-    "qty": "6 x 500 g",
-    "price": 7.5,
+    "name": "au lieu de 6.– - Birchermuesli Classic Hirz",
+    "qty": "3 x 190 g",
+    "price": 4.3,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 6.–",
+    "qty": "",
+    "price": 4.3,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Produits laitiers",
-    "name": "au lieu de 5.– - Semoule au lait Dr. Oetker",
-    "qty": "classique, 2 x 92 g",
-    "price": 3.45,
+    "name": "Le Gruyère AOP Vieux-Fribourg Fromagerie Moléson - 15 mois d’affinage, env. 225 g, les 100 g",
+    "qty": "",
+    "price": 2.76,
+    "old": 3.25,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Papillon Roquefort AOP - Affinage en caves naturelles, 100 g",
+    "qty": "",
+    "price": 3.4,
+    "old": 4.3,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Œufs suisses pour pique-nique de Noël - cuits et teints, d’élevage en plein air, 6 x 53 g+",
+    "qty": "",
+    "price": 3.6,
+    "old": 4.8,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Produits laitiers",
+    "name": "Fromage à pâte mi-dure Wildberger - * Comparaison concurrentielle | Uniquement en Suisse alémanique et italienne",
+    "qty": "oncteux et corsé, 260 g",
+    "price": 3.95,
+    "old": 5.3,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Cevapcici",
+    "qty": "",
+    "price": 8.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "au lieu de 5.–",
+    "name": "SPECIAL",
     "qty": "",
-    "price": 3.45,
+    "price": 8.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "SPECIAL - Frites ondulées Denner",
+    "qty": "à l’huile de tournesol, 750 g",
+    "price": 3.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL",
+    "qty": "",
+    "price": 3.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "au lieu de 11.– - Pizza Caprese Forno di Pietra Buitoni",
+    "qty": "2 x 350 g",
+    "price": 8.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 11.–",
+    "qty": "",
+    "price": 8.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "au lieu de 11.– - Pizza Diavola Forno Di Pietra Buitoni",
+    "qty": "2 x 350 g",
+    "price": 8.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "au lieu de 11.– - Pizza Prosciutto e Pesto Forno di Pietra Buitoni",
+    "qty": "2 x 350 g",
+    "price": 8.25,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Galettes de blé noir Bernard Jarnoux",
+    "qty": "",
+    "price": 4.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL",
+    "qty": "",
+    "price": 4.85,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 15.–* - Asia Snacks",
+    "qty": "640 g",
+    "price": 10.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 15.–*",
+    "qty": "",
+    "price": 10.95,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Produits laitiers",
-    "name": "au lieu de 5.– - Riz au lait Dr. Oetker",
-    "qty": "classique, 2 x 125 g",
+    "name": "au lieu de 5.–* - Spätzle aux œufs Frisch & Fertig",
+    "qty": "1 kg",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 5.–*",
+    "qty": "",
+    "price": 2.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Blinis Apéritif à l’aneth Labeyrie - * Comparaison concurrentielle | Uniquement en Suisse romande",
+    "qty": "pour saumon fumé, 200 g",
+    "price": 3.75,
+    "old": 6.3,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Crust Cheesy Sodebo - * Comparaison concurrentielle",
+    "qty": "4 Fromages, 580 g",
+    "price": 6.95,
+    "old": 8.9,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Surgelés",
+    "name": "Pizza Crust Spicy Sodebo - * Comparaison concurrentielle",
+    "qty": "Poivrons grillés et chorizo, 600 g",
+    "price": 6.95,
+    "old": 8.9,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "8.– - Pesto alla Genovese Barilla",
+    "qty": "3 x 190 g",
+    "price": 11.7,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "8.–",
+    "qty": "",
+    "price": 11.7,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 19.– - Bolets Denner",
+    "qty": "séchés, 150 g",
+    "price": 10.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 19.–",
+    "qty": "",
+    "price": 10.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Farfalle 85 tricolores Divella",
+    "qty": "aux tomates et épinards, 2 x 500 g",
     "price": 3.95,
     "old": null,
     "valid": ""
@@ -1397,37 +1460,10 @@
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "au lieu de 5.–",
+    "name": "SPECIAL",
     "qty": "",
     "price": 3.95,
     "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tomato Ketchup Heinz - 570 g",
-    "qty": "dès 2 pièces",
-    "price": 2.45,
-    "old": 3.1,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Sauce Andalouse Heinz - 400 ml",
-    "qty": "dès 2 pièces",
-    "price": 4.05,
-    "old": 5.1,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tomato Ketchup Heinz - 50% de sucre et de sel en moins, 500 ml",
-    "qty": "dès 2 pièces",
-    "price": 4.2,
-    "old": 5.25,
     "valid": ""
   },
   {
@@ -1437,6 +1473,60 @@
     "qty": "avec lard épicé, 3 x 500 g",
     "price": 9.95,
     "old": 14.4,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Boissons et vins",
+    "name": "Rösti Original Hero - 500 g",
+    "qty": "dès 3 pièces",
+    "price": 2.65,
+    "old": 3.8,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Sauce Barbecue Hot Hero",
+    "qty": "250 g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "SPECIAL - Sauce Cocktail Hero",
+    "qty": "250 g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Sauce Curry Hero",
+    "qty": "250 g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Fruits et légumes",
+    "name": "SPECIAL - Sauce Ail Hero",
+    "qty": "250 g",
+    "price": 3.95,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Sauce Tartare Hero",
+    "qty": "250 g",
+    "price": 3.95,
+    "old": null,
     "valid": ""
   },
   {
@@ -1469,126 +1559,117 @@
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Sauce soja Kikkoman - 1 litre",
+    "name": "Aromat Knorr - * Comparaison concurrentielle",
+    "qty": "1 kg",
+    "price": 12.95,
+    "old": 16.5,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "Sauce de rôti liée Knorr - * Comparaison concurrentielle",
+    "qty": "en granulés, 850 g",
+    "price": 15.8,
+    "old": 19.85,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Viande et poisson",
+    "name": "au lieu de 12.– - Bouillon de bœuf Knorr",
+    "qty": "Cubes, 3 x 109 g",
+    "price": 9.6,
+    "old": null,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "au lieu de 12.–",
     "qty": "",
-    "price": 7.8,
-    "old": 9.85,
+    "price": 9.6,
+    "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Mix Fondue Chinoise Knorr - * Comparaison concurrentielle",
-    "qty": "3 x 70 g",
-    "price": 9.45,
-    "old": 13.5,
+    "cat": "Viande et poisson",
+    "name": "Bouillon de bœuf Spécial Knorr - * Comparaison concurrentielle",
+    "qty": "en pâte, 850 g",
+    "price": 19.95,
+    "old": 24.95,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas sans gluten Old El Paso - 6 pièce, 216 g",
-    "qty": "dès 2 pièces",
-    "price": 4.75,
-    "old": 5.95,
+    "cat": "Fruits et légumes",
+    "name": "au lieu de 12.– - Bouillon de légumes Knorr",
+    "qty": "Cubes, 3 x 109 g",
+    "price": 9.6,
+    "old": null,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas de maïs et de blé Old El Paso - Super Soft & Flexible, 8 pièces, 335 g",
-    "qty": "dès 2 pièces",
-    "price": 4.75,
-    "old": 5.95,
+    "cat": "Fruits et légumes",
+    "name": "Bouillon de légumes Knorr - Ingrédients 100% naturels, cubes, 3 x 109 g",
+    "qty": "",
+    "price": 11.85,
+    "old": 14.85,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "Mélange aux épices Taco Old El Paso - doux, 25 g",
-    "qty": "dès 2 pièces",
-    "price": 1.05,
-    "old": 1.35,
+    "cat": "Fruits et légumes",
+    "name": "Bouillon de légumes Knorr - Ingrédients 100% naturels, en poudre, 600 g",
+    "qty": "",
+    "price": 16.95,
+    "old": 24.95,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "Mélange aux épices pour fajitas Old El Paso - doux, 30 g",
-    "qty": "dès 2 pièces",
-    "price": 1.05,
-    "old": 1.35,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Sauce dip Chunky Salsa Old El Paso - épicée, 312 g",
-    "qty": "dès 2 pièces",
-    "price": 3.15,
-    "old": 3.95,
+    "cat": "Fruits et légumes",
+    "name": "Fond de légumes Knorr - en granulés, pauvre en graisse, 850 g",
+    "qty": "",
+    "price": 19.95,
+    "old": 24.95,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "Sauce dip Chunky Salsa Old El Paso - douce, 312 g",
-    "qty": "dès 2 pièces",
-    "price": 3.15,
-    "old": 3.95,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas au blé Old El Paso - Super Soft & Flexible, 8 pièces, 326 g",
-    "qty": "dès 2 pièces",
-    "price": 3.6,
-    "old": 4.55,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "1.– - Mélange aux épices pour guacamole Old El Paso",
-    "qty": "dès 2 pièces",
-    "price": 1.3,
+    "name": "au lieu de 12.– - Bouillon de poule Knorr",
+    "qty": "Cubes, 3 x 113 g",
+    "price": 9.6,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "1.–",
-    "qty": "dès 2 pièces",
-    "price": 1.3,
-    "old": null,
+    "name": "Bouillon de poule Knorr - * Comparaison concurrentielle",
+    "qty": "en pâte, 500 g",
+    "price": 15.95,
+    "old": 19.95,
     "valid": ""
   },
   {
     "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas complètes Wrap Old El Paso - Super Soft & Flexible, 6 pièces, 350 g",
-    "qty": "dès 2 pièces",
-    "price": 4.45,
-    "old": 5.6,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "Tortillas au blé Wrap Old El Paso - Super Soft & Flexible, 6 pièces, 350 g",
-    "qty": "dès 2 pièces",
-    "price": 4.35,
-    "old": 5.45,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Huile d'olive Extra Vierge Méditerranée Sabo",
+    "cat": "Viande et poisson",
+    "name": "Bouillon de bœuf Knorr - en granulés, pauvre en graisse, 600 g",
     "qty": "",
     "price": 15.95,
+    "old": 19.95,
+    "valid": ""
+  },
+  {
+    "store": "denner",
+    "cat": "Épicerie",
+    "name": "SPECIAL - Confiture de figues Labeyrie",
+    "qty": "110 g",
+    "price": 3.75,
     "old": null,
     "valid": ""
   },
@@ -1597,170 +1678,17 @@
     "cat": "Épicerie",
     "name": "SPECIAL",
     "qty": "",
-    "price": 15.95,
+    "price": 3.75,
     "old": null,
     "valid": ""
   },
   {
     "store": "denner",
     "cat": "Épicerie",
-    "name": "SPECIAL - Courge Spreewaldhof",
-    "qty": "aigre-doux, en morceaux, 720 ml",
-    "price": 2.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL",
-    "qty": "",
-    "price": 2.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Chou rouge Spreewaldhof",
-    "qty": "prêt à servir, 720 ml",
-    "price": 2.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Mélanges d’épices gourmet Stedy",
-    "qty": "",
-    "price": 9.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Baguette Beurre à l’ail Meggle - * Comparaison concurrentielle",
-    "qty": "2 x 160 g",
-    "price": 2.5,
-    "old": 3.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Baguette Beurre aux fines herbes Meggle - * Comparaison concurrentielle",
-    "qty": "2 pièces, 2 x 160 g",
-    "price": 2.5,
-    "old": 3.9,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "Roland Petite Pause - Chocolat, Framboise, Lait, 3 x 210 g",
-    "qty": "",
-    "price": 10.95,
-    "old": 16.8,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Muffins au chocolat Mum’s made",
-    "qty": "6 pièces, 450 g",
-    "price": 3.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "SPECIAL - Tablette de chocolat Lait Noisettes Avelines",
-    "qty": "3 x 100 g",
+    "name": "SPECIAL - Riz Siam Jasmin parfumé Le Dragon",
+    "qty": "5 kg",
     "price": 8.95,
     "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL",
-    "qty": "",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Produits laitiers",
-    "name": "SPECIAL - Tablette de chocolat Lait Avelines",
-    "qty": "3 x 100 g",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "SPECIAL - Tablette de chocolat Noir Avelines",
-    "qty": "3 x 100 g",
-    "price": 8.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "au lieu de 27.– - Branches Crunchy Caramel Cailler",
-    "qty": "30 pièces, 690 g",
-    "price": 16.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Épicerie",
-    "name": "au lieu de 27.–",
-    "qty": "",
-    "price": 16.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "au lieu de 27.– - Branches Crémant Cailler",
-    "qty": "30 pièces, 690 g",
-    "price": 16.95,
-    "old": null,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablettes de chocolat fourré Cailler - * Comparaison concurrentielle",
-    "qty": "assorties, 3 x 96 g",
-    "price": 8.95,
-    "old": 11.85,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Choco-Nut Cailler - * Comparaison concurrentielle",
-    "qty": "fourrée, 3 x 96 g",
-    "price": 8.95,
-    "old": 11.85,
-    "valid": ""
-  },
-  {
-    "store": "denner",
-    "cat": "Fruits et légumes",
-    "name": "Tablette de chocolat Pralinato Cailler - * Comparaison concurrentielle",
-    "qty": "fourrée, 3 x 96 g",
-    "price": 8.95,
-    "old": 11.85,
     "valid": ""
   }
 ]
